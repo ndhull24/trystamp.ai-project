@@ -1,0 +1,7002 @@
+[
+  {
+    "payment_id": "PAY-2001",
+    "invoice_id": "INV-1001",
+    "paid_date": "2025-09-29",
+    "amount": 6891.94,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2002",
+    "invoice_id": "INV-1002",
+    "paid_date": "2025-09-18",
+    "amount": 11119.22,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2003",
+    "invoice_id": "INV-1003",
+    "paid_date": "2025-10-13",
+    "amount": 4779.1,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2004",
+    "invoice_id": "INV-1004",
+    "paid_date": "2025-09-20",
+    "amount": 3046.78,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2005",
+    "invoice_id": "INV-1005",
+    "paid_date": "2025-08-13",
+    "amount": 8321.41,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2006",
+    "invoice_id": "INV-1006",
+    "paid_date": "2025-08-09",
+    "amount": 8197.36,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2007",
+    "invoice_id": "INV-1007",
+    "paid_date": "2025-08-21",
+    "amount": 12541.85,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2008",
+    "invoice_id": "INV-1008",
+    "paid_date": "2025-09-07",
+    "amount": 12458.0,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2009",
+    "invoice_id": "INV-1009",
+    "paid_date": "2025-10-08",
+    "amount": 12194.08,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2010",
+    "invoice_id": "INV-1010",
+    "paid_date": "2025-08-15",
+    "amount": 5411.37,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2011",
+    "invoice_id": "INV-1011",
+    "paid_date": "2025-09-06",
+    "amount": 14461.95,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2012",
+    "invoice_id": "INV-1012",
+    "paid_date": "2025-09-22",
+    "amount": 14514.25,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2013",
+    "invoice_id": "INV-1013",
+    "paid_date": "2025-10-11",
+    "amount": 11001.14,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2014",
+    "invoice_id": "INV-1014",
+    "paid_date": "2025-10-14",
+    "amount": 14525.41,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2015",
+    "invoice_id": "INV-1015",
+    "paid_date": "2025-10-04",
+    "amount": 5803.74,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2016",
+    "invoice_id": "INV-1016",
+    "paid_date": "2025-08-18",
+    "amount": 701.82,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2017",
+    "invoice_id": "INV-1017",
+    "paid_date": "2025-10-28",
+    "amount": 7094.4,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2018",
+    "invoice_id": "INV-1018",
+    "paid_date": "2025-08-26",
+    "amount": 10248.94,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2019",
+    "invoice_id": "INV-1019",
+    "paid_date": "2025-09-24",
+    "amount": 12425.05,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2020",
+    "invoice_id": "INV-1020",
+    "paid_date": "2025-10-28",
+    "amount": 2071.02,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2021",
+    "invoice_id": "INV-1021",
+    "paid_date": "2025-09-18",
+    "amount": 862.86,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2022",
+    "invoice_id": "INV-1022",
+    "paid_date": "2025-09-18",
+    "amount": 8640.41,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2023",
+    "invoice_id": "INV-1023",
+    "paid_date": "2025-08-13",
+    "amount": 3709.82,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2024",
+    "invoice_id": "INV-1024",
+    "paid_date": "2025-08-25",
+    "amount": 12445.9,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2025",
+    "invoice_id": "INV-1025",
+    "paid_date": "2025-08-24",
+    "amount": 4881.76,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2026",
+    "invoice_id": "INV-1026",
+    "paid_date": "2025-10-09",
+    "amount": 2526.77,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2027",
+    "invoice_id": "INV-1027",
+    "paid_date": "2025-08-29",
+    "amount": 4913.29,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2028",
+    "invoice_id": "INV-1028",
+    "paid_date": "2025-10-12",
+    "amount": 1909.28,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2029",
+    "invoice_id": "INV-1029",
+    "paid_date": "2025-09-30",
+    "amount": 2467.13,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2030",
+    "invoice_id": "INV-1030",
+    "paid_date": "2025-10-14",
+    "amount": 10222.05,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2031",
+    "invoice_id": "INV-1031",
+    "paid_date": "2025-09-17",
+    "amount": 14216.62,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2032",
+    "invoice_id": "INV-1032",
+    "paid_date": "2025-09-17",
+    "amount": 11262.9,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2033",
+    "invoice_id": "INV-1033",
+    "paid_date": "2025-08-11",
+    "amount": 6515.83,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2034",
+    "invoice_id": "INV-1034",
+    "paid_date": "2025-10-22",
+    "amount": 7595.53,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2035",
+    "invoice_id": "INV-1035",
+    "paid_date": "2025-10-04",
+    "amount": 14297.06,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2036",
+    "invoice_id": "INV-1036",
+    "paid_date": "2025-09-11",
+    "amount": 5872.68,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2037",
+    "invoice_id": "INV-1037",
+    "paid_date": "2025-09-29",
+    "amount": 14283.05,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2038",
+    "invoice_id": "INV-1038",
+    "paid_date": "2025-09-23",
+    "amount": 1940.64,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2039",
+    "invoice_id": "INV-1039",
+    "paid_date": "2025-08-05",
+    "amount": 8394.75,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2040",
+    "invoice_id": "INV-1040",
+    "paid_date": "2025-09-24",
+    "amount": 5700.77,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2041",
+    "invoice_id": "INV-1041",
+    "paid_date": "2025-08-13",
+    "amount": 3252.22,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2042",
+    "invoice_id": "INV-1042",
+    "paid_date": "2025-10-09",
+    "amount": 12796.48,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2043",
+    "invoice_id": "INV-1043",
+    "paid_date": "2025-09-27",
+    "amount": 10110.15,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2044",
+    "invoice_id": "INV-1044",
+    "paid_date": "2025-10-04",
+    "amount": 9158.62,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2045",
+    "invoice_id": "INV-1045",
+    "paid_date": "2025-09-03",
+    "amount": 11908.52,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2046",
+    "invoice_id": "INV-1046",
+    "paid_date": "2025-08-15",
+    "amount": 2325.9,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2047",
+    "invoice_id": "INV-1047",
+    "paid_date": "2025-09-13",
+    "amount": 1494.85,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2048",
+    "invoice_id": "INV-1048",
+    "paid_date": "2025-07-26",
+    "amount": 3503.78,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2049",
+    "invoice_id": "INV-1049",
+    "paid_date": "2025-08-06",
+    "amount": 13110.58,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2050",
+    "invoice_id": "INV-1050",
+    "paid_date": "2025-08-18",
+    "amount": 2639.54,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2051",
+    "invoice_id": "INV-1051",
+    "paid_date": "2025-08-13",
+    "amount": 541.12,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2052",
+    "invoice_id": "INV-1052",
+    "paid_date": "2025-10-01",
+    "amount": 2597.98,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2053",
+    "invoice_id": "INV-1053",
+    "paid_date": "2025-08-24",
+    "amount": 4134.49,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2054",
+    "invoice_id": "INV-1054",
+    "paid_date": "2025-08-04",
+    "amount": 10085.34,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2055",
+    "invoice_id": "INV-1055",
+    "paid_date": "2025-09-22",
+    "amount": 715.47,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2056",
+    "invoice_id": "INV-1056",
+    "paid_date": "2025-09-22",
+    "amount": 3950.01,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2057",
+    "invoice_id": "INV-1057",
+    "paid_date": "2025-07-24",
+    "amount": 3026.57,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2058",
+    "invoice_id": "INV-1058",
+    "paid_date": "2025-09-16",
+    "amount": 11254.91,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2059",
+    "invoice_id": "INV-1059",
+    "paid_date": "2025-10-08",
+    "amount": 11312.15,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2060",
+    "invoice_id": "INV-1060",
+    "paid_date": "2025-08-16",
+    "amount": 11781.25,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2061",
+    "invoice_id": "INV-1061",
+    "paid_date": "2025-10-21",
+    "amount": 2081.28,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2062",
+    "invoice_id": "INV-1062",
+    "paid_date": "2025-08-27",
+    "amount": 14208.53,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2063",
+    "invoice_id": "INV-1063",
+    "paid_date": "2025-09-01",
+    "amount": 11856.79,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2064",
+    "invoice_id": "INV-1064",
+    "paid_date": "2025-10-08",
+    "amount": 8061.04,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2065",
+    "invoice_id": "INV-1065",
+    "paid_date": "2025-08-10",
+    "amount": 14478.38,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2066",
+    "invoice_id": "INV-1066",
+    "paid_date": "2025-10-16",
+    "amount": 7445.24,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2067",
+    "invoice_id": "INV-1067",
+    "paid_date": "2025-09-02",
+    "amount": 10448.41,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2068",
+    "invoice_id": "INV-1068",
+    "paid_date": "2025-08-18",
+    "amount": 13690.66,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2069",
+    "invoice_id": "INV-1069",
+    "paid_date": "2025-08-09",
+    "amount": 1671.46,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2070",
+    "invoice_id": "INV-1070",
+    "paid_date": "2025-08-14",
+    "amount": 1452.39,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2071",
+    "invoice_id": "INV-1071",
+    "paid_date": "2025-10-04",
+    "amount": 9679.61,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2072",
+    "invoice_id": "INV-1072",
+    "paid_date": "2025-10-19",
+    "amount": 5215.19,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2073",
+    "invoice_id": "INV-1073",
+    "paid_date": "2025-08-16",
+    "amount": 8193.07,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2074",
+    "invoice_id": "INV-1074",
+    "paid_date": "2025-10-09",
+    "amount": 9278.69,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2075",
+    "invoice_id": "INV-1075",
+    "paid_date": "2025-08-13",
+    "amount": 10675.8,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2076",
+    "invoice_id": "INV-1076",
+    "paid_date": "2025-09-11",
+    "amount": 9938.29,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2077",
+    "invoice_id": "INV-1077",
+    "paid_date": "2025-09-04",
+    "amount": 10952.18,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2078",
+    "invoice_id": "INV-1078",
+    "paid_date": "2025-08-03",
+    "amount": 7047.55,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2079",
+    "invoice_id": "INV-1079",
+    "paid_date": "2025-09-17",
+    "amount": 5414.51,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2080",
+    "invoice_id": "INV-1080",
+    "paid_date": "2025-10-20",
+    "amount": 6531.85,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2081",
+    "invoice_id": "INV-1081",
+    "paid_date": "2025-10-10",
+    "amount": 6688.08,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2082",
+    "invoice_id": "INV-1082",
+    "paid_date": "2025-09-18",
+    "amount": 5927.36,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2083",
+    "invoice_id": "INV-1083",
+    "paid_date": "2025-09-24",
+    "amount": 13883.28,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2084",
+    "invoice_id": "INV-1084",
+    "paid_date": "2025-08-02",
+    "amount": 12560.69,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2085",
+    "invoice_id": "INV-1085",
+    "paid_date": "2025-09-03",
+    "amount": 1900.18,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2086",
+    "invoice_id": "INV-1086",
+    "paid_date": "2025-09-05",
+    "amount": 12270.65,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2087",
+    "invoice_id": "INV-1087",
+    "paid_date": "2025-08-25",
+    "amount": 9003.74,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2088",
+    "invoice_id": "INV-1088",
+    "paid_date": "2025-08-14",
+    "amount": 5279.87,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2089",
+    "invoice_id": "INV-1089",
+    "paid_date": "2025-08-18",
+    "amount": 5627.17,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2090",
+    "invoice_id": "INV-1090",
+    "paid_date": "2025-10-09",
+    "amount": 11379.12,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2091",
+    "invoice_id": "INV-1091",
+    "paid_date": "2025-09-21",
+    "amount": 10955.38,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2092",
+    "invoice_id": "INV-1092",
+    "paid_date": "2025-10-20",
+    "amount": 9205.95,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2093",
+    "invoice_id": "INV-1093",
+    "paid_date": "2025-09-24",
+    "amount": 8879.82,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2094",
+    "invoice_id": "INV-1094",
+    "paid_date": "2025-09-12",
+    "amount": 10022.68,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2095",
+    "invoice_id": "INV-1095",
+    "paid_date": "2025-10-12",
+    "amount": 2069.17,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2096",
+    "invoice_id": "INV-1096",
+    "paid_date": "2025-08-22",
+    "amount": 5829.64,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2097",
+    "invoice_id": "INV-1097",
+    "paid_date": "2025-08-09",
+    "amount": 8824.45,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2098",
+    "invoice_id": "INV-1098",
+    "paid_date": "2025-10-22",
+    "amount": 12754.75,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2099",
+    "invoice_id": "INV-1099",
+    "paid_date": "2025-09-28",
+    "amount": 12367.19,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2100",
+    "invoice_id": "INV-1100",
+    "paid_date": "2025-10-17",
+    "amount": 9819.14,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2101",
+    "invoice_id": "INV-1101",
+    "paid_date": "2025-09-20",
+    "amount": 13971.72,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2102",
+    "invoice_id": "INV-1102",
+    "paid_date": "2025-10-22",
+    "amount": 4377.99,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2103",
+    "invoice_id": "INV-1103",
+    "paid_date": "2025-08-29",
+    "amount": 10689.13,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2104",
+    "invoice_id": "INV-1104",
+    "paid_date": "2025-08-23",
+    "amount": 5427.46,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2105",
+    "invoice_id": "INV-1105",
+    "paid_date": "2025-09-28",
+    "amount": 13113.01,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2106",
+    "invoice_id": "INV-1106",
+    "paid_date": "2025-09-17",
+    "amount": 6311.37,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2107",
+    "invoice_id": "INV-1107",
+    "paid_date": "2025-10-22",
+    "amount": 9680.99,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2108",
+    "invoice_id": "INV-1108",
+    "paid_date": "2025-08-15",
+    "amount": 11318.62,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2109",
+    "invoice_id": "INV-1109",
+    "paid_date": "2025-09-03",
+    "amount": 6587.57,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2110",
+    "invoice_id": "INV-1110",
+    "paid_date": "2025-08-20",
+    "amount": 5865.77,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2111",
+    "invoice_id": "INV-1111",
+    "paid_date": "2025-10-24",
+    "amount": 11764.12,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2112",
+    "invoice_id": "INV-1112",
+    "paid_date": "2025-10-16",
+    "amount": 1731.88,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2113",
+    "invoice_id": "INV-1113",
+    "paid_date": "2025-08-20",
+    "amount": 2782.44,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2114",
+    "invoice_id": "INV-1114",
+    "paid_date": "2025-08-13",
+    "amount": 10272.55,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2115",
+    "invoice_id": "INV-1115",
+    "paid_date": "2025-08-20",
+    "amount": 10098.11,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2116",
+    "invoice_id": "INV-1116",
+    "paid_date": "2025-10-06",
+    "amount": 6909.64,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2117",
+    "invoice_id": "INV-1117",
+    "paid_date": "2025-07-22",
+    "amount": 11446.68,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2118",
+    "invoice_id": "INV-1118",
+    "paid_date": "2025-10-13",
+    "amount": 6733.75,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2119",
+    "invoice_id": "INV-1119",
+    "paid_date": "2025-10-01",
+    "amount": 10338.05,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2120",
+    "invoice_id": "INV-1120",
+    "paid_date": "2025-09-12",
+    "amount": 10173.42,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2121",
+    "invoice_id": "INV-1121",
+    "paid_date": "2025-10-10",
+    "amount": 6231.32,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2122",
+    "invoice_id": "INV-1122",
+    "paid_date": "2025-09-23",
+    "amount": 611.46,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2123",
+    "invoice_id": "INV-1123",
+    "paid_date": "2025-08-05",
+    "amount": 3562.89,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2124",
+    "invoice_id": "INV-1124",
+    "paid_date": "2025-08-08",
+    "amount": 4205.03,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2125",
+    "invoice_id": "INV-1125",
+    "paid_date": "2025-10-05",
+    "amount": 612.08,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2126",
+    "invoice_id": "INV-1126",
+    "paid_date": "2025-09-14",
+    "amount": 3047.57,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2127",
+    "invoice_id": "INV-1127",
+    "paid_date": "2025-10-28",
+    "amount": 10703.23,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2128",
+    "invoice_id": "INV-1128",
+    "paid_date": "2025-09-22",
+    "amount": 12583.64,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2129",
+    "invoice_id": "INV-1129",
+    "paid_date": "2025-09-04",
+    "amount": 1545.09,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2130",
+    "invoice_id": "INV-1130",
+    "paid_date": "2025-09-26",
+    "amount": 1113.38,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2131",
+    "invoice_id": "INV-1131",
+    "paid_date": "2025-09-19",
+    "amount": 13856.86,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2132",
+    "invoice_id": "INV-1132",
+    "paid_date": "2025-08-04",
+    "amount": 8848.51,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2133",
+    "invoice_id": "INV-1133",
+    "paid_date": "2025-09-20",
+    "amount": 10787.73,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2134",
+    "invoice_id": "INV-1134",
+    "paid_date": "2025-08-24",
+    "amount": 2170.01,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2135",
+    "invoice_id": "INV-1135",
+    "paid_date": "2025-08-28",
+    "amount": 5209.14,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2136",
+    "invoice_id": "INV-1136",
+    "paid_date": "2025-10-05",
+    "amount": 9462.82,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2137",
+    "invoice_id": "INV-1137",
+    "paid_date": "2025-08-05",
+    "amount": 13836.66,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2138",
+    "invoice_id": "INV-1138",
+    "paid_date": "2025-09-05",
+    "amount": 12745.02,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2139",
+    "invoice_id": "INV-1139",
+    "paid_date": "2025-08-25",
+    "amount": 9038.63,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2140",
+    "invoice_id": "INV-1140",
+    "paid_date": "2025-09-07",
+    "amount": 6238.62,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2141",
+    "invoice_id": "INV-1141",
+    "paid_date": "2025-08-23",
+    "amount": 5422.94,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2142",
+    "invoice_id": "INV-1142",
+    "paid_date": "2025-09-28",
+    "amount": 2937.92,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2143",
+    "invoice_id": "INV-1143",
+    "paid_date": "2025-08-12",
+    "amount": 2153.39,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2144",
+    "invoice_id": "INV-1144",
+    "paid_date": "2025-11-02",
+    "amount": 13635.88,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2145",
+    "invoice_id": "INV-1145",
+    "paid_date": "2025-10-16",
+    "amount": 11047.0,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2146",
+    "invoice_id": "INV-1146",
+    "paid_date": "2025-10-10",
+    "amount": 12318.04,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2147",
+    "invoice_id": "INV-1147",
+    "paid_date": "2025-09-24",
+    "amount": 2623.44,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2148",
+    "invoice_id": "INV-1148",
+    "paid_date": "2025-10-03",
+    "amount": 9234.79,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2149",
+    "invoice_id": "INV-1149",
+    "paid_date": "2025-09-09",
+    "amount": 10004.88,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2150",
+    "invoice_id": "INV-1150",
+    "paid_date": "2025-09-20",
+    "amount": 11706.3,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2151",
+    "invoice_id": "INV-1151",
+    "paid_date": "2025-07-25",
+    "amount": 11439.46,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2152",
+    "invoice_id": "INV-1152",
+    "paid_date": "2025-09-08",
+    "amount": 7009.13,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2153",
+    "invoice_id": "INV-1153",
+    "paid_date": "2025-09-04",
+    "amount": 8685.13,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2154",
+    "invoice_id": "INV-1154",
+    "paid_date": "2025-08-31",
+    "amount": 9555.57,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2155",
+    "invoice_id": "INV-1155",
+    "paid_date": "2025-10-09",
+    "amount": 9594.65,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2156",
+    "invoice_id": "INV-1156",
+    "paid_date": "2025-08-08",
+    "amount": 1490.15,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2157",
+    "invoice_id": "INV-1157",
+    "paid_date": "2025-09-08",
+    "amount": 4890.9,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2158",
+    "invoice_id": "INV-1158",
+    "paid_date": "2025-09-02",
+    "amount": 1314.5,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2159",
+    "invoice_id": "INV-1159",
+    "paid_date": "2025-10-06",
+    "amount": 5000.91,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2160",
+    "invoice_id": "INV-1160",
+    "paid_date": "2025-08-08",
+    "amount": 1324.91,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2161",
+    "invoice_id": "INV-1161",
+    "paid_date": "2025-10-02",
+    "amount": 1612.6,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2162",
+    "invoice_id": "INV-1162",
+    "paid_date": "2025-08-09",
+    "amount": 12901.75,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2163",
+    "invoice_id": "INV-1163",
+    "paid_date": "2025-08-16",
+    "amount": 7852.48,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2164",
+    "invoice_id": "INV-1164",
+    "paid_date": "2025-08-28",
+    "amount": 8537.59,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2165",
+    "invoice_id": "INV-1165",
+    "paid_date": "2025-09-11",
+    "amount": 13490.21,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2166",
+    "invoice_id": "INV-1166",
+    "paid_date": "2025-10-07",
+    "amount": 12242.33,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2167",
+    "invoice_id": "INV-1167",
+    "paid_date": "2025-09-22",
+    "amount": 5162.14,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2168",
+    "invoice_id": "INV-1168",
+    "paid_date": "2025-08-14",
+    "amount": 2687.49,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2169",
+    "invoice_id": "INV-1169",
+    "paid_date": "2025-08-30",
+    "amount": 2000.78,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2170",
+    "invoice_id": "INV-1170",
+    "paid_date": "2025-10-01",
+    "amount": 5479.85,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2171",
+    "invoice_id": "INV-1171",
+    "paid_date": "2025-09-04",
+    "amount": 7815.96,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2172",
+    "invoice_id": "INV-1172",
+    "paid_date": "2025-09-08",
+    "amount": 4092.28,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2173",
+    "invoice_id": "INV-1173",
+    "paid_date": "2025-10-03",
+    "amount": 6871.62,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2174",
+    "invoice_id": "INV-1174",
+    "paid_date": "2025-09-02",
+    "amount": 2801.82,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2175",
+    "invoice_id": "INV-1175",
+    "paid_date": "2025-08-08",
+    "amount": 4601.96,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2176",
+    "invoice_id": "INV-1176",
+    "paid_date": "2025-09-19",
+    "amount": 5406.32,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2177",
+    "invoice_id": "INV-1177",
+    "paid_date": "2025-10-13",
+    "amount": 11943.79,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2178",
+    "invoice_id": "INV-1178",
+    "paid_date": "2025-09-28",
+    "amount": 1455.72,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2179",
+    "invoice_id": "INV-1179",
+    "paid_date": "2025-10-12",
+    "amount": 10336.5,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2180",
+    "invoice_id": "INV-1180",
+    "paid_date": "2025-10-08",
+    "amount": 10994.14,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2181",
+    "invoice_id": "INV-1181",
+    "paid_date": "2025-10-01",
+    "amount": 13641.97,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2182",
+    "invoice_id": "INV-1182",
+    "paid_date": "2025-09-03",
+    "amount": 5333.75,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2183",
+    "invoice_id": "INV-1183",
+    "paid_date": "2025-08-29",
+    "amount": 2550.71,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2184",
+    "invoice_id": "INV-1184",
+    "paid_date": "2025-09-13",
+    "amount": 14531.6,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2185",
+    "invoice_id": "INV-1185",
+    "paid_date": "2025-08-13",
+    "amount": 6183.39,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2186",
+    "invoice_id": "INV-1186",
+    "paid_date": "2025-10-08",
+    "amount": 14101.03,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2187",
+    "invoice_id": "INV-1187",
+    "paid_date": "2025-08-15",
+    "amount": 5961.85,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2188",
+    "invoice_id": "INV-1188",
+    "paid_date": "2025-08-30",
+    "amount": 12291.18,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2189",
+    "invoice_id": "INV-1189",
+    "paid_date": "2025-08-15",
+    "amount": 12519.91,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2190",
+    "invoice_id": "INV-1190",
+    "paid_date": "2025-09-07",
+    "amount": 10438.51,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2191",
+    "invoice_id": "INV-1191",
+    "paid_date": "2025-08-20",
+    "amount": 9867.36,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2192",
+    "invoice_id": "INV-1192",
+    "paid_date": "2025-08-06",
+    "amount": 5746.51,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2193",
+    "invoice_id": "INV-1193",
+    "paid_date": "2025-08-04",
+    "amount": 3113.81,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2194",
+    "invoice_id": "INV-1194",
+    "paid_date": "2025-09-06",
+    "amount": 14241.19,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2195",
+    "invoice_id": "INV-1195",
+    "paid_date": "2025-08-17",
+    "amount": 3784.87,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2196",
+    "invoice_id": "INV-1196",
+    "paid_date": "2025-09-01",
+    "amount": 1618.89,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2197",
+    "invoice_id": "INV-1197",
+    "paid_date": "2025-08-16",
+    "amount": 1966.54,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2198",
+    "invoice_id": "INV-1198",
+    "paid_date": "2025-10-16",
+    "amount": 12609.24,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2199",
+    "invoice_id": "INV-1199",
+    "paid_date": "2025-08-17",
+    "amount": 1047.34,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2200",
+    "invoice_id": "INV-1200",
+    "paid_date": "2025-10-03",
+    "amount": 11611.46,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2201",
+    "invoice_id": "INV-1201",
+    "paid_date": "2025-08-06",
+    "amount": 5962.44,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2202",
+    "invoice_id": "INV-1202",
+    "paid_date": "2025-09-06",
+    "amount": 12554.5,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2203",
+    "invoice_id": "INV-1203",
+    "paid_date": "2025-09-30",
+    "amount": 12231.13,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2204",
+    "invoice_id": "INV-1204",
+    "paid_date": "2025-10-03",
+    "amount": 6846.26,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2205",
+    "invoice_id": "INV-1205",
+    "paid_date": "2025-09-22",
+    "amount": 10307.26,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2206",
+    "invoice_id": "INV-1206",
+    "paid_date": "2025-10-08",
+    "amount": 6940.88,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2207",
+    "invoice_id": "INV-1207",
+    "paid_date": "2025-08-01",
+    "amount": 11353.78,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2208",
+    "invoice_id": "INV-1208",
+    "paid_date": "2025-09-22",
+    "amount": 8243.16,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2209",
+    "invoice_id": "INV-1209",
+    "paid_date": "2025-10-01",
+    "amount": 12225.05,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2210",
+    "invoice_id": "INV-1210",
+    "paid_date": "2025-08-18",
+    "amount": 12609.14,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2211",
+    "invoice_id": "INV-1211",
+    "paid_date": "2025-09-22",
+    "amount": 14233.39,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2212",
+    "invoice_id": "INV-1212",
+    "paid_date": "2025-09-25",
+    "amount": 7194.36,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2213",
+    "invoice_id": "INV-1213",
+    "paid_date": "2025-08-12",
+    "amount": 6037.15,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2214",
+    "invoice_id": "INV-1214",
+    "paid_date": "2025-08-02",
+    "amount": 14510.89,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2215",
+    "invoice_id": "INV-1215",
+    "paid_date": "2025-08-05",
+    "amount": 12118.26,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2216",
+    "invoice_id": "INV-1216",
+    "paid_date": "2025-09-11",
+    "amount": 4125.05,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2217",
+    "invoice_id": "INV-1217",
+    "paid_date": "2025-08-25",
+    "amount": 13174.7,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2218",
+    "invoice_id": "INV-1218",
+    "paid_date": "2025-09-01",
+    "amount": 1987.55,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2219",
+    "invoice_id": "INV-1219",
+    "paid_date": "2025-08-29",
+    "amount": 12841.91,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2220",
+    "invoice_id": "INV-1220",
+    "paid_date": "2025-09-30",
+    "amount": 11565.19,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2221",
+    "invoice_id": "INV-1221",
+    "paid_date": "2025-09-17",
+    "amount": 13626.94,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2222",
+    "invoice_id": "INV-1222",
+    "paid_date": "2025-10-24",
+    "amount": 6843.35,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2223",
+    "invoice_id": "INV-1223",
+    "paid_date": "2025-10-06",
+    "amount": 3719.55,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2224",
+    "invoice_id": "INV-1224",
+    "paid_date": "2025-09-30",
+    "amount": 5568.98,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2225",
+    "invoice_id": "INV-1225",
+    "paid_date": "2025-09-06",
+    "amount": 1272.22,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2226",
+    "invoice_id": "INV-1226",
+    "paid_date": "2025-10-13",
+    "amount": 3918.78,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2227",
+    "invoice_id": "INV-1227",
+    "paid_date": "2025-08-30",
+    "amount": 5936.23,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2228",
+    "invoice_id": "INV-1228",
+    "paid_date": "2025-08-29",
+    "amount": 13996.98,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2229",
+    "invoice_id": "INV-1229",
+    "paid_date": "2025-08-21",
+    "amount": 9924.43,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2230",
+    "invoice_id": "INV-1230",
+    "paid_date": "2025-08-13",
+    "amount": 2495.19,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2231",
+    "invoice_id": "INV-1231",
+    "paid_date": "2025-08-15",
+    "amount": 12531.54,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2232",
+    "invoice_id": "INV-1232",
+    "paid_date": "2025-09-16",
+    "amount": 2512.49,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2233",
+    "invoice_id": "INV-1233",
+    "paid_date": "2025-10-02",
+    "amount": 7004.72,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2234",
+    "invoice_id": "INV-1234",
+    "paid_date": "2025-09-12",
+    "amount": 1648.77,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2235",
+    "invoice_id": "INV-1235",
+    "paid_date": "2025-09-27",
+    "amount": 12606.96,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2236",
+    "invoice_id": "INV-1236",
+    "paid_date": "2025-08-21",
+    "amount": 11044.9,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2237",
+    "invoice_id": "INV-1237",
+    "paid_date": "2025-08-14",
+    "amount": 2112.21,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2238",
+    "invoice_id": "INV-1238",
+    "paid_date": "2025-09-03",
+    "amount": 4866.69,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2239",
+    "invoice_id": "INV-1239",
+    "paid_date": "2025-08-11",
+    "amount": 6587.47,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2240",
+    "invoice_id": "INV-1240",
+    "paid_date": "2025-09-15",
+    "amount": 7128.15,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2241",
+    "invoice_id": "INV-1241",
+    "paid_date": "2025-08-08",
+    "amount": 13624.63,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2242",
+    "invoice_id": "INV-1242",
+    "paid_date": "2025-09-07",
+    "amount": 738.31,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2243",
+    "invoice_id": "INV-1243",
+    "paid_date": "2025-10-16",
+    "amount": 4008.1,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2244",
+    "invoice_id": "INV-1244",
+    "paid_date": "2025-10-13",
+    "amount": 6723.96,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2245",
+    "invoice_id": "INV-1245",
+    "paid_date": "2025-10-09",
+    "amount": 3988.18,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2246",
+    "invoice_id": "INV-1246",
+    "paid_date": "2025-09-23",
+    "amount": 10133.38,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2247",
+    "invoice_id": "INV-1247",
+    "paid_date": "2025-09-21",
+    "amount": 14632.49,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2248",
+    "invoice_id": "INV-1248",
+    "paid_date": "2025-08-10",
+    "amount": 8127.86,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2249",
+    "invoice_id": "INV-1249",
+    "paid_date": "2025-08-11",
+    "amount": 14830.81,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2250",
+    "invoice_id": "INV-1250",
+    "paid_date": "2025-08-02",
+    "amount": 6161.58,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2251",
+    "invoice_id": "INV-1251",
+    "paid_date": "2025-08-14",
+    "amount": 9717.23,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2252",
+    "invoice_id": "INV-1252",
+    "paid_date": "2025-08-06",
+    "amount": 4177.93,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2253",
+    "invoice_id": "INV-1253",
+    "paid_date": "2025-10-05",
+    "amount": 11933.54,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2254",
+    "invoice_id": "INV-1254",
+    "paid_date": "2025-08-26",
+    "amount": 11127.64,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2255",
+    "invoice_id": "INV-1255",
+    "paid_date": "2025-08-09",
+    "amount": 11686.77,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2256",
+    "invoice_id": "INV-1256",
+    "paid_date": "2025-09-27",
+    "amount": 5321.52,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2257",
+    "invoice_id": "INV-1257",
+    "paid_date": "2025-08-19",
+    "amount": 8417.2,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2258",
+    "invoice_id": "INV-1258",
+    "paid_date": "2025-09-06",
+    "amount": 3038.79,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2259",
+    "invoice_id": "INV-1259",
+    "paid_date": "2025-10-15",
+    "amount": 7237.03,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2260",
+    "invoice_id": "INV-1260",
+    "paid_date": "2025-09-19",
+    "amount": 9660.17,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2261",
+    "invoice_id": "INV-1261",
+    "paid_date": "2025-09-25",
+    "amount": 1414.96,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2262",
+    "invoice_id": "INV-1262",
+    "paid_date": "2025-09-26",
+    "amount": 7136.35,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2263",
+    "invoice_id": "INV-1263",
+    "paid_date": "2025-10-14",
+    "amount": 1135.19,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2264",
+    "invoice_id": "INV-1264",
+    "paid_date": "2025-08-31",
+    "amount": 1107.64,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2265",
+    "invoice_id": "INV-1265",
+    "paid_date": "2025-08-03",
+    "amount": 7973.06,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2266",
+    "invoice_id": "INV-1266",
+    "paid_date": "2025-10-08",
+    "amount": 8373.95,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2267",
+    "invoice_id": "INV-1267",
+    "paid_date": "2025-09-20",
+    "amount": 11422.72,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2268",
+    "invoice_id": "INV-1268",
+    "paid_date": "2025-09-11",
+    "amount": 5676.13,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2269",
+    "invoice_id": "INV-1269",
+    "paid_date": "2025-08-30",
+    "amount": 13054.08,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2270",
+    "invoice_id": "INV-1270",
+    "paid_date": "2025-09-18",
+    "amount": 2304.89,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2271",
+    "invoice_id": "INV-1271",
+    "paid_date": "2025-09-20",
+    "amount": 13397.55,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2272",
+    "invoice_id": "INV-1272",
+    "paid_date": "2025-09-15",
+    "amount": 13472.24,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2273",
+    "invoice_id": "INV-1273",
+    "paid_date": "2025-08-28",
+    "amount": 14618.99,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2274",
+    "invoice_id": "INV-1274",
+    "paid_date": "2025-09-09",
+    "amount": 7714.09,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2275",
+    "invoice_id": "INV-1275",
+    "paid_date": "2025-08-01",
+    "amount": 8029.5,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2276",
+    "invoice_id": "INV-1276",
+    "paid_date": "2025-08-24",
+    "amount": 11042.68,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2277",
+    "invoice_id": "INV-1277",
+    "paid_date": "2025-09-26",
+    "amount": 9235.57,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2278",
+    "invoice_id": "INV-1278",
+    "paid_date": "2025-09-15",
+    "amount": 8409.38,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2279",
+    "invoice_id": "INV-1279",
+    "paid_date": "2025-09-02",
+    "amount": 1661.0,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2280",
+    "invoice_id": "INV-1280",
+    "paid_date": "2025-08-25",
+    "amount": 4944.19,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2281",
+    "invoice_id": "INV-1281",
+    "paid_date": "2025-08-31",
+    "amount": 6678.68,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2282",
+    "invoice_id": "INV-1282",
+    "paid_date": "2025-10-03",
+    "amount": 5597.43,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2283",
+    "invoice_id": "INV-1283",
+    "paid_date": "2025-08-13",
+    "amount": 13115.54,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2284",
+    "invoice_id": "INV-1284",
+    "paid_date": "2025-08-06",
+    "amount": 14973.18,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2285",
+    "invoice_id": "INV-1285",
+    "paid_date": "2025-10-08",
+    "amount": 14710.4,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2286",
+    "invoice_id": "INV-1286",
+    "paid_date": "2025-09-29",
+    "amount": 1588.1,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2287",
+    "invoice_id": "INV-1287",
+    "paid_date": "2025-10-05",
+    "amount": 5768.01,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2288",
+    "invoice_id": "INV-1288",
+    "paid_date": "2025-08-08",
+    "amount": 10351.45,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2289",
+    "invoice_id": "INV-1289",
+    "paid_date": "2025-07-30",
+    "amount": 2570.3,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2290",
+    "invoice_id": "INV-1290",
+    "paid_date": "2025-09-27",
+    "amount": 11829.02,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2291",
+    "invoice_id": "INV-1291",
+    "paid_date": "2025-09-02",
+    "amount": 1474.88,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2292",
+    "invoice_id": "INV-1292",
+    "paid_date": "2025-10-25",
+    "amount": 5811.76,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2293",
+    "invoice_id": "INV-1293",
+    "paid_date": "2025-09-15",
+    "amount": 8725.05,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2294",
+    "invoice_id": "INV-1294",
+    "paid_date": "2025-09-21",
+    "amount": 10346.4,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2295",
+    "invoice_id": "INV-1295",
+    "paid_date": "2025-10-26",
+    "amount": 5894.19,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2296",
+    "invoice_id": "INV-1296",
+    "paid_date": "2025-10-01",
+    "amount": 8821.87,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2297",
+    "invoice_id": "INV-1297",
+    "paid_date": "2025-09-01",
+    "amount": 6271.49,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2298",
+    "invoice_id": "INV-1298",
+    "paid_date": "2025-09-22",
+    "amount": 4119.37,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2299",
+    "invoice_id": "INV-1299",
+    "paid_date": "2025-07-27",
+    "amount": 11167.29,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2300",
+    "invoice_id": "INV-1300",
+    "paid_date": "2025-09-10",
+    "amount": 6111.32,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2301",
+    "invoice_id": "INV-1301",
+    "paid_date": "2025-10-14",
+    "amount": 4295.76,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2302",
+    "invoice_id": "INV-1302",
+    "paid_date": "2025-09-27",
+    "amount": 6970.96,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2303",
+    "invoice_id": "INV-1303",
+    "paid_date": "2025-09-14",
+    "amount": 4640.86,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2304",
+    "invoice_id": "INV-1304",
+    "paid_date": "2025-09-14",
+    "amount": 7622.4,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2305",
+    "invoice_id": "INV-1305",
+    "paid_date": "2025-10-08",
+    "amount": 12865.98,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2306",
+    "invoice_id": "INV-1306",
+    "paid_date": "2025-09-18",
+    "amount": 13530.85,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2307",
+    "invoice_id": "INV-1307",
+    "paid_date": "2025-09-27",
+    "amount": 1772.97,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2308",
+    "invoice_id": "INV-1308",
+    "paid_date": "2025-08-24",
+    "amount": 12760.06,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2309",
+    "invoice_id": "INV-1309",
+    "paid_date": "2025-09-06",
+    "amount": 5537.67,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2310",
+    "invoice_id": "INV-1310",
+    "paid_date": "2025-08-25",
+    "amount": 8361.48,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2311",
+    "invoice_id": "INV-1311",
+    "paid_date": "2025-08-08",
+    "amount": 12844.75,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2312",
+    "invoice_id": "INV-1312",
+    "paid_date": "2025-09-07",
+    "amount": 13946.2,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2313",
+    "invoice_id": "INV-1313",
+    "paid_date": "2025-10-04",
+    "amount": 12008.6,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2314",
+    "invoice_id": "INV-1314",
+    "paid_date": "2025-08-14",
+    "amount": 2259.76,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2315",
+    "invoice_id": "INV-1315",
+    "paid_date": "2025-09-27",
+    "amount": 2513.71,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2316",
+    "invoice_id": "INV-1316",
+    "paid_date": "2025-09-21",
+    "amount": 881.12,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2317",
+    "invoice_id": "INV-1317",
+    "paid_date": "2025-10-01",
+    "amount": 5849.21,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2318",
+    "invoice_id": "INV-1318",
+    "paid_date": "2025-10-15",
+    "amount": 8498.88,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2319",
+    "invoice_id": "INV-1319",
+    "paid_date": "2025-09-17",
+    "amount": 1750.12,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2320",
+    "invoice_id": "INV-1320",
+    "paid_date": "2025-10-10",
+    "amount": 14994.13,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2321",
+    "invoice_id": "INV-1321",
+    "paid_date": "2025-09-28",
+    "amount": 8122.59,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2322",
+    "invoice_id": "INV-1322",
+    "paid_date": "2025-08-06",
+    "amount": 12438.42,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2323",
+    "invoice_id": "INV-1323",
+    "paid_date": "2025-08-10",
+    "amount": 14599.51,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2324",
+    "invoice_id": "INV-1324",
+    "paid_date": "2025-10-16",
+    "amount": 7024.63,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2325",
+    "invoice_id": "INV-1325",
+    "paid_date": "2025-09-18",
+    "amount": 5495.46,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2326",
+    "invoice_id": "INV-1326",
+    "paid_date": "2025-08-22",
+    "amount": 11813.81,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2327",
+    "invoice_id": "INV-1327",
+    "paid_date": "2025-08-19",
+    "amount": 3138.47,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2328",
+    "invoice_id": "INV-1328",
+    "paid_date": "2025-08-14",
+    "amount": 6772.97,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2329",
+    "invoice_id": "INV-1329",
+    "paid_date": "2025-10-22",
+    "amount": 1303.49,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2330",
+    "invoice_id": "INV-1330",
+    "paid_date": "2025-09-01",
+    "amount": 2718.72,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2331",
+    "invoice_id": "INV-1331",
+    "paid_date": "2025-08-07",
+    "amount": 5178.58,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2332",
+    "invoice_id": "INV-1332",
+    "paid_date": "2025-07-25",
+    "amount": 5517.33,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2333",
+    "invoice_id": "INV-1333",
+    "paid_date": "2025-09-07",
+    "amount": 13476.43,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2334",
+    "invoice_id": "INV-1334",
+    "paid_date": "2025-08-01",
+    "amount": 4133.78,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2335",
+    "invoice_id": "INV-1335",
+    "paid_date": "2025-10-18",
+    "amount": 8487.2,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2336",
+    "invoice_id": "INV-1336",
+    "paid_date": "2025-09-19",
+    "amount": 4890.96,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2337",
+    "invoice_id": "INV-1337",
+    "paid_date": "2025-08-14",
+    "amount": 7787.31,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2338",
+    "invoice_id": "INV-1338",
+    "paid_date": "2025-10-19",
+    "amount": 14153.3,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2339",
+    "invoice_id": "INV-1339",
+    "paid_date": "2025-10-09",
+    "amount": 10051.63,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2340",
+    "invoice_id": "INV-1340",
+    "paid_date": "2025-08-16",
+    "amount": 9274.51,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2341",
+    "invoice_id": "INV-1341",
+    "paid_date": "2025-09-24",
+    "amount": 8672.46,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2342",
+    "invoice_id": "INV-1342",
+    "paid_date": "2025-09-03",
+    "amount": 911.42,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2343",
+    "invoice_id": "INV-1343",
+    "paid_date": "2025-09-09",
+    "amount": 9801.08,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2344",
+    "invoice_id": "INV-1344",
+    "paid_date": "2025-10-20",
+    "amount": 9941.38,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2345",
+    "invoice_id": "INV-1345",
+    "paid_date": "2025-10-27",
+    "amount": 6540.51,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2346",
+    "invoice_id": "INV-1346",
+    "paid_date": "2025-07-28",
+    "amount": 7721.55,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2347",
+    "invoice_id": "INV-1347",
+    "paid_date": "2025-08-01",
+    "amount": 4700.24,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2348",
+    "invoice_id": "INV-1348",
+    "paid_date": "2025-09-10",
+    "amount": 7502.7,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2349",
+    "invoice_id": "INV-1349",
+    "paid_date": "2025-09-16",
+    "amount": 10432.37,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2350",
+    "invoice_id": "INV-1350",
+    "paid_date": "2025-09-05",
+    "amount": 1558.11,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2351",
+    "invoice_id": "INV-1351",
+    "paid_date": "2025-10-04",
+    "amount": 6874.28,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2352",
+    "invoice_id": "INV-1352",
+    "paid_date": "2025-08-27",
+    "amount": 3458.33,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2353",
+    "invoice_id": "INV-1353",
+    "paid_date": "2025-09-06",
+    "amount": 5032.45,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2354",
+    "invoice_id": "INV-1354",
+    "paid_date": "2025-09-09",
+    "amount": 11145.9,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2355",
+    "invoice_id": "INV-1355",
+    "paid_date": "2025-09-16",
+    "amount": 14642.92,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2356",
+    "invoice_id": "INV-1356",
+    "paid_date": "2025-07-25",
+    "amount": 5872.83,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2357",
+    "invoice_id": "INV-1357",
+    "paid_date": "2025-10-21",
+    "amount": 5127.18,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2358",
+    "invoice_id": "INV-1358",
+    "paid_date": "2025-10-16",
+    "amount": 4378.34,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2359",
+    "invoice_id": "INV-1359",
+    "paid_date": "2025-10-11",
+    "amount": 1903.77,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2360",
+    "invoice_id": "INV-1360",
+    "paid_date": "2025-09-29",
+    "amount": 6070.17,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2361",
+    "invoice_id": "INV-1361",
+    "paid_date": "2025-09-25",
+    "amount": 4099.92,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2362",
+    "invoice_id": "INV-1362",
+    "paid_date": "2025-10-23",
+    "amount": 2815.65,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2363",
+    "invoice_id": "INV-1363",
+    "paid_date": "2025-09-08",
+    "amount": 8876.46,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2364",
+    "invoice_id": "INV-1364",
+    "paid_date": "2025-08-25",
+    "amount": 11565.26,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2365",
+    "invoice_id": "INV-1365",
+    "paid_date": "2025-09-14",
+    "amount": 7963.51,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2366",
+    "invoice_id": "INV-1366",
+    "paid_date": "2025-08-23",
+    "amount": 4973.84,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2367",
+    "invoice_id": "INV-1367",
+    "paid_date": "2025-08-28",
+    "amount": 14205.88,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2368",
+    "invoice_id": "INV-1368",
+    "paid_date": "2025-09-30",
+    "amount": 14516.96,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2369",
+    "invoice_id": "INV-1369",
+    "paid_date": "2025-09-27",
+    "amount": 5616.98,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2370",
+    "invoice_id": "INV-1370",
+    "paid_date": "2025-09-28",
+    "amount": 7675.97,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2371",
+    "invoice_id": "INV-1371",
+    "paid_date": "2025-10-07",
+    "amount": 9986.77,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2372",
+    "invoice_id": "INV-1372",
+    "paid_date": "2025-08-16",
+    "amount": 8282.02,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2373",
+    "invoice_id": "INV-1373",
+    "paid_date": "2025-08-06",
+    "amount": 6748.45,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2374",
+    "invoice_id": "INV-1374",
+    "paid_date": "2025-09-28",
+    "amount": 11048.87,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2375",
+    "invoice_id": "INV-1375",
+    "paid_date": "2025-10-11",
+    "amount": 5806.09,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2376",
+    "invoice_id": "INV-1376",
+    "paid_date": "2025-07-30",
+    "amount": 8769.08,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2377",
+    "invoice_id": "INV-1377",
+    "paid_date": "2025-10-07",
+    "amount": 8521.73,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2378",
+    "invoice_id": "INV-1378",
+    "paid_date": "2025-09-04",
+    "amount": 7811.71,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2379",
+    "invoice_id": "INV-1379",
+    "paid_date": "2025-09-26",
+    "amount": 4555.95,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2380",
+    "invoice_id": "INV-1380",
+    "paid_date": "2025-08-25",
+    "amount": 10365.78,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2381",
+    "invoice_id": "INV-1381",
+    "paid_date": "2025-08-31",
+    "amount": 14638.7,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2382",
+    "invoice_id": "INV-1382",
+    "paid_date": "2025-09-07",
+    "amount": 12026.01,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2383",
+    "invoice_id": "INV-1383",
+    "paid_date": "2025-09-04",
+    "amount": 14114.75,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2384",
+    "invoice_id": "INV-1384",
+    "paid_date": "2025-09-29",
+    "amount": 3386.34,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2385",
+    "invoice_id": "INV-1385",
+    "paid_date": "2025-09-15",
+    "amount": 7751.13,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2386",
+    "invoice_id": "INV-1386",
+    "paid_date": "2025-09-28",
+    "amount": 2487.03,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2387",
+    "invoice_id": "INV-1387",
+    "paid_date": "2025-09-21",
+    "amount": 7369.29,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2388",
+    "invoice_id": "INV-1388",
+    "paid_date": "2025-09-05",
+    "amount": 9290.78,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2389",
+    "invoice_id": "INV-1389",
+    "paid_date": "2025-08-04",
+    "amount": 5255.5,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2390",
+    "invoice_id": "INV-1390",
+    "paid_date": "2025-08-16",
+    "amount": 2856.28,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2391",
+    "invoice_id": "INV-1391",
+    "paid_date": "2025-09-08",
+    "amount": 11220.13,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2392",
+    "invoice_id": "INV-1392",
+    "paid_date": "2025-09-01",
+    "amount": 5377.42,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2393",
+    "invoice_id": "INV-1393",
+    "paid_date": "2025-08-03",
+    "amount": 8218.93,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2394",
+    "invoice_id": "INV-1394",
+    "paid_date": "2025-10-10",
+    "amount": 4846.96,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2395",
+    "invoice_id": "INV-1395",
+    "paid_date": "2025-09-23",
+    "amount": 5841.19,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2396",
+    "invoice_id": "INV-1396",
+    "paid_date": "2025-10-06",
+    "amount": 14708.52,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2397",
+    "invoice_id": "INV-1397",
+    "paid_date": "2025-10-15",
+    "amount": 12052.94,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2398",
+    "invoice_id": "INV-1398",
+    "paid_date": "2025-09-21",
+    "amount": 10476.63,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2399",
+    "invoice_id": "INV-1399",
+    "paid_date": "2025-08-04",
+    "amount": 7381.56,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2400",
+    "invoice_id": "INV-1400",
+    "paid_date": "2025-09-02",
+    "amount": 11852.11,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2401",
+    "invoice_id": "INV-1401",
+    "paid_date": "2025-09-03",
+    "amount": 8875.7,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2402",
+    "invoice_id": "INV-1402",
+    "paid_date": "2025-10-10",
+    "amount": 8961.09,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2403",
+    "invoice_id": "INV-1403",
+    "paid_date": "2025-08-25",
+    "amount": 9620.87,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2404",
+    "invoice_id": "INV-1404",
+    "paid_date": "2025-08-09",
+    "amount": 12696.92,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2405",
+    "invoice_id": "INV-1405",
+    "paid_date": "2025-10-21",
+    "amount": 10370.54,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2406",
+    "invoice_id": "INV-1406",
+    "paid_date": "2025-09-08",
+    "amount": 14248.97,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2407",
+    "invoice_id": "INV-1407",
+    "paid_date": "2025-09-07",
+    "amount": 774.59,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2408",
+    "invoice_id": "INV-1408",
+    "paid_date": "2025-08-27",
+    "amount": 2695.75,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2409",
+    "invoice_id": "INV-1409",
+    "paid_date": "2025-07-25",
+    "amount": 6450.47,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2410",
+    "invoice_id": "INV-1410",
+    "paid_date": "2025-09-09",
+    "amount": 13847.55,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2411",
+    "invoice_id": "INV-1411",
+    "paid_date": "2025-11-02",
+    "amount": 11169.64,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2412",
+    "invoice_id": "INV-1412",
+    "paid_date": "2025-10-27",
+    "amount": 2502.2,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2413",
+    "invoice_id": "INV-1413",
+    "paid_date": "2025-08-24",
+    "amount": 5213.22,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2414",
+    "invoice_id": "INV-1414",
+    "paid_date": "2025-09-01",
+    "amount": 8119.42,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2415",
+    "invoice_id": "INV-1415",
+    "paid_date": "2025-09-05",
+    "amount": 3011.15,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2416",
+    "invoice_id": "INV-1416",
+    "paid_date": "2025-09-27",
+    "amount": 5463.74,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2417",
+    "invoice_id": "INV-1417",
+    "paid_date": "2025-09-30",
+    "amount": 11693.85,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2418",
+    "invoice_id": "INV-1418",
+    "paid_date": "2025-10-10",
+    "amount": 9827.98,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2419",
+    "invoice_id": "INV-1419",
+    "paid_date": "2025-08-12",
+    "amount": 9346.11,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2420",
+    "invoice_id": "INV-1420",
+    "paid_date": "2025-08-13",
+    "amount": 4074.53,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2421",
+    "invoice_id": "INV-1421",
+    "paid_date": "2025-08-11",
+    "amount": 3760.57,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2422",
+    "invoice_id": "INV-1422",
+    "paid_date": "2025-08-29",
+    "amount": 4815.41,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2423",
+    "invoice_id": "INV-1423",
+    "paid_date": "2025-10-23",
+    "amount": 3505.53,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2424",
+    "invoice_id": "INV-1424",
+    "paid_date": "2025-09-18",
+    "amount": 5097.09,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2425",
+    "invoice_id": "INV-1425",
+    "paid_date": "2025-10-22",
+    "amount": 14038.66,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2426",
+    "invoice_id": "INV-1426",
+    "paid_date": "2025-09-08",
+    "amount": 4465.13,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2427",
+    "invoice_id": "INV-1427",
+    "paid_date": "2025-09-06",
+    "amount": 10311.02,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2428",
+    "invoice_id": "INV-1428",
+    "paid_date": "2025-10-15",
+    "amount": 14712.33,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2429",
+    "invoice_id": "INV-1429",
+    "paid_date": "2025-09-21",
+    "amount": 14341.83,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2430",
+    "invoice_id": "INV-1430",
+    "paid_date": "2025-10-06",
+    "amount": 4711.56,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2431",
+    "invoice_id": "INV-1431",
+    "paid_date": "2025-10-04",
+    "amount": 10855.05,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2432",
+    "invoice_id": "INV-1432",
+    "paid_date": "2025-08-21",
+    "amount": 6914.45,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2433",
+    "invoice_id": "INV-1433",
+    "paid_date": "2025-08-23",
+    "amount": 7446.65,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2434",
+    "invoice_id": "INV-1434",
+    "paid_date": "2025-09-22",
+    "amount": 8309.38,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2435",
+    "invoice_id": "INV-1435",
+    "paid_date": "2025-08-30",
+    "amount": 10594.48,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2436",
+    "invoice_id": "INV-1436",
+    "paid_date": "2025-10-12",
+    "amount": 9427.32,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2437",
+    "invoice_id": "INV-1437",
+    "paid_date": "2025-09-17",
+    "amount": 4015.64,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2438",
+    "invoice_id": "INV-1438",
+    "paid_date": "2025-09-30",
+    "amount": 8200.1,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2439",
+    "invoice_id": "INV-1439",
+    "paid_date": "2025-09-11",
+    "amount": 1261.12,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2440",
+    "invoice_id": "INV-1440",
+    "paid_date": "2025-10-17",
+    "amount": 10901.69,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2441",
+    "invoice_id": "INV-1441",
+    "paid_date": "2025-09-14",
+    "amount": 11676.11,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2442",
+    "invoice_id": "INV-1442",
+    "paid_date": "2025-09-19",
+    "amount": 8480.11,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2443",
+    "invoice_id": "INV-1443",
+    "paid_date": "2025-10-18",
+    "amount": 6400.16,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2444",
+    "invoice_id": "INV-1444",
+    "paid_date": "2025-08-05",
+    "amount": 13236.79,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2445",
+    "invoice_id": "INV-1445",
+    "paid_date": "2025-09-10",
+    "amount": 3392.11,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2446",
+    "invoice_id": "INV-1446",
+    "paid_date": "2025-10-12",
+    "amount": 5156.93,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2447",
+    "invoice_id": "INV-1447",
+    "paid_date": "2025-08-25",
+    "amount": 13665.09,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2448",
+    "invoice_id": "INV-1448",
+    "paid_date": "2025-08-08",
+    "amount": 8824.93,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2449",
+    "invoice_id": "INV-1449",
+    "paid_date": "2025-08-22",
+    "amount": 10985.21,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2450",
+    "invoice_id": "INV-1450",
+    "paid_date": "2025-10-11",
+    "amount": 13741.83,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2451",
+    "invoice_id": "INV-1451",
+    "paid_date": "2025-09-22",
+    "amount": 13292.55,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2452",
+    "invoice_id": "INV-1452",
+    "paid_date": "2025-09-13",
+    "amount": 13834.7,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2453",
+    "invoice_id": "INV-1453",
+    "paid_date": "2025-08-13",
+    "amount": 6256.42,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2454",
+    "invoice_id": "INV-1454",
+    "paid_date": "2025-10-19",
+    "amount": 14080.83,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2455",
+    "invoice_id": "INV-1455",
+    "paid_date": "2025-09-29",
+    "amount": 13927.58,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2456",
+    "invoice_id": "INV-1456",
+    "paid_date": "2025-09-17",
+    "amount": 634.37,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2457",
+    "invoice_id": "INV-1457",
+    "paid_date": "2025-08-05",
+    "amount": 2055.86,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2458",
+    "invoice_id": "INV-1458",
+    "paid_date": "2025-08-23",
+    "amount": 4626.14,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2459",
+    "invoice_id": "INV-1459",
+    "paid_date": "2025-08-08",
+    "amount": 8377.86,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2460",
+    "invoice_id": "INV-1460",
+    "paid_date": "2025-09-03",
+    "amount": 14109.13,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2461",
+    "invoice_id": "INV-1461",
+    "paid_date": "2025-08-14",
+    "amount": 7286.3,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2462",
+    "invoice_id": "INV-1462",
+    "paid_date": "2025-08-23",
+    "amount": 2133.38,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2463",
+    "invoice_id": "INV-1463",
+    "paid_date": "2025-08-10",
+    "amount": 7154.26,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2464",
+    "invoice_id": "INV-1464",
+    "paid_date": "2025-09-23",
+    "amount": 3199.89,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2465",
+    "invoice_id": "INV-1465",
+    "paid_date": "2025-08-08",
+    "amount": 11966.13,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2466",
+    "invoice_id": "INV-1466",
+    "paid_date": "2025-09-04",
+    "amount": 11480.6,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2467",
+    "invoice_id": "INV-1467",
+    "paid_date": "2025-10-04",
+    "amount": 12914.12,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2468",
+    "invoice_id": "INV-1468",
+    "paid_date": "2025-08-19",
+    "amount": 12491.35,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2469",
+    "invoice_id": "INV-1469",
+    "paid_date": "2025-09-09",
+    "amount": 1757.7,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2470",
+    "invoice_id": "INV-1470",
+    "paid_date": "2025-09-13",
+    "amount": 3179.33,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2471",
+    "invoice_id": "INV-1471",
+    "paid_date": "2025-10-30",
+    "amount": 5192.22,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2472",
+    "invoice_id": "INV-1472",
+    "paid_date": "2025-09-15",
+    "amount": 4281.39,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2473",
+    "invoice_id": "INV-1473",
+    "paid_date": "2025-09-22",
+    "amount": 11429.47,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2474",
+    "invoice_id": "INV-1474",
+    "paid_date": "2025-08-31",
+    "amount": 4878.21,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2475",
+    "invoice_id": "INV-1475",
+    "paid_date": "2025-09-27",
+    "amount": 665.82,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2476",
+    "invoice_id": "INV-1476",
+    "paid_date": "2025-08-12",
+    "amount": 10545.14,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2477",
+    "invoice_id": "INV-1477",
+    "paid_date": "2025-10-15",
+    "amount": 2214.26,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2478",
+    "invoice_id": "INV-1478",
+    "paid_date": "2025-08-09",
+    "amount": 6378.54,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2479",
+    "invoice_id": "INV-1479",
+    "paid_date": "2025-08-24",
+    "amount": 13479.22,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2480",
+    "invoice_id": "INV-1480",
+    "paid_date": "2025-08-29",
+    "amount": 5009.18,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2481",
+    "invoice_id": "INV-1481",
+    "paid_date": "2025-09-11",
+    "amount": 13783.89,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2482",
+    "invoice_id": "INV-1482",
+    "paid_date": "2025-09-20",
+    "amount": 9412.07,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2483",
+    "invoice_id": "INV-1483",
+    "paid_date": "2025-09-25",
+    "amount": 2436.75,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2484",
+    "invoice_id": "INV-1484",
+    "paid_date": "2025-08-20",
+    "amount": 11342.16,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2485",
+    "invoice_id": "INV-1485",
+    "paid_date": "2025-09-13",
+    "amount": 6529.76,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2486",
+    "invoice_id": "INV-1486",
+    "paid_date": "2025-09-21",
+    "amount": 7327.01,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2487",
+    "invoice_id": "INV-1487",
+    "paid_date": "2025-09-15",
+    "amount": 10129.37,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2488",
+    "invoice_id": "INV-1488",
+    "paid_date": "2025-08-29",
+    "amount": 4088.25,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2489",
+    "invoice_id": "INV-1489",
+    "paid_date": "2025-09-17",
+    "amount": 13160.46,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2490",
+    "invoice_id": "INV-1490",
+    "paid_date": "2025-08-27",
+    "amount": 6977.85,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2491",
+    "invoice_id": "INV-1491",
+    "paid_date": "2025-08-18",
+    "amount": 1632.49,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2492",
+    "invoice_id": "INV-1492",
+    "paid_date": "2025-10-02",
+    "amount": 1395.49,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2493",
+    "invoice_id": "INV-1493",
+    "paid_date": "2025-10-16",
+    "amount": 7829.56,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2494",
+    "invoice_id": "INV-1494",
+    "paid_date": "2025-08-01",
+    "amount": 2672.86,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2495",
+    "invoice_id": "INV-1495",
+    "paid_date": "2025-08-31",
+    "amount": 8044.95,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2496",
+    "invoice_id": "INV-1496",
+    "paid_date": "2025-08-10",
+    "amount": 3478.32,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2497",
+    "invoice_id": "INV-1497",
+    "paid_date": "2025-08-31",
+    "amount": 1818.65,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2498",
+    "invoice_id": "INV-1498",
+    "paid_date": "2025-07-25",
+    "amount": 12226.04,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2499",
+    "invoice_id": "INV-1499",
+    "paid_date": "2025-08-28",
+    "amount": 7942.09,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2500",
+    "invoice_id": "INV-1500",
+    "paid_date": "2025-10-01",
+    "amount": 1337.18,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2501",
+    "invoice_id": "INV-1501",
+    "paid_date": "2025-10-22",
+    "amount": 12200.27,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2502",
+    "invoice_id": "INV-1502",
+    "paid_date": "2025-08-26",
+    "amount": 6241.26,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2503",
+    "invoice_id": "INV-1503",
+    "paid_date": "2025-09-02",
+    "amount": 11314.17,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2504",
+    "invoice_id": "INV-1504",
+    "paid_date": "2025-09-26",
+    "amount": 1156.7,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2505",
+    "invoice_id": "INV-1505",
+    "paid_date": "2025-08-15",
+    "amount": 1424.52,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2506",
+    "invoice_id": "INV-1506",
+    "paid_date": "2025-10-06",
+    "amount": 14051.45,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2507",
+    "invoice_id": "INV-1507",
+    "paid_date": "2025-08-29",
+    "amount": 14039.75,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2508",
+    "invoice_id": "INV-1508",
+    "paid_date": "2025-08-26",
+    "amount": 6428.57,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2509",
+    "invoice_id": "INV-1509",
+    "paid_date": "2025-10-04",
+    "amount": 11604.5,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2510",
+    "invoice_id": "INV-1510",
+    "paid_date": "2025-09-17",
+    "amount": 9865.27,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2511",
+    "invoice_id": "INV-1511",
+    "paid_date": "2025-10-02",
+    "amount": 14896.42,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2512",
+    "invoice_id": "INV-1512",
+    "paid_date": "2025-07-30",
+    "amount": 13109.49,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2513",
+    "invoice_id": "INV-1513",
+    "paid_date": "2025-10-14",
+    "amount": 5946.86,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2514",
+    "invoice_id": "INV-1514",
+    "paid_date": "2025-10-17",
+    "amount": 10095.99,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2515",
+    "invoice_id": "INV-1515",
+    "paid_date": "2025-09-29",
+    "amount": 9976.24,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2516",
+    "invoice_id": "INV-1516",
+    "paid_date": "2025-08-09",
+    "amount": 3087.87,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2517",
+    "invoice_id": "INV-1517",
+    "paid_date": "2025-09-28",
+    "amount": 8168.22,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2518",
+    "invoice_id": "INV-1518",
+    "paid_date": "2025-08-11",
+    "amount": 3729.01,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2519",
+    "invoice_id": "INV-1519",
+    "paid_date": "2025-10-08",
+    "amount": 829.66,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2520",
+    "invoice_id": "INV-1520",
+    "paid_date": "2025-08-28",
+    "amount": 10265.75,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2521",
+    "invoice_id": "INV-1521",
+    "paid_date": "2025-10-04",
+    "amount": 8213.04,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2522",
+    "invoice_id": "INV-1522",
+    "paid_date": "2025-10-12",
+    "amount": 4088.92,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2523",
+    "invoice_id": "INV-1523",
+    "paid_date": "2025-07-27",
+    "amount": 4496.92,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2524",
+    "invoice_id": "INV-1524",
+    "paid_date": "2025-09-02",
+    "amount": 11012.85,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2525",
+    "invoice_id": "INV-1525",
+    "paid_date": "2025-09-04",
+    "amount": 12237.43,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2526",
+    "invoice_id": "INV-1526",
+    "paid_date": "2025-10-09",
+    "amount": 11607.78,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2527",
+    "invoice_id": "INV-1527",
+    "paid_date": "2025-10-29",
+    "amount": 726.86,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2528",
+    "invoice_id": "INV-1528",
+    "paid_date": "2025-08-24",
+    "amount": 1963.0,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2529",
+    "invoice_id": "INV-1529",
+    "paid_date": "2025-10-15",
+    "amount": 9167.88,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2530",
+    "invoice_id": "INV-1530",
+    "paid_date": "2025-10-17",
+    "amount": 1205.81,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2531",
+    "invoice_id": "INV-1531",
+    "paid_date": "2025-10-13",
+    "amount": 6332.85,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2532",
+    "invoice_id": "INV-1532",
+    "paid_date": "2025-09-09",
+    "amount": 3650.4,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2533",
+    "invoice_id": "INV-1533",
+    "paid_date": "2025-09-17",
+    "amount": 1318.44,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2534",
+    "invoice_id": "INV-1534",
+    "paid_date": "2025-09-13",
+    "amount": 4694.32,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2535",
+    "invoice_id": "INV-1535",
+    "paid_date": "2025-09-13",
+    "amount": 11107.0,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2536",
+    "invoice_id": "INV-1536",
+    "paid_date": "2025-09-16",
+    "amount": 9169.81,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2537",
+    "invoice_id": "INV-1537",
+    "paid_date": "2025-09-06",
+    "amount": 5149.64,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2538",
+    "invoice_id": "INV-1538",
+    "paid_date": "2025-08-20",
+    "amount": 2577.28,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2539",
+    "invoice_id": "INV-1539",
+    "paid_date": "2025-09-29",
+    "amount": 3705.12,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2540",
+    "invoice_id": "INV-1540",
+    "paid_date": "2025-09-04",
+    "amount": 1383.89,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2541",
+    "invoice_id": "INV-1541",
+    "paid_date": "2025-09-24",
+    "amount": 13255.85,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2542",
+    "invoice_id": "INV-1542",
+    "paid_date": "2025-09-13",
+    "amount": 9576.9,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2543",
+    "invoice_id": "INV-1543",
+    "paid_date": "2025-10-10",
+    "amount": 7686.5,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2544",
+    "invoice_id": "INV-1544",
+    "paid_date": "2025-09-03",
+    "amount": 14153.0,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2545",
+    "invoice_id": "INV-1545",
+    "paid_date": "2025-10-09",
+    "amount": 11894.17,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2546",
+    "invoice_id": "INV-1546",
+    "paid_date": "2025-08-08",
+    "amount": 6536.71,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2547",
+    "invoice_id": "INV-1547",
+    "paid_date": "2025-07-29",
+    "amount": 5958.67,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2548",
+    "invoice_id": "INV-1548",
+    "paid_date": "2025-09-09",
+    "amount": 7366.02,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2549",
+    "invoice_id": "INV-1549",
+    "paid_date": "2025-10-18",
+    "amount": 4860.68,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2550",
+    "invoice_id": "INV-1550",
+    "paid_date": "2025-09-01",
+    "amount": 12183.75,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2551",
+    "invoice_id": "INV-1551",
+    "paid_date": "2025-09-14",
+    "amount": 8654.6,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2552",
+    "invoice_id": "INV-1552",
+    "paid_date": "2025-10-05",
+    "amount": 8580.66,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2553",
+    "invoice_id": "INV-1553",
+    "paid_date": "2025-10-05",
+    "amount": 4021.45,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2554",
+    "invoice_id": "INV-1554",
+    "paid_date": "2025-10-11",
+    "amount": 9877.23,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2555",
+    "invoice_id": "INV-1555",
+    "paid_date": "2025-08-24",
+    "amount": 12783.43,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2556",
+    "invoice_id": "INV-1556",
+    "paid_date": "2025-09-07",
+    "amount": 11006.48,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2557",
+    "invoice_id": "INV-1557",
+    "paid_date": "2025-10-07",
+    "amount": 4392.69,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2558",
+    "invoice_id": "INV-1558",
+    "paid_date": "2025-08-16",
+    "amount": 9242.37,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2559",
+    "invoice_id": "INV-1559",
+    "paid_date": "2025-09-14",
+    "amount": 3228.37,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2560",
+    "invoice_id": "INV-1560",
+    "paid_date": "2025-08-17",
+    "amount": 11002.43,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2561",
+    "invoice_id": "INV-1561",
+    "paid_date": "2025-09-03",
+    "amount": 7451.22,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2562",
+    "invoice_id": "INV-1562",
+    "paid_date": "2025-08-29",
+    "amount": 5327.98,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2563",
+    "invoice_id": "INV-1563",
+    "paid_date": "2025-10-01",
+    "amount": 722.34,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2564",
+    "invoice_id": "INV-1564",
+    "paid_date": "2025-08-22",
+    "amount": 14450.12,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2565",
+    "invoice_id": "INV-1565",
+    "paid_date": "2025-09-08",
+    "amount": 14993.79,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2566",
+    "invoice_id": "INV-1566",
+    "paid_date": "2025-08-21",
+    "amount": 4017.6,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2567",
+    "invoice_id": "INV-1567",
+    "paid_date": "2025-10-16",
+    "amount": 3465.44,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2568",
+    "invoice_id": "INV-1568",
+    "paid_date": "2025-10-05",
+    "amount": 8505.15,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2569",
+    "invoice_id": "INV-1569",
+    "paid_date": "2025-10-14",
+    "amount": 6019.6,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2570",
+    "invoice_id": "INV-1570",
+    "paid_date": "2025-09-08",
+    "amount": 5709.26,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2571",
+    "invoice_id": "INV-1571",
+    "paid_date": "2025-09-01",
+    "amount": 7935.84,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2572",
+    "invoice_id": "INV-1572",
+    "paid_date": "2025-08-21",
+    "amount": 1929.82,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2573",
+    "invoice_id": "INV-1573",
+    "paid_date": "2025-09-28",
+    "amount": 7307.61,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2574",
+    "invoice_id": "INV-1574",
+    "paid_date": "2025-10-27",
+    "amount": 13757.79,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2575",
+    "invoice_id": "INV-1575",
+    "paid_date": "2025-08-19",
+    "amount": 6501.99,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2576",
+    "invoice_id": "INV-1576",
+    "paid_date": "2025-08-09",
+    "amount": 3708.47,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2577",
+    "invoice_id": "INV-1577",
+    "paid_date": "2025-10-28",
+    "amount": 4281.22,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2578",
+    "invoice_id": "INV-1578",
+    "paid_date": "2025-10-11",
+    "amount": 8897.57,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2579",
+    "invoice_id": "INV-1579",
+    "paid_date": "2025-10-30",
+    "amount": 2709.97,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2580",
+    "invoice_id": "INV-1580",
+    "paid_date": "2025-09-20",
+    "amount": 6007.68,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2581",
+    "invoice_id": "INV-1581",
+    "paid_date": "2025-08-30",
+    "amount": 7739.87,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2582",
+    "invoice_id": "INV-1582",
+    "paid_date": "2025-10-01",
+    "amount": 10430.28,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2583",
+    "invoice_id": "INV-1583",
+    "paid_date": "2025-08-29",
+    "amount": 12413.08,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2584",
+    "invoice_id": "INV-1584",
+    "paid_date": "2025-09-30",
+    "amount": 9804.57,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2585",
+    "invoice_id": "INV-1585",
+    "paid_date": "2025-08-11",
+    "amount": 2939.39,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2586",
+    "invoice_id": "INV-1586",
+    "paid_date": "2025-10-09",
+    "amount": 2954.35,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2587",
+    "invoice_id": "INV-1587",
+    "paid_date": "2025-08-14",
+    "amount": 7580.59,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2588",
+    "invoice_id": "INV-1588",
+    "paid_date": "2025-09-23",
+    "amount": 8360.98,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2589",
+    "invoice_id": "INV-1589",
+    "paid_date": "2025-09-17",
+    "amount": 1351.61,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2590",
+    "invoice_id": "INV-1590",
+    "paid_date": "2025-08-19",
+    "amount": 12777.11,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2591",
+    "invoice_id": "INV-1591",
+    "paid_date": "2025-09-03",
+    "amount": 10189.13,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2592",
+    "invoice_id": "INV-1592",
+    "paid_date": "2025-09-08",
+    "amount": 6479.69,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2593",
+    "invoice_id": "INV-1593",
+    "paid_date": "2025-09-23",
+    "amount": 3855.78,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2594",
+    "invoice_id": "INV-1594",
+    "paid_date": "2025-09-13",
+    "amount": 632.55,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2595",
+    "invoice_id": "INV-1595",
+    "paid_date": "2025-10-02",
+    "amount": 5911.41,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2596",
+    "invoice_id": "INV-1596",
+    "paid_date": "2025-08-03",
+    "amount": 10167.94,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2597",
+    "invoice_id": "INV-1597",
+    "paid_date": "2025-09-22",
+    "amount": 7506.46,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2598",
+    "invoice_id": "INV-1598",
+    "paid_date": "2025-10-13",
+    "amount": 595.88,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2599",
+    "invoice_id": "INV-1599",
+    "paid_date": "2025-10-09",
+    "amount": 671.84,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2600",
+    "invoice_id": "INV-1600",
+    "paid_date": "2025-10-13",
+    "amount": 4483.74,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2601",
+    "invoice_id": "INV-1601",
+    "paid_date": "2025-08-25",
+    "amount": 748.57,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2602",
+    "invoice_id": "INV-1602",
+    "paid_date": "2025-09-04",
+    "amount": 10273.48,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2603",
+    "invoice_id": "INV-1603",
+    "paid_date": "2025-10-10",
+    "amount": 13691.71,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2604",
+    "invoice_id": "INV-1604",
+    "paid_date": "2025-10-04",
+    "amount": 1896.55,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2605",
+    "invoice_id": "INV-1605",
+    "paid_date": "2025-08-21",
+    "amount": 3283.01,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2606",
+    "invoice_id": "INV-1606",
+    "paid_date": "2025-10-06",
+    "amount": 12320.61,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2607",
+    "invoice_id": "INV-1607",
+    "paid_date": "2025-09-16",
+    "amount": 6255.0,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2608",
+    "invoice_id": "INV-1608",
+    "paid_date": "2025-10-06",
+    "amount": 6387.4,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2609",
+    "invoice_id": "INV-1609",
+    "paid_date": "2025-10-22",
+    "amount": 14858.38,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2610",
+    "invoice_id": "INV-1610",
+    "paid_date": "2025-09-05",
+    "amount": 10418.6,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2611",
+    "invoice_id": "INV-1611",
+    "paid_date": "2025-10-15",
+    "amount": 9979.17,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2612",
+    "invoice_id": "INV-1612",
+    "paid_date": "2025-09-07",
+    "amount": 11513.99,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2613",
+    "invoice_id": "INV-1613",
+    "paid_date": "2025-09-28",
+    "amount": 5999.33,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2614",
+    "invoice_id": "INV-1614",
+    "paid_date": "2025-09-07",
+    "amount": 1313.67,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2615",
+    "invoice_id": "INV-1615",
+    "paid_date": "2025-08-07",
+    "amount": 2985.06,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2616",
+    "invoice_id": "INV-1616",
+    "paid_date": "2025-10-02",
+    "amount": 6791.69,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2617",
+    "invoice_id": "INV-1617",
+    "paid_date": "2025-10-08",
+    "amount": 8704.92,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2618",
+    "invoice_id": "INV-1618",
+    "paid_date": "2025-08-19",
+    "amount": 1882.75,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2619",
+    "invoice_id": "INV-1619",
+    "paid_date": "2025-09-04",
+    "amount": 1117.0,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2620",
+    "invoice_id": "INV-1620",
+    "paid_date": "2025-08-08",
+    "amount": 13087.69,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2621",
+    "invoice_id": "INV-1621",
+    "paid_date": "2025-09-20",
+    "amount": 7394.75,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2622",
+    "invoice_id": "INV-1622",
+    "paid_date": "2025-08-18",
+    "amount": 1578.05,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2623",
+    "invoice_id": "INV-1623",
+    "paid_date": "2025-10-14",
+    "amount": 13540.02,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2624",
+    "invoice_id": "INV-1624",
+    "paid_date": "2025-08-16",
+    "amount": 977.08,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2625",
+    "invoice_id": "INV-1625",
+    "paid_date": "2025-10-19",
+    "amount": 5060.03,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2626",
+    "invoice_id": "INV-1626",
+    "paid_date": "2025-10-17",
+    "amount": 9012.02,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2627",
+    "invoice_id": "INV-1627",
+    "paid_date": "2025-09-15",
+    "amount": 10834.32,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2628",
+    "invoice_id": "INV-1628",
+    "paid_date": "2025-10-08",
+    "amount": 1615.59,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2629",
+    "invoice_id": "INV-1629",
+    "paid_date": "2025-08-24",
+    "amount": 3986.85,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2630",
+    "invoice_id": "INV-1630",
+    "paid_date": "2025-10-14",
+    "amount": 6142.77,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2631",
+    "invoice_id": "INV-1631",
+    "paid_date": "2025-08-28",
+    "amount": 5310.08,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2632",
+    "invoice_id": "INV-1632",
+    "paid_date": "2025-10-12",
+    "amount": 2529.28,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2633",
+    "invoice_id": "INV-1633",
+    "paid_date": "2025-08-19",
+    "amount": 11000.37,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2634",
+    "invoice_id": "INV-1634",
+    "paid_date": "2025-08-14",
+    "amount": 14627.69,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2635",
+    "invoice_id": "INV-1635",
+    "paid_date": "2025-09-10",
+    "amount": 6837.78,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2636",
+    "invoice_id": "INV-1636",
+    "paid_date": "2025-09-03",
+    "amount": 5438.59,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2637",
+    "invoice_id": "INV-1637",
+    "paid_date": "2025-10-21",
+    "amount": 14345.45,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2638",
+    "invoice_id": "INV-1638",
+    "paid_date": "2025-09-11",
+    "amount": 11716.55,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2639",
+    "invoice_id": "INV-1639",
+    "paid_date": "2025-09-03",
+    "amount": 4463.24,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2640",
+    "invoice_id": "INV-1640",
+    "paid_date": "2025-10-19",
+    "amount": 7613.75,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2641",
+    "invoice_id": "INV-1641",
+    "paid_date": "2025-09-01",
+    "amount": 14146.57,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2642",
+    "invoice_id": "INV-1642",
+    "paid_date": "2025-08-28",
+    "amount": 10355.58,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2643",
+    "invoice_id": "INV-1643",
+    "paid_date": "2025-08-16",
+    "amount": 1742.56,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2644",
+    "invoice_id": "INV-1644",
+    "paid_date": "2025-10-10",
+    "amount": 12071.8,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2645",
+    "invoice_id": "INV-1645",
+    "paid_date": "2025-09-04",
+    "amount": 1689.55,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2646",
+    "invoice_id": "INV-1646",
+    "paid_date": "2025-09-22",
+    "amount": 10819.32,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2647",
+    "invoice_id": "INV-1647",
+    "paid_date": "2025-08-09",
+    "amount": 11225.0,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2648",
+    "invoice_id": "INV-1648",
+    "paid_date": "2025-09-16",
+    "amount": 2044.99,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2649",
+    "invoice_id": "INV-1649",
+    "paid_date": "2025-08-15",
+    "amount": 4969.88,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2650",
+    "invoice_id": "INV-1650",
+    "paid_date": "2025-10-03",
+    "amount": 4411.61,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2651",
+    "invoice_id": "INV-1651",
+    "paid_date": "2025-09-15",
+    "amount": 3217.18,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2652",
+    "invoice_id": "INV-1652",
+    "paid_date": "2025-10-06",
+    "amount": 8543.73,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2653",
+    "invoice_id": "INV-1653",
+    "paid_date": "2025-10-06",
+    "amount": 880.8,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2654",
+    "invoice_id": "INV-1654",
+    "paid_date": "2025-08-16",
+    "amount": 1849.43,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2655",
+    "invoice_id": "INV-1655",
+    "paid_date": "2025-09-23",
+    "amount": 5204.24,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2656",
+    "invoice_id": "INV-1656",
+    "paid_date": "2025-09-01",
+    "amount": 4731.79,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2657",
+    "invoice_id": "INV-1657",
+    "paid_date": "2025-09-25",
+    "amount": 1728.14,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2658",
+    "invoice_id": "INV-1658",
+    "paid_date": "2025-08-23",
+    "amount": 13625.51,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2659",
+    "invoice_id": "INV-1659",
+    "paid_date": "2025-10-06",
+    "amount": 8793.43,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2660",
+    "invoice_id": "INV-1660",
+    "paid_date": "2025-08-30",
+    "amount": 6020.61,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2661",
+    "invoice_id": "INV-1661",
+    "paid_date": "2025-10-05",
+    "amount": 4866.4,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2662",
+    "invoice_id": "INV-1662",
+    "paid_date": "2025-08-27",
+    "amount": 1417.37,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2663",
+    "invoice_id": "INV-1663",
+    "paid_date": "2025-09-01",
+    "amount": 6605.98,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2664",
+    "invoice_id": "INV-1664",
+    "paid_date": "2025-08-19",
+    "amount": 1615.36,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2665",
+    "invoice_id": "INV-1665",
+    "paid_date": "2025-08-16",
+    "amount": 4075.56,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2666",
+    "invoice_id": "INV-1666",
+    "paid_date": "2025-08-24",
+    "amount": 9110.19,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2667",
+    "invoice_id": "INV-1667",
+    "paid_date": "2025-08-24",
+    "amount": 2051.1,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2668",
+    "invoice_id": "INV-1668",
+    "paid_date": "2025-09-09",
+    "amount": 14257.94,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2669",
+    "invoice_id": "INV-1669",
+    "paid_date": "2025-09-02",
+    "amount": 9492.79,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2670",
+    "invoice_id": "INV-1670",
+    "paid_date": "2025-09-26",
+    "amount": 5278.35,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2671",
+    "invoice_id": "INV-1671",
+    "paid_date": "2025-09-12",
+    "amount": 12324.39,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2672",
+    "invoice_id": "INV-1672",
+    "paid_date": "2025-08-07",
+    "amount": 14626.27,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2673",
+    "invoice_id": "INV-1673",
+    "paid_date": "2025-09-10",
+    "amount": 5149.64,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2674",
+    "invoice_id": "INV-1674",
+    "paid_date": "2025-10-18",
+    "amount": 3412.35,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2675",
+    "invoice_id": "INV-1675",
+    "paid_date": "2025-08-07",
+    "amount": 14486.33,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2676",
+    "invoice_id": "INV-1676",
+    "paid_date": "2025-10-21",
+    "amount": 4726.0,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2677",
+    "invoice_id": "INV-1677",
+    "paid_date": "2025-07-31",
+    "amount": 7619.61,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2678",
+    "invoice_id": "INV-1678",
+    "paid_date": "2025-09-06",
+    "amount": 4015.15,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2679",
+    "invoice_id": "INV-1679",
+    "paid_date": "2025-09-10",
+    "amount": 12339.17,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2680",
+    "invoice_id": "INV-1680",
+    "paid_date": "2025-10-07",
+    "amount": 2151.37,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2681",
+    "invoice_id": "INV-1681",
+    "paid_date": "2025-08-09",
+    "amount": 9087.29,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2682",
+    "invoice_id": "INV-1682",
+    "paid_date": "2025-08-26",
+    "amount": 10384.83,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2683",
+    "invoice_id": "INV-1683",
+    "paid_date": "2025-10-13",
+    "amount": 14318.57,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2684",
+    "invoice_id": "INV-1684",
+    "paid_date": "2025-08-06",
+    "amount": 10771.32,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2685",
+    "invoice_id": "INV-1685",
+    "paid_date": "2025-08-03",
+    "amount": 4724.3,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2686",
+    "invoice_id": "INV-1686",
+    "paid_date": "2025-09-18",
+    "amount": 12375.0,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2687",
+    "invoice_id": "INV-1687",
+    "paid_date": "2025-08-21",
+    "amount": 6432.55,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2688",
+    "invoice_id": "INV-1688",
+    "paid_date": "2025-08-17",
+    "amount": 9683.37,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2689",
+    "invoice_id": "INV-1689",
+    "paid_date": "2025-10-10",
+    "amount": 10050.61,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2690",
+    "invoice_id": "INV-1690",
+    "paid_date": "2025-10-07",
+    "amount": 11941.61,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2691",
+    "invoice_id": "INV-1691",
+    "paid_date": "2025-08-27",
+    "amount": 14865.16,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2692",
+    "invoice_id": "INV-1692",
+    "paid_date": "2025-09-15",
+    "amount": 6311.67,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2693",
+    "invoice_id": "INV-1693",
+    "paid_date": "2025-10-17",
+    "amount": 13845.69,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2694",
+    "invoice_id": "INV-1694",
+    "paid_date": "2025-08-22",
+    "amount": 8382.86,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2695",
+    "invoice_id": "INV-1695",
+    "paid_date": "2025-09-15",
+    "amount": 5713.18,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2696",
+    "invoice_id": "INV-1696",
+    "paid_date": "2025-10-07",
+    "amount": 8285.14,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2697",
+    "invoice_id": "INV-1697",
+    "paid_date": "2025-10-06",
+    "amount": 1732.24,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2698",
+    "invoice_id": "INV-1698",
+    "paid_date": "2025-10-27",
+    "amount": 10035.22,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2699",
+    "invoice_id": "INV-1699",
+    "paid_date": "2025-08-13",
+    "amount": 9881.5,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2700",
+    "invoice_id": "INV-1700",
+    "paid_date": "2025-08-13",
+    "amount": 14762.32,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2701",
+    "invoice_id": "INV-1701",
+    "paid_date": "2025-10-09",
+    "amount": 6294.46,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2702",
+    "invoice_id": "INV-1702",
+    "paid_date": "2025-09-08",
+    "amount": 14502.89,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2703",
+    "invoice_id": "INV-1703",
+    "paid_date": "2025-09-29",
+    "amount": 652.94,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2704",
+    "invoice_id": "INV-1704",
+    "paid_date": "2025-09-02",
+    "amount": 7904.81,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2705",
+    "invoice_id": "INV-1705",
+    "paid_date": "2025-09-08",
+    "amount": 8917.52,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2706",
+    "invoice_id": "INV-1706",
+    "paid_date": "2025-09-14",
+    "amount": 6963.79,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2707",
+    "invoice_id": "INV-1707",
+    "paid_date": "2025-09-24",
+    "amount": 11698.96,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2708",
+    "invoice_id": "INV-1708",
+    "paid_date": "2025-09-05",
+    "amount": 7756.75,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2709",
+    "invoice_id": "INV-1709",
+    "paid_date": "2025-08-08",
+    "amount": 856.16,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2710",
+    "invoice_id": "INV-1710",
+    "paid_date": "2025-08-11",
+    "amount": 6531.64,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2711",
+    "invoice_id": "INV-1711",
+    "paid_date": "2025-09-21",
+    "amount": 2183.01,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2712",
+    "invoice_id": "INV-1712",
+    "paid_date": "2025-08-22",
+    "amount": 2554.29,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2713",
+    "invoice_id": "INV-1713",
+    "paid_date": "2025-09-29",
+    "amount": 7102.32,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2714",
+    "invoice_id": "INV-1714",
+    "paid_date": "2025-09-02",
+    "amount": 7502.43,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2715",
+    "invoice_id": "INV-1715",
+    "paid_date": "2025-08-13",
+    "amount": 6853.41,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2716",
+    "invoice_id": "INV-1716",
+    "paid_date": "2025-09-10",
+    "amount": 5124.19,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2717",
+    "invoice_id": "INV-1717",
+    "paid_date": "2025-10-10",
+    "amount": 12247.7,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2718",
+    "invoice_id": "INV-1718",
+    "paid_date": "2025-09-14",
+    "amount": 12813.11,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2719",
+    "invoice_id": "INV-1719",
+    "paid_date": "2025-08-31",
+    "amount": 10318.52,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2720",
+    "invoice_id": "INV-1720",
+    "paid_date": "2025-08-06",
+    "amount": 14766.56,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2721",
+    "invoice_id": "INV-1721",
+    "paid_date": "2025-10-08",
+    "amount": 3029.57,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2722",
+    "invoice_id": "INV-1722",
+    "paid_date": "2025-08-14",
+    "amount": 8617.81,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2723",
+    "invoice_id": "INV-1723",
+    "paid_date": "2025-10-04",
+    "amount": 3861.91,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2724",
+    "invoice_id": "INV-1724",
+    "paid_date": "2025-10-03",
+    "amount": 3174.55,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2725",
+    "invoice_id": "INV-1725",
+    "paid_date": "2025-09-03",
+    "amount": 6765.95,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2726",
+    "invoice_id": "INV-1726",
+    "paid_date": "2025-08-13",
+    "amount": 9404.55,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2727",
+    "invoice_id": "INV-1727",
+    "paid_date": "2025-09-30",
+    "amount": 9086.95,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2728",
+    "invoice_id": "INV-1728",
+    "paid_date": "2025-08-29",
+    "amount": 10718.67,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2729",
+    "invoice_id": "INV-1729",
+    "paid_date": "2025-09-12",
+    "amount": 11408.72,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2730",
+    "invoice_id": "INV-1730",
+    "paid_date": "2025-08-04",
+    "amount": 1407.17,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2731",
+    "invoice_id": "INV-1731",
+    "paid_date": "2025-08-01",
+    "amount": 13143.7,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2732",
+    "invoice_id": "INV-1732",
+    "paid_date": "2025-09-12",
+    "amount": 5226.78,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2733",
+    "invoice_id": "INV-1733",
+    "paid_date": "2025-09-07",
+    "amount": 4304.12,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2734",
+    "invoice_id": "INV-1734",
+    "paid_date": "2025-10-04",
+    "amount": 8151.87,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2735",
+    "invoice_id": "INV-1735",
+    "paid_date": "2025-09-12",
+    "amount": 9156.08,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2736",
+    "invoice_id": "INV-1736",
+    "paid_date": "2025-08-12",
+    "amount": 9011.57,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2737",
+    "invoice_id": "INV-1737",
+    "paid_date": "2025-08-13",
+    "amount": 12760.01,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2738",
+    "invoice_id": "INV-1738",
+    "paid_date": "2025-10-25",
+    "amount": 12299.2,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2739",
+    "invoice_id": "INV-1739",
+    "paid_date": "2025-08-09",
+    "amount": 4812.95,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2740",
+    "invoice_id": "INV-1740",
+    "paid_date": "2025-09-11",
+    "amount": 1728.9,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2741",
+    "invoice_id": "INV-1741",
+    "paid_date": "2025-08-29",
+    "amount": 2208.99,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2742",
+    "invoice_id": "INV-1742",
+    "paid_date": "2025-09-10",
+    "amount": 3154.15,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2743",
+    "invoice_id": "INV-1743",
+    "paid_date": "2025-10-22",
+    "amount": 7906.96,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2744",
+    "invoice_id": "INV-1744",
+    "paid_date": "2025-09-13",
+    "amount": 2499.08,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2745",
+    "invoice_id": "INV-1745",
+    "paid_date": "2025-10-02",
+    "amount": 3193.43,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2746",
+    "invoice_id": "INV-1746",
+    "paid_date": "2025-09-11",
+    "amount": 10554.78,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2747",
+    "invoice_id": "INV-1747",
+    "paid_date": "2025-09-02",
+    "amount": 14998.54,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2748",
+    "invoice_id": "INV-1748",
+    "paid_date": "2025-09-01",
+    "amount": 7599.81,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2749",
+    "invoice_id": "INV-1749",
+    "paid_date": "2025-10-02",
+    "amount": 5061.41,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2750",
+    "invoice_id": "INV-1750",
+    "paid_date": "2025-08-23",
+    "amount": 1277.36,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2751",
+    "invoice_id": "INV-1751",
+    "paid_date": "2025-09-16",
+    "amount": 638.96,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2752",
+    "invoice_id": "INV-1752",
+    "paid_date": "2025-09-10",
+    "amount": 12320.63,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2753",
+    "invoice_id": "INV-1753",
+    "paid_date": "2025-08-29",
+    "amount": 7828.85,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2754",
+    "invoice_id": "INV-1754",
+    "paid_date": "2025-10-19",
+    "amount": 10428.1,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2755",
+    "invoice_id": "INV-1755",
+    "paid_date": "2025-08-29",
+    "amount": 12678.43,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2756",
+    "invoice_id": "INV-1756",
+    "paid_date": "2025-08-29",
+    "amount": 1698.72,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2757",
+    "invoice_id": "INV-1757",
+    "paid_date": "2025-10-22",
+    "amount": 11535.32,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2758",
+    "invoice_id": "INV-1758",
+    "paid_date": "2025-08-30",
+    "amount": 4485.37,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2759",
+    "invoice_id": "INV-1759",
+    "paid_date": "2025-08-15",
+    "amount": 2939.03,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2760",
+    "invoice_id": "INV-1760",
+    "paid_date": "2025-08-19",
+    "amount": 11266.51,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2761",
+    "invoice_id": "INV-1761",
+    "paid_date": "2025-08-19",
+    "amount": 8471.03,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2762",
+    "invoice_id": "INV-1762",
+    "paid_date": "2025-10-06",
+    "amount": 2156.0,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2763",
+    "invoice_id": "INV-1763",
+    "paid_date": "2025-08-23",
+    "amount": 12437.6,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2764",
+    "invoice_id": "INV-1764",
+    "paid_date": "2025-08-26",
+    "amount": 12427.86,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2765",
+    "invoice_id": "INV-1765",
+    "paid_date": "2025-10-12",
+    "amount": 10925.21,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2766",
+    "invoice_id": "INV-1766",
+    "paid_date": "2025-08-06",
+    "amount": 14851.75,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2767",
+    "invoice_id": "INV-1767",
+    "paid_date": "2025-09-17",
+    "amount": 12536.03,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2768",
+    "invoice_id": "INV-1768",
+    "paid_date": "2025-09-17",
+    "amount": 4816.78,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2769",
+    "invoice_id": "INV-1769",
+    "paid_date": "2025-08-28",
+    "amount": 7021.12,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2770",
+    "invoice_id": "INV-1770",
+    "paid_date": "2025-08-21",
+    "amount": 12342.56,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2771",
+    "invoice_id": "INV-1771",
+    "paid_date": "2025-09-17",
+    "amount": 14912.39,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2772",
+    "invoice_id": "INV-1772",
+    "paid_date": "2025-10-16",
+    "amount": 3935.72,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2773",
+    "invoice_id": "INV-1773",
+    "paid_date": "2025-10-10",
+    "amount": 9024.9,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2774",
+    "invoice_id": "INV-1774",
+    "paid_date": "2025-10-17",
+    "amount": 10805.93,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2775",
+    "invoice_id": "INV-1775",
+    "paid_date": "2025-08-05",
+    "amount": 2906.73,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2776",
+    "invoice_id": "INV-1776",
+    "paid_date": "2025-09-13",
+    "amount": 3495.99,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2777",
+    "invoice_id": "INV-1777",
+    "paid_date": "2025-09-23",
+    "amount": 1360.69,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2778",
+    "invoice_id": "INV-1778",
+    "paid_date": "2025-08-22",
+    "amount": 4575.73,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2779",
+    "invoice_id": "INV-1779",
+    "paid_date": "2025-10-10",
+    "amount": 5192.98,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2780",
+    "invoice_id": "INV-1780",
+    "paid_date": "2025-09-22",
+    "amount": 4695.33,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2781",
+    "invoice_id": "INV-1781",
+    "paid_date": "2025-09-30",
+    "amount": 12941.24,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2782",
+    "invoice_id": "INV-1782",
+    "paid_date": "2025-08-19",
+    "amount": 10349.84,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2783",
+    "invoice_id": "INV-1783",
+    "paid_date": "2025-10-05",
+    "amount": 14460.19,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2784",
+    "invoice_id": "INV-1784",
+    "paid_date": "2025-08-10",
+    "amount": 13822.15,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2785",
+    "invoice_id": "INV-1785",
+    "paid_date": "2025-10-07",
+    "amount": 13072.19,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2786",
+    "invoice_id": "INV-1786",
+    "paid_date": "2025-08-07",
+    "amount": 13058.14,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2787",
+    "invoice_id": "INV-1787",
+    "paid_date": "2025-10-08",
+    "amount": 10815.23,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2788",
+    "invoice_id": "INV-1788",
+    "paid_date": "2025-07-30",
+    "amount": 11541.37,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2789",
+    "invoice_id": "INV-1789",
+    "paid_date": "2025-07-29",
+    "amount": 7597.15,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2790",
+    "invoice_id": "INV-1790",
+    "paid_date": "2025-09-30",
+    "amount": 4396.4,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2791",
+    "invoice_id": "INV-1791",
+    "paid_date": "2025-08-20",
+    "amount": 7053.88,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2792",
+    "invoice_id": "INV-1792",
+    "paid_date": "2025-09-02",
+    "amount": 13261.81,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2793",
+    "invoice_id": "INV-1793",
+    "paid_date": "2025-09-09",
+    "amount": 7976.4,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2794",
+    "invoice_id": "INV-1794",
+    "paid_date": "2025-09-20",
+    "amount": 14076.87,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2795",
+    "invoice_id": "INV-1795",
+    "paid_date": "2025-08-24",
+    "amount": 14278.68,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2796",
+    "invoice_id": "INV-1796",
+    "paid_date": "2025-09-27",
+    "amount": 535.86,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2797",
+    "invoice_id": "INV-1797",
+    "paid_date": "2025-08-29",
+    "amount": 11124.5,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2798",
+    "invoice_id": "INV-1798",
+    "paid_date": "2025-09-11",
+    "amount": 7147.51,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2799",
+    "invoice_id": "INV-1799",
+    "paid_date": "2025-10-02",
+    "amount": 5694.23,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2800",
+    "invoice_id": "INV-1800",
+    "paid_date": "2025-08-17",
+    "amount": 8249.15,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2801",
+    "invoice_id": "INV-1801",
+    "paid_date": "2025-08-16",
+    "amount": 6729.82,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2802",
+    "invoice_id": "INV-1802",
+    "paid_date": "2025-09-30",
+    "amount": 4393.78,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2803",
+    "invoice_id": "INV-1803",
+    "paid_date": "2025-10-13",
+    "amount": 5397.45,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2804",
+    "invoice_id": "INV-1804",
+    "paid_date": "2025-09-24",
+    "amount": 8709.06,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2805",
+    "invoice_id": "INV-1805",
+    "paid_date": "2025-08-06",
+    "amount": 5484.22,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2806",
+    "invoice_id": "INV-1806",
+    "paid_date": "2025-09-06",
+    "amount": 1201.93,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2807",
+    "invoice_id": "INV-1807",
+    "paid_date": "2025-08-31",
+    "amount": 11866.4,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2808",
+    "invoice_id": "INV-1808",
+    "paid_date": "2025-10-01",
+    "amount": 2301.44,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2809",
+    "invoice_id": "INV-1809",
+    "paid_date": "2025-08-15",
+    "amount": 6898.65,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2810",
+    "invoice_id": "INV-1810",
+    "paid_date": "2025-10-12",
+    "amount": 14391.46,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2811",
+    "invoice_id": "INV-1811",
+    "paid_date": "2025-09-29",
+    "amount": 10484.58,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2812",
+    "invoice_id": "INV-1812",
+    "paid_date": "2025-09-08",
+    "amount": 9924.96,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2813",
+    "invoice_id": "INV-1813",
+    "paid_date": "2025-10-10",
+    "amount": 14024.52,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2814",
+    "invoice_id": "INV-1814",
+    "paid_date": "2025-09-19",
+    "amount": 9991.53,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2815",
+    "invoice_id": "INV-1815",
+    "paid_date": "2025-10-11",
+    "amount": 5891.73,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2816",
+    "invoice_id": "INV-1816",
+    "paid_date": "2025-08-18",
+    "amount": 2900.11,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2817",
+    "invoice_id": "INV-1817",
+    "paid_date": "2025-09-04",
+    "amount": 4929.88,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2818",
+    "invoice_id": "INV-1818",
+    "paid_date": "2025-08-13",
+    "amount": 3895.09,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2819",
+    "invoice_id": "INV-1819",
+    "paid_date": "2025-09-12",
+    "amount": 10703.62,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2820",
+    "invoice_id": "INV-1820",
+    "paid_date": "2025-10-22",
+    "amount": 7413.7,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2821",
+    "invoice_id": "INV-1821",
+    "paid_date": "2025-10-07",
+    "amount": 3779.77,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2822",
+    "invoice_id": "INV-1822",
+    "paid_date": "2025-08-17",
+    "amount": 634.66,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2823",
+    "invoice_id": "INV-1823",
+    "paid_date": "2025-08-22",
+    "amount": 12348.08,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2824",
+    "invoice_id": "INV-1824",
+    "paid_date": "2025-08-22",
+    "amount": 6623.55,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2825",
+    "invoice_id": "INV-1825",
+    "paid_date": "2025-10-19",
+    "amount": 1527.01,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2826",
+    "invoice_id": "INV-1826",
+    "paid_date": "2025-08-18",
+    "amount": 11096.07,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2827",
+    "invoice_id": "INV-1827",
+    "paid_date": "2025-09-14",
+    "amount": 5043.6,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2828",
+    "invoice_id": "INV-1828",
+    "paid_date": "2025-08-21",
+    "amount": 2488.37,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2829",
+    "invoice_id": "INV-1829",
+    "paid_date": "2025-09-21",
+    "amount": 11420.79,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2830",
+    "invoice_id": "INV-1830",
+    "paid_date": "2025-08-15",
+    "amount": 14897.63,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2831",
+    "invoice_id": "INV-1831",
+    "paid_date": "2025-10-20",
+    "amount": 8192.37,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2832",
+    "invoice_id": "INV-1832",
+    "paid_date": "2025-08-28",
+    "amount": 9925.29,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2833",
+    "invoice_id": "INV-1833",
+    "paid_date": "2025-09-28",
+    "amount": 10975.26,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2834",
+    "invoice_id": "INV-1834",
+    "paid_date": "2025-08-14",
+    "amount": 2694.92,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2835",
+    "invoice_id": "INV-1835",
+    "paid_date": "2025-09-12",
+    "amount": 10455.21,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2836",
+    "invoice_id": "INV-1836",
+    "paid_date": "2025-09-28",
+    "amount": 1756.98,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2837",
+    "invoice_id": "INV-1837",
+    "paid_date": "2025-09-14",
+    "amount": 11410.46,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2838",
+    "invoice_id": "INV-1838",
+    "paid_date": "2025-08-20",
+    "amount": 6068.46,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2839",
+    "invoice_id": "INV-1839",
+    "paid_date": "2025-08-26",
+    "amount": 5060.3,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2840",
+    "invoice_id": "INV-1840",
+    "paid_date": "2025-08-12",
+    "amount": 4516.03,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2841",
+    "invoice_id": "INV-1841",
+    "paid_date": "2025-09-12",
+    "amount": 8524.25,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2842",
+    "invoice_id": "INV-1842",
+    "paid_date": "2025-09-27",
+    "amount": 9310.1,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2843",
+    "invoice_id": "INV-1843",
+    "paid_date": "2025-08-26",
+    "amount": 10511.9,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2844",
+    "invoice_id": "INV-1844",
+    "paid_date": "2025-10-06",
+    "amount": 10046.88,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2845",
+    "invoice_id": "INV-1845",
+    "paid_date": "2025-09-27",
+    "amount": 8007.36,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2846",
+    "invoice_id": "INV-1846",
+    "paid_date": "2025-09-04",
+    "amount": 11343.73,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2847",
+    "invoice_id": "INV-1847",
+    "paid_date": "2025-09-06",
+    "amount": 1291.25,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2848",
+    "invoice_id": "INV-1848",
+    "paid_date": "2025-08-15",
+    "amount": 14342.74,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2849",
+    "invoice_id": "INV-1849",
+    "paid_date": "2025-08-02",
+    "amount": 2134.78,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2850",
+    "invoice_id": "INV-1850",
+    "paid_date": "2025-10-19",
+    "amount": 9111.98,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2851",
+    "invoice_id": "INV-1851",
+    "paid_date": "2025-08-22",
+    "amount": 14676.61,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2852",
+    "invoice_id": "INV-1852",
+    "paid_date": "2025-08-18",
+    "amount": 14041.9,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2853",
+    "invoice_id": "INV-1853",
+    "paid_date": "2025-09-27",
+    "amount": 12981.8,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2854",
+    "invoice_id": "INV-1854",
+    "paid_date": "2025-10-01",
+    "amount": 5798.48,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2855",
+    "invoice_id": "INV-1855",
+    "paid_date": "2025-09-30",
+    "amount": 11559.53,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2856",
+    "invoice_id": "INV-1856",
+    "paid_date": "2025-08-06",
+    "amount": 11670.32,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2857",
+    "invoice_id": "INV-1857",
+    "paid_date": "2025-08-17",
+    "amount": 1479.22,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2858",
+    "invoice_id": "INV-1858",
+    "paid_date": "2025-10-17",
+    "amount": 1077.49,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2859",
+    "invoice_id": "INV-1859",
+    "paid_date": "2025-09-14",
+    "amount": 11944.7,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2860",
+    "invoice_id": "INV-1860",
+    "paid_date": "2025-08-19",
+    "amount": 9614.28,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2861",
+    "invoice_id": "INV-1861",
+    "paid_date": "2025-10-24",
+    "amount": 6523.76,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2862",
+    "invoice_id": "INV-1862",
+    "paid_date": "2025-10-17",
+    "amount": 1695.2,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2863",
+    "invoice_id": "INV-1863",
+    "paid_date": "2025-08-02",
+    "amount": 9432.68,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2864",
+    "invoice_id": "INV-1864",
+    "paid_date": "2025-08-14",
+    "amount": 4993.65,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2865",
+    "invoice_id": "INV-1865",
+    "paid_date": "2025-10-11",
+    "amount": 3446.36,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2866",
+    "invoice_id": "INV-1866",
+    "paid_date": "2025-09-03",
+    "amount": 8277.66,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2867",
+    "invoice_id": "INV-1867",
+    "paid_date": "2025-09-16",
+    "amount": 9697.27,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2868",
+    "invoice_id": "INV-1868",
+    "paid_date": "2025-08-21",
+    "amount": 10375.31,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2869",
+    "invoice_id": "INV-1869",
+    "paid_date": "2025-08-28",
+    "amount": 10630.8,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2870",
+    "invoice_id": "INV-1870",
+    "paid_date": "2025-09-22",
+    "amount": 12773.79,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2871",
+    "invoice_id": "INV-1871",
+    "paid_date": "2025-08-02",
+    "amount": 1750.09,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2872",
+    "invoice_id": "INV-1872",
+    "paid_date": "2025-08-12",
+    "amount": 7073.89,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2873",
+    "invoice_id": "INV-1873",
+    "paid_date": "2025-10-18",
+    "amount": 4984.71,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2874",
+    "invoice_id": "INV-1874",
+    "paid_date": "2025-08-14",
+    "amount": 11239.54,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2875",
+    "invoice_id": "INV-1875",
+    "paid_date": "2025-08-05",
+    "amount": 10764.56,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2876",
+    "invoice_id": "INV-1876",
+    "paid_date": "2025-08-31",
+    "amount": 2875.57,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2877",
+    "invoice_id": "INV-1877",
+    "paid_date": "2025-09-18",
+    "amount": 8083.58,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2878",
+    "invoice_id": "INV-1878",
+    "paid_date": "2025-10-21",
+    "amount": 10951.1,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2879",
+    "invoice_id": "INV-1879",
+    "paid_date": "2025-10-05",
+    "amount": 2340.49,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2880",
+    "invoice_id": "INV-1880",
+    "paid_date": "2025-09-06",
+    "amount": 4397.09,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2881",
+    "invoice_id": "INV-1881",
+    "paid_date": "2025-09-08",
+    "amount": 11685.74,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2882",
+    "invoice_id": "INV-1882",
+    "paid_date": "2025-10-18",
+    "amount": 12203.06,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2883",
+    "invoice_id": "INV-1883",
+    "paid_date": "2025-08-25",
+    "amount": 1426.14,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2884",
+    "invoice_id": "INV-1884",
+    "paid_date": "2025-08-11",
+    "amount": 8861.45,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2885",
+    "invoice_id": "INV-1885",
+    "paid_date": "2025-10-06",
+    "amount": 7100.37,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2886",
+    "invoice_id": "INV-1886",
+    "paid_date": "2025-07-28",
+    "amount": 7744.35,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2887",
+    "invoice_id": "INV-1887",
+    "paid_date": "2025-07-28",
+    "amount": 5831.47,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2888",
+    "invoice_id": "INV-1888",
+    "paid_date": "2025-08-28",
+    "amount": 1992.12,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2889",
+    "invoice_id": "INV-1889",
+    "paid_date": "2025-09-28",
+    "amount": 10980.29,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2890",
+    "invoice_id": "INV-1890",
+    "paid_date": "2025-09-27",
+    "amount": 7877.96,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2891",
+    "invoice_id": "INV-1891",
+    "paid_date": "2025-08-18",
+    "amount": 13012.46,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2892",
+    "invoice_id": "INV-1892",
+    "paid_date": "2025-09-15",
+    "amount": 7340.59,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2893",
+    "invoice_id": "INV-1893",
+    "paid_date": "2025-09-12",
+    "amount": 2676.23,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2894",
+    "invoice_id": "INV-1894",
+    "paid_date": "2025-09-22",
+    "amount": 12933.54,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2895",
+    "invoice_id": "INV-1895",
+    "paid_date": "2025-09-20",
+    "amount": 13752.24,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2896",
+    "invoice_id": "INV-1896",
+    "paid_date": "2025-08-28",
+    "amount": 6580.85,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2897",
+    "invoice_id": "INV-1897",
+    "paid_date": "2025-09-30",
+    "amount": 6535.72,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2898",
+    "invoice_id": "INV-1898",
+    "paid_date": "2025-08-03",
+    "amount": 4433.24,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2899",
+    "invoice_id": "INV-1899",
+    "paid_date": "2025-09-14",
+    "amount": 5905.72,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2900",
+    "invoice_id": "INV-1900",
+    "paid_date": "2025-10-10",
+    "amount": 13578.14,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2901",
+    "invoice_id": "INV-1901",
+    "paid_date": "2025-08-31",
+    "amount": 12162.9,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2902",
+    "invoice_id": "INV-1902",
+    "paid_date": "2025-08-18",
+    "amount": 14334.15,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2903",
+    "invoice_id": "INV-1903",
+    "paid_date": "2025-08-20",
+    "amount": 7243.87,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2904",
+    "invoice_id": "INV-1904",
+    "paid_date": "2025-09-20",
+    "amount": 12750.27,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2905",
+    "invoice_id": "INV-1905",
+    "paid_date": "2025-09-09",
+    "amount": 8519.83,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2906",
+    "invoice_id": "INV-1906",
+    "paid_date": "2025-09-23",
+    "amount": 3409.73,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2907",
+    "invoice_id": "INV-1907",
+    "paid_date": "2025-08-25",
+    "amount": 4906.68,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2908",
+    "invoice_id": "INV-1908",
+    "paid_date": "2025-09-15",
+    "amount": 7226.94,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2909",
+    "invoice_id": "INV-1909",
+    "paid_date": "2025-10-19",
+    "amount": 7653.73,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2910",
+    "invoice_id": "INV-1910",
+    "paid_date": "2025-09-25",
+    "amount": 3333.63,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2911",
+    "invoice_id": "INV-1911",
+    "paid_date": "2025-10-20",
+    "amount": 11526.99,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2912",
+    "invoice_id": "INV-1912",
+    "paid_date": "2025-09-05",
+    "amount": 592.48,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2913",
+    "invoice_id": "INV-1913",
+    "paid_date": "2025-10-16",
+    "amount": 3878.47,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2914",
+    "invoice_id": "INV-1914",
+    "paid_date": "2025-10-15",
+    "amount": 12673.82,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2915",
+    "invoice_id": "INV-1915",
+    "paid_date": "2025-08-07",
+    "amount": 14289.36,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2916",
+    "invoice_id": "INV-1916",
+    "paid_date": "2025-08-16",
+    "amount": 10030.91,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2917",
+    "invoice_id": "INV-1917",
+    "paid_date": "2025-08-24",
+    "amount": 11044.62,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2918",
+    "invoice_id": "INV-1918",
+    "paid_date": "2025-10-15",
+    "amount": 8182.31,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2919",
+    "invoice_id": "INV-1919",
+    "paid_date": "2025-10-20",
+    "amount": 7634.42,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2920",
+    "invoice_id": "INV-1920",
+    "paid_date": "2025-08-06",
+    "amount": 14955.91,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2921",
+    "invoice_id": "INV-1921",
+    "paid_date": "2025-08-25",
+    "amount": 1848.89,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2922",
+    "invoice_id": "INV-1922",
+    "paid_date": "2025-08-05",
+    "amount": 13510.67,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2923",
+    "invoice_id": "INV-1923",
+    "paid_date": "2025-09-07",
+    "amount": 10662.28,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2924",
+    "invoice_id": "INV-1924",
+    "paid_date": "2025-09-27",
+    "amount": 14631.04,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2925",
+    "invoice_id": "INV-1925",
+    "paid_date": "2025-09-17",
+    "amount": 1885.87,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2926",
+    "invoice_id": "INV-1926",
+    "paid_date": "2025-10-24",
+    "amount": 12389.46,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2927",
+    "invoice_id": "INV-1927",
+    "paid_date": "2025-09-30",
+    "amount": 8733.4,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2928",
+    "invoice_id": "INV-1928",
+    "paid_date": "2025-10-17",
+    "amount": 14481.16,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2929",
+    "invoice_id": "INV-1929",
+    "paid_date": "2025-09-03",
+    "amount": 4284.37,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2930",
+    "invoice_id": "INV-1930",
+    "paid_date": "2025-08-24",
+    "amount": 12111.84,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2931",
+    "invoice_id": "INV-1931",
+    "paid_date": "2025-10-11",
+    "amount": 11162.62,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2932",
+    "invoice_id": "INV-1932",
+    "paid_date": "2025-09-13",
+    "amount": 4443.36,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2933",
+    "invoice_id": "INV-1933",
+    "paid_date": "2025-10-15",
+    "amount": 3439.33,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2934",
+    "invoice_id": "INV-1934",
+    "paid_date": "2025-08-31",
+    "amount": 8978.27,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2935",
+    "invoice_id": "INV-1935",
+    "paid_date": "2025-09-24",
+    "amount": 2883.44,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2936",
+    "invoice_id": "INV-1936",
+    "paid_date": "2025-08-04",
+    "amount": 6394.43,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2937",
+    "invoice_id": "INV-1937",
+    "paid_date": "2025-09-25",
+    "amount": 14487.2,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2938",
+    "invoice_id": "INV-1938",
+    "paid_date": "2025-10-04",
+    "amount": 4970.46,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2939",
+    "invoice_id": "INV-1939",
+    "paid_date": "2025-08-18",
+    "amount": 2238.75,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2940",
+    "invoice_id": "INV-1940",
+    "paid_date": "2025-09-22",
+    "amount": 10447.8,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2941",
+    "invoice_id": "INV-1941",
+    "paid_date": "2025-09-22",
+    "amount": 10604.73,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2942",
+    "invoice_id": "INV-1942",
+    "paid_date": "2025-08-10",
+    "amount": 12620.91,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2943",
+    "invoice_id": "INV-1943",
+    "paid_date": "2025-09-23",
+    "amount": 1822.59,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2944",
+    "invoice_id": "INV-1944",
+    "paid_date": "2025-09-09",
+    "amount": 5658.27,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2945",
+    "invoice_id": "INV-1945",
+    "paid_date": "2025-08-19",
+    "amount": 10319.16,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2946",
+    "invoice_id": "INV-1946",
+    "paid_date": "2025-08-04",
+    "amount": 14864.81,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2947",
+    "invoice_id": "INV-1947",
+    "paid_date": "2025-08-29",
+    "amount": 6363.69,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2948",
+    "invoice_id": "INV-1948",
+    "paid_date": "2025-10-10",
+    "amount": 11347.14,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2949",
+    "invoice_id": "INV-1949",
+    "paid_date": "2025-09-13",
+    "amount": 7199.63,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2950",
+    "invoice_id": "INV-1950",
+    "paid_date": "2025-08-15",
+    "amount": 2527.0,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2951",
+    "invoice_id": "INV-1951",
+    "paid_date": "2025-10-21",
+    "amount": 12540.4,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2952",
+    "invoice_id": "INV-1952",
+    "paid_date": "2025-10-15",
+    "amount": 2395.37,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2953",
+    "invoice_id": "INV-1953",
+    "paid_date": "2025-09-27",
+    "amount": 5897.48,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2954",
+    "invoice_id": "INV-1954",
+    "paid_date": "2025-10-18",
+    "amount": 9847.93,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2955",
+    "invoice_id": "INV-1955",
+    "paid_date": "2025-10-09",
+    "amount": 4252.9,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2956",
+    "invoice_id": "INV-1956",
+    "paid_date": "2025-09-26",
+    "amount": 816.1,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2957",
+    "invoice_id": "INV-1957",
+    "paid_date": "2025-10-24",
+    "amount": 13586.19,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2958",
+    "invoice_id": "INV-1958",
+    "paid_date": "2025-10-04",
+    "amount": 2367.48,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2959",
+    "invoice_id": "INV-1959",
+    "paid_date": "2025-08-18",
+    "amount": 12525.66,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2960",
+    "invoice_id": "INV-1960",
+    "paid_date": "2025-10-07",
+    "amount": 1119.1,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2961",
+    "invoice_id": "INV-1961",
+    "paid_date": "2025-09-07",
+    "amount": 2935.84,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2962",
+    "invoice_id": "INV-1962",
+    "paid_date": "2025-09-09",
+    "amount": 12414.44,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2963",
+    "invoice_id": "INV-1963",
+    "paid_date": "2025-09-17",
+    "amount": 927.49,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2964",
+    "invoice_id": "INV-1964",
+    "paid_date": "2025-10-04",
+    "amount": 3005.7,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2965",
+    "invoice_id": "INV-1965",
+    "paid_date": "2025-10-09",
+    "amount": 3213.69,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2966",
+    "invoice_id": "INV-1966",
+    "paid_date": "2025-10-12",
+    "amount": 13309.65,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2967",
+    "invoice_id": "INV-1967",
+    "paid_date": "2025-08-01",
+    "amount": 9478.06,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2968",
+    "invoice_id": "INV-1968",
+    "paid_date": "2025-09-06",
+    "amount": 4779.02,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2969",
+    "invoice_id": "INV-1969",
+    "paid_date": "2025-10-03",
+    "amount": 8484.99,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2970",
+    "invoice_id": "INV-1970",
+    "paid_date": "2025-10-05",
+    "amount": 4556.75,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2971",
+    "invoice_id": "INV-1971",
+    "paid_date": "2025-08-22",
+    "amount": 3392.14,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2972",
+    "invoice_id": "INV-1972",
+    "paid_date": "2025-09-28",
+    "amount": 8124.3,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2973",
+    "invoice_id": "INV-1973",
+    "paid_date": "2025-08-29",
+    "amount": 12131.44,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2974",
+    "invoice_id": "INV-1974",
+    "paid_date": "2025-10-16",
+    "amount": 14846.35,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2975",
+    "invoice_id": "INV-1975",
+    "paid_date": "2025-10-01",
+    "amount": 5707.13,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2976",
+    "invoice_id": "INV-1976",
+    "paid_date": "2025-09-28",
+    "amount": 7527.85,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2977",
+    "invoice_id": "INV-1977",
+    "paid_date": "2025-09-02",
+    "amount": 7784.7,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2978",
+    "invoice_id": "INV-1978",
+    "paid_date": "2025-08-10",
+    "amount": 3107.33,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2979",
+    "invoice_id": "INV-1979",
+    "paid_date": "2025-10-02",
+    "amount": 3675.79,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2980",
+    "invoice_id": "INV-1980",
+    "paid_date": "2025-09-22",
+    "amount": 11788.81,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2981",
+    "invoice_id": "INV-1981",
+    "paid_date": "2025-07-29",
+    "amount": 14877.2,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2982",
+    "invoice_id": "INV-1982",
+    "paid_date": "2025-08-12",
+    "amount": 11619.21,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2983",
+    "invoice_id": "INV-1983",
+    "paid_date": "2025-10-06",
+    "amount": 14622.71,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2984",
+    "invoice_id": "INV-1984",
+    "paid_date": "2025-08-05",
+    "amount": 10024.53,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2985",
+    "invoice_id": "INV-1985",
+    "paid_date": "2025-09-09",
+    "amount": 12336.13,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2986",
+    "invoice_id": "INV-1986",
+    "paid_date": "2025-09-15",
+    "amount": 1310.68,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2987",
+    "invoice_id": "INV-1987",
+    "paid_date": "2025-09-17",
+    "amount": 3681.47,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2988",
+    "invoice_id": "INV-1988",
+    "paid_date": "2025-08-24",
+    "amount": 12062.16,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2989",
+    "invoice_id": "INV-1989",
+    "paid_date": "2025-08-12",
+    "amount": 12668.72,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2990",
+    "invoice_id": "INV-1990",
+    "paid_date": "2025-10-25",
+    "amount": 3053.46,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2991",
+    "invoice_id": "INV-1991",
+    "paid_date": "2025-09-14",
+    "amount": 12190.05,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2992",
+    "invoice_id": "INV-1992",
+    "paid_date": "2025-08-28",
+    "amount": 13752.71,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2993",
+    "invoice_id": "INV-1993",
+    "paid_date": "2025-08-17",
+    "amount": 10658.13,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2994",
+    "invoice_id": "INV-1994",
+    "paid_date": "2025-09-07",
+    "amount": 8672.29,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2995",
+    "invoice_id": "INV-1995",
+    "paid_date": "2025-09-01",
+    "amount": 3229.39,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2996",
+    "invoice_id": "INV-1996",
+    "paid_date": "2025-07-26",
+    "amount": 13283.58,
+    "method": "Check"
+  },
+  {
+    "payment_id": "PAY-2997",
+    "invoice_id": "INV-1997",
+    "paid_date": "2025-09-19",
+    "amount": 4981.27,
+    "method": "Wire"
+  },
+  {
+    "payment_id": "PAY-2998",
+    "invoice_id": "INV-1998",
+    "paid_date": "2025-09-01",
+    "amount": 1808.73,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-2999",
+    "invoice_id": "INV-1999",
+    "paid_date": "2025-09-26",
+    "amount": 3672.73,
+    "method": "ACH"
+  },
+  {
+    "payment_id": "PAY-3000",
+    "invoice_id": "INV-2000",
+    "paid_date": "2025-10-13",
+    "amount": 509.91,
+    "method": "Check"
+  }
+]

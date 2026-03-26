@@ -1,0 +1,16 @@
+text,true_label,predicted_label,correct
+Approval needed: PO #3219 Please review approve attached purchase order earliest convenience.,purchase_order,purchase_order,True
+Invoice #3028 correction Attached revised invoice #3028 consulting services.,invoice,invoice,True
+Invoice Cancellation Notice Invoice #3920 canceled per request.,invoice,invoice,True
+PO amendment PO #6337 amended additional quantities staples.,purchase_order,purchase_order,True
+Payment Scheduled payment invoice #1145 scheduled 09/10/2025.,payment_confirmation,payment_confirmation,True
+Vendor setup documentation Thank registering. Please upload tax forms banking details finalize onboarding.,vendor_communication,vendor_communication,True
+"PO approval process change Starting next quarter, purchase orders require two-stage management approval.",purchase_order,purchase_order,True
+Product Invoice Product invoice order #27821 attached.,invoice,invoice,True
+Vendor Satisfaction Survey Please fill vendor satisfaction survey.,vendor_communication,vendor_communication,True
+Remittance advice sent payment invoice #1489 bank account.,payment_confirmation,payment_confirmation,True
+Change Bank Information Please note new banking details future payments.,vendor_communication,vendor_communication,True
+Invoice overdue: Action needed records show invoice #78432 remains unpaid. Let us know payment already made.,invoice,invoice,True
+Payment status PO#1124 payment PO#1124 processed? records show still outstanding.,payment_confirmation,payment_confirmation,True
+"Payment Received Thank payment $4,500 invoice #3342.",payment_confirmation,payment_confirmation,True
+Insurance update reminder Reminder: insurance information must updated annually.,vendor_communication,vendor_communication,True

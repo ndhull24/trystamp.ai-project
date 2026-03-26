@@ -1,0 +1,8002 @@
+[
+  {
+    "invoice_id": "INV-1001",
+    "vendor_id": "VEND-1001",
+    "amount": 6891.94,
+    "date": "2025-09-05",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1002",
+    "vendor_id": "VEND-1002",
+    "amount": 11119.22,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1003",
+    "vendor_id": "VEND-1003",
+    "amount": 4779.1,
+    "date": "2025-09-28",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1004",
+    "vendor_id": "VEND-1004",
+    "amount": 3046.78,
+    "date": "2025-09-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1005",
+    "vendor_id": "VEND-1005",
+    "amount": 8321.41,
+    "date": "2025-08-07",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1006",
+    "vendor_id": "VEND-1006",
+    "amount": 8197.36,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1007",
+    "vendor_id": "VEND-1007",
+    "amount": 12541.85,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1008",
+    "vendor_id": "VEND-1008",
+    "amount": 12458.0,
+    "date": "2025-08-09",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1009",
+    "vendor_id": "VEND-1009",
+    "amount": 12194.08,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1010",
+    "vendor_id": "VEND-1010",
+    "amount": 5411.37,
+    "date": "2025-08-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1011",
+    "vendor_id": "VEND-1011",
+    "amount": 14461.95,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1012",
+    "vendor_id": "VEND-1012",
+    "amount": 14514.25,
+    "date": "2025-09-05",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1013",
+    "vendor_id": "VEND-1013",
+    "amount": 11001.14,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1014",
+    "vendor_id": "VEND-1014",
+    "amount": 14525.41,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1015",
+    "vendor_id": "VEND-1015",
+    "amount": 5803.74,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1016",
+    "vendor_id": "VEND-1016",
+    "amount": 701.82,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1017",
+    "vendor_id": "VEND-1017",
+    "amount": 7094.4,
+    "date": "2025-09-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1018",
+    "vendor_id": "VEND-1018",
+    "amount": 10248.94,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1019",
+    "vendor_id": "VEND-1019",
+    "amount": 12425.05,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1020",
+    "vendor_id": "VEND-1020",
+    "amount": 2071.02,
+    "date": "2025-10-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1021",
+    "vendor_id": "VEND-1021",
+    "amount": 862.86,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1022",
+    "vendor_id": "VEND-1022",
+    "amount": 8640.41,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1023",
+    "vendor_id": "VEND-1023",
+    "amount": 3709.82,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1024",
+    "vendor_id": "VEND-1024",
+    "amount": 12445.9,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1025",
+    "vendor_id": "VEND-1025",
+    "amount": 4881.76,
+    "date": "2025-08-07",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1026",
+    "vendor_id": "VEND-1026",
+    "amount": 2526.77,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1027",
+    "vendor_id": "VEND-1027",
+    "amount": 4913.29,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1028",
+    "vendor_id": "VEND-1028",
+    "amount": 1909.28,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1029",
+    "vendor_id": "VEND-1029",
+    "amount": 2467.13,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1030",
+    "vendor_id": "VEND-1030",
+    "amount": 10222.05,
+    "date": "2025-09-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1031",
+    "vendor_id": "VEND-1031",
+    "amount": 14216.62,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1032",
+    "vendor_id": "VEND-1032",
+    "amount": 11262.9,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1033",
+    "vendor_id": "VEND-1033",
+    "amount": 6515.83,
+    "date": "2025-07-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1034",
+    "vendor_id": "VEND-1034",
+    "amount": 7595.53,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1035",
+    "vendor_id": "VEND-1035",
+    "amount": 14297.06,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1036",
+    "vendor_id": "VEND-1036",
+    "amount": 5872.68,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1037",
+    "vendor_id": "VEND-1037",
+    "amount": 14283.05,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1038",
+    "vendor_id": "VEND-1038",
+    "amount": 1940.64,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1039",
+    "vendor_id": "VEND-1039",
+    "amount": 8394.75,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1040",
+    "vendor_id": "VEND-1040",
+    "amount": 5700.77,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1041",
+    "vendor_id": "VEND-1041",
+    "amount": 3252.22,
+    "date": "2025-08-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1042",
+    "vendor_id": "VEND-1042",
+    "amount": 12796.48,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1043",
+    "vendor_id": "VEND-1043",
+    "amount": 10110.15,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1044",
+    "vendor_id": "VEND-1044",
+    "amount": 9158.62,
+    "date": "2025-09-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1045",
+    "vendor_id": "VEND-1045",
+    "amount": 11908.52,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1046",
+    "vendor_id": "VEND-1046",
+    "amount": 2325.9,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1047",
+    "vendor_id": "VEND-1047",
+    "amount": 1494.85,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1048",
+    "vendor_id": "VEND-1048",
+    "amount": 3503.78,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1049",
+    "vendor_id": "VEND-1049",
+    "amount": 13110.58,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1050",
+    "vendor_id": "VEND-1050",
+    "amount": 2639.54,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1051",
+    "vendor_id": "VEND-1051",
+    "amount": 541.12,
+    "date": "2025-08-07",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1052",
+    "vendor_id": "VEND-1052",
+    "amount": 2597.98,
+    "date": "2025-09-12",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1053",
+    "vendor_id": "VEND-1053",
+    "amount": 4134.49,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1054",
+    "vendor_id": "VEND-1054",
+    "amount": 10085.34,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1055",
+    "vendor_id": "VEND-1055",
+    "amount": 715.47,
+    "date": "2025-09-05",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1056",
+    "vendor_id": "VEND-1056",
+    "amount": 3950.01,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1057",
+    "vendor_id": "VEND-1057",
+    "amount": 3026.57,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1058",
+    "vendor_id": "VEND-1058",
+    "amount": 11254.91,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1059",
+    "vendor_id": "VEND-1059",
+    "amount": 11312.15,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1060",
+    "vendor_id": "VEND-1060",
+    "amount": 11781.25,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1061",
+    "vendor_id": "VEND-1061",
+    "amount": 2081.28,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1062",
+    "vendor_id": "VEND-1062",
+    "amount": 14208.53,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1063",
+    "vendor_id": "VEND-1063",
+    "amount": 11856.79,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1064",
+    "vendor_id": "VEND-1064",
+    "amount": 8061.04,
+    "date": "2025-09-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1065",
+    "vendor_id": "VEND-1065",
+    "amount": 14478.38,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1066",
+    "vendor_id": "VEND-1066",
+    "amount": 7445.24,
+    "date": "2025-10-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1067",
+    "vendor_id": "VEND-1067",
+    "amount": 10448.41,
+    "date": "2025-08-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1068",
+    "vendor_id": "VEND-1068",
+    "amount": 13690.66,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1069",
+    "vendor_id": "VEND-1069",
+    "amount": 1671.46,
+    "date": "2025-07-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1070",
+    "vendor_id": "VEND-1070",
+    "amount": 1452.39,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1071",
+    "vendor_id": "VEND-1071",
+    "amount": 9679.61,
+    "date": "2025-09-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1072",
+    "vendor_id": "VEND-1072",
+    "amount": 5215.19,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1073",
+    "vendor_id": "VEND-1073",
+    "amount": 8193.07,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1074",
+    "vendor_id": "VEND-1074",
+    "amount": 9278.69,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1075",
+    "vendor_id": "VEND-1075",
+    "amount": 10675.8,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1076",
+    "vendor_id": "VEND-1076",
+    "amount": 9938.29,
+    "date": "2025-09-05",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1077",
+    "vendor_id": "VEND-1077",
+    "amount": 10952.18,
+    "date": "2025-08-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1078",
+    "vendor_id": "VEND-1078",
+    "amount": 7047.55,
+    "date": "2025-07-23",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1079",
+    "vendor_id": "VEND-1079",
+    "amount": 5414.51,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1080",
+    "vendor_id": "VEND-1080",
+    "amount": 6531.85,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1081",
+    "vendor_id": "VEND-1081",
+    "amount": 6688.08,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1082",
+    "vendor_id": "VEND-1082",
+    "amount": 5927.36,
+    "date": "2025-08-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1083",
+    "vendor_id": "VEND-1083",
+    "amount": 13883.28,
+    "date": "2025-09-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1084",
+    "vendor_id": "VEND-1084",
+    "amount": 12560.69,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1085",
+    "vendor_id": "VEND-1085",
+    "amount": 1900.18,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1086",
+    "vendor_id": "VEND-1086",
+    "amount": 12270.65,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1087",
+    "vendor_id": "VEND-1087",
+    "amount": 9003.74,
+    "date": "2025-08-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1088",
+    "vendor_id": "VEND-1088",
+    "amount": 5279.87,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1089",
+    "vendor_id": "VEND-1089",
+    "amount": 5627.17,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1090",
+    "vendor_id": "VEND-1090",
+    "amount": 11379.12,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1091",
+    "vendor_id": "VEND-1091",
+    "amount": 10955.38,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1092",
+    "vendor_id": "VEND-1092",
+    "amount": 9205.95,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1093",
+    "vendor_id": "VEND-1093",
+    "amount": 8879.82,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1094",
+    "vendor_id": "VEND-1094",
+    "amount": 10022.68,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1095",
+    "vendor_id": "VEND-1095",
+    "amount": 2069.17,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1096",
+    "vendor_id": "VEND-1096",
+    "amount": 5829.64,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1097",
+    "vendor_id": "VEND-1097",
+    "amount": 8824.45,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1098",
+    "vendor_id": "VEND-1098",
+    "amount": 12754.75,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1099",
+    "vendor_id": "VEND-1099",
+    "amount": 12367.19,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1100",
+    "vendor_id": "VEND-1100",
+    "amount": 9819.14,
+    "date": "2025-09-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1101",
+    "vendor_id": "VEND-1101",
+    "amount": 13971.72,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1102",
+    "vendor_id": "VEND-1102",
+    "amount": 4377.99,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1103",
+    "vendor_id": "VEND-1103",
+    "amount": 10689.13,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1104",
+    "vendor_id": "VEND-1104",
+    "amount": 5427.46,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1105",
+    "vendor_id": "VEND-1105",
+    "amount": 13113.01,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1106",
+    "vendor_id": "VEND-1106",
+    "amount": 6311.37,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1107",
+    "vendor_id": "VEND-1107",
+    "amount": 9680.99,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1108",
+    "vendor_id": "VEND-1108",
+    "amount": 11318.62,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1109",
+    "vendor_id": "VEND-1109",
+    "amount": 6587.57,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1110",
+    "vendor_id": "VEND-1110",
+    "amount": 5865.77,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1111",
+    "vendor_id": "VEND-1111",
+    "amount": 11764.12,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1112",
+    "vendor_id": "VEND-1112",
+    "amount": 1731.88,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1113",
+    "vendor_id": "VEND-1113",
+    "amount": 2782.44,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1114",
+    "vendor_id": "VEND-1114",
+    "amount": 10272.55,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1115",
+    "vendor_id": "VEND-1115",
+    "amount": 10098.11,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1116",
+    "vendor_id": "VEND-1116",
+    "amount": 6909.64,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1117",
+    "vendor_id": "VEND-1117",
+    "amount": 11446.68,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1118",
+    "vendor_id": "VEND-1118",
+    "amount": 6733.75,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1119",
+    "vendor_id": "VEND-1119",
+    "amount": 10338.05,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1120",
+    "vendor_id": "VEND-1120",
+    "amount": 10173.42,
+    "date": "2025-08-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1121",
+    "vendor_id": "VEND-1121",
+    "amount": 6231.32,
+    "date": "2025-09-28",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1122",
+    "vendor_id": "VEND-1122",
+    "amount": 611.46,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1123",
+    "vendor_id": "VEND-1123",
+    "amount": 3562.89,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1124",
+    "vendor_id": "VEND-1124",
+    "amount": 4205.03,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1125",
+    "vendor_id": "VEND-1125",
+    "amount": 612.08,
+    "date": "2025-09-12",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1126",
+    "vendor_id": "VEND-1126",
+    "amount": 3047.57,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1127",
+    "vendor_id": "VEND-1127",
+    "amount": 10703.23,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1128",
+    "vendor_id": "VEND-1128",
+    "amount": 12583.64,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1129",
+    "vendor_id": "VEND-1129",
+    "amount": 1545.09,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1130",
+    "vendor_id": "VEND-1130",
+    "amount": 1113.38,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1131",
+    "vendor_id": "VEND-1131",
+    "amount": 13856.86,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1132",
+    "vendor_id": "VEND-1132",
+    "amount": 8848.51,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1133",
+    "vendor_id": "VEND-1133",
+    "amount": 10787.73,
+    "date": "2025-09-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1134",
+    "vendor_id": "VEND-1134",
+    "amount": 2170.01,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1135",
+    "vendor_id": "VEND-1135",
+    "amount": 5209.14,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1136",
+    "vendor_id": "VEND-1136",
+    "amount": 9462.82,
+    "date": "2025-09-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1137",
+    "vendor_id": "VEND-1137",
+    "amount": 13836.66,
+    "date": "2025-07-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1138",
+    "vendor_id": "VEND-1138",
+    "amount": 12745.02,
+    "date": "2025-08-08",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1139",
+    "vendor_id": "VEND-1139",
+    "amount": 9038.63,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1140",
+    "vendor_id": "VEND-1140",
+    "amount": 6238.62,
+    "date": "2025-08-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1141",
+    "vendor_id": "VEND-1141",
+    "amount": 5422.94,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1142",
+    "vendor_id": "VEND-1142",
+    "amount": 2937.92,
+    "date": "2025-09-15",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1143",
+    "vendor_id": "VEND-1143",
+    "amount": 2153.39,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1144",
+    "vendor_id": "VEND-1144",
+    "amount": 13635.88,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1145",
+    "vendor_id": "VEND-1145",
+    "amount": 11047.0,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1146",
+    "vendor_id": "VEND-1146",
+    "amount": 12318.04,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1147",
+    "vendor_id": "VEND-1147",
+    "amount": 2623.44,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1148",
+    "vendor_id": "VEND-1148",
+    "amount": 9234.79,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1149",
+    "vendor_id": "VEND-1149",
+    "amount": 10004.88,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1150",
+    "vendor_id": "VEND-1150",
+    "amount": 11706.3,
+    "date": "2025-08-28",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1151",
+    "vendor_id": "VEND-1151",
+    "amount": 11439.46,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1152",
+    "vendor_id": "VEND-1152",
+    "amount": 7009.13,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1153",
+    "vendor_id": "VEND-1153",
+    "amount": 8685.13,
+    "date": "2025-08-05",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1154",
+    "vendor_id": "VEND-1154",
+    "amount": 9555.57,
+    "date": "2025-08-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1155",
+    "vendor_id": "VEND-1155",
+    "amount": 9594.65,
+    "date": "2025-09-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1156",
+    "vendor_id": "VEND-1156",
+    "amount": 1490.15,
+    "date": "2025-07-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1157",
+    "vendor_id": "VEND-1157",
+    "amount": 4890.9,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1158",
+    "vendor_id": "VEND-1158",
+    "amount": 1314.5,
+    "date": "2025-08-09",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1159",
+    "vendor_id": "VEND-1159",
+    "amount": 5000.91,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1160",
+    "vendor_id": "VEND-1160",
+    "amount": 1324.91,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1161",
+    "vendor_id": "VEND-1161",
+    "amount": 1612.6,
+    "date": "2025-09-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1162",
+    "vendor_id": "VEND-1162",
+    "amount": 12901.75,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1163",
+    "vendor_id": "VEND-1163",
+    "amount": 7852.48,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1164",
+    "vendor_id": "VEND-1164",
+    "amount": 8537.59,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1165",
+    "vendor_id": "VEND-1165",
+    "amount": 13490.21,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1166",
+    "vendor_id": "VEND-1166",
+    "amount": 12242.33,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1167",
+    "vendor_id": "VEND-1167",
+    "amount": 5162.14,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1168",
+    "vendor_id": "VEND-1168",
+    "amount": 2687.49,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1169",
+    "vendor_id": "VEND-1169",
+    "amount": 2000.78,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1170",
+    "vendor_id": "VEND-1170",
+    "amount": 5479.85,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1171",
+    "vendor_id": "VEND-1171",
+    "amount": 7815.96,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1172",
+    "vendor_id": "VEND-1172",
+    "amount": 4092.28,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1173",
+    "vendor_id": "VEND-1173",
+    "amount": 6871.62,
+    "date": "2025-09-07",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1174",
+    "vendor_id": "VEND-1174",
+    "amount": 2801.82,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1175",
+    "vendor_id": "VEND-1175",
+    "amount": 4601.96,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1176",
+    "vendor_id": "VEND-1176",
+    "amount": 5406.32,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1177",
+    "vendor_id": "VEND-1177",
+    "amount": 11943.79,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1178",
+    "vendor_id": "VEND-1178",
+    "amount": 1455.72,
+    "date": "2025-09-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1179",
+    "vendor_id": "VEND-1179",
+    "amount": 10336.5,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1180",
+    "vendor_id": "VEND-1180",
+    "amount": 10994.14,
+    "date": "2025-09-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1181",
+    "vendor_id": "VEND-1181",
+    "amount": 13641.97,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1182",
+    "vendor_id": "VEND-1182",
+    "amount": 5333.75,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1183",
+    "vendor_id": "VEND-1183",
+    "amount": 2550.71,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1184",
+    "vendor_id": "VEND-1184",
+    "amount": 14531.6,
+    "date": "2025-08-28",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1185",
+    "vendor_id": "VEND-1185",
+    "amount": 6183.39,
+    "date": "2025-07-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1186",
+    "vendor_id": "VEND-1186",
+    "amount": 14101.03,
+    "date": "2025-10-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1187",
+    "vendor_id": "VEND-1187",
+    "amount": 5961.85,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1188",
+    "vendor_id": "VEND-1188",
+    "amount": 12291.18,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1189",
+    "vendor_id": "VEND-1189",
+    "amount": 12519.91,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1190",
+    "vendor_id": "VEND-1190",
+    "amount": 10438.51,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1191",
+    "vendor_id": "VEND-1191",
+    "amount": 9867.36,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1192",
+    "vendor_id": "VEND-1192",
+    "amount": 5746.51,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1193",
+    "vendor_id": "VEND-1193",
+    "amount": 3113.81,
+    "date": "2025-07-23",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1194",
+    "vendor_id": "VEND-1194",
+    "amount": 14241.19,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1195",
+    "vendor_id": "VEND-1195",
+    "amount": 3784.87,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1196",
+    "vendor_id": "VEND-1196",
+    "amount": 1618.89,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1197",
+    "vendor_id": "VEND-1197",
+    "amount": 1966.54,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1198",
+    "vendor_id": "VEND-1198",
+    "amount": 12609.24,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1199",
+    "vendor_id": "VEND-1199",
+    "amount": 1047.34,
+    "date": "2025-07-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1200",
+    "vendor_id": "VEND-1200",
+    "amount": 11611.46,
+    "date": "2025-09-07",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1201",
+    "vendor_id": "VEND-1201",
+    "amount": 5962.44,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1202",
+    "vendor_id": "VEND-1202",
+    "amount": 12554.5,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1203",
+    "vendor_id": "VEND-1203",
+    "amount": 12231.13,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1204",
+    "vendor_id": "VEND-1204",
+    "amount": 6846.26,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1205",
+    "vendor_id": "VEND-1205",
+    "amount": 10307.26,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1206",
+    "vendor_id": "VEND-1206",
+    "amount": 6940.88,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1207",
+    "vendor_id": "VEND-1207",
+    "amount": 11353.78,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1208",
+    "vendor_id": "VEND-1208",
+    "amount": 8243.16,
+    "date": "2025-08-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1209",
+    "vendor_id": "VEND-1209",
+    "amount": 12225.05,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1210",
+    "vendor_id": "VEND-1210",
+    "amount": 12609.14,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1211",
+    "vendor_id": "VEND-1211",
+    "amount": 14233.39,
+    "date": "2025-09-12",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1212",
+    "vendor_id": "VEND-1212",
+    "amount": 7194.36,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1213",
+    "vendor_id": "VEND-1213",
+    "amount": 6037.15,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1214",
+    "vendor_id": "VEND-1214",
+    "amount": 14510.89,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1215",
+    "vendor_id": "VEND-1215",
+    "amount": 12118.26,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1216",
+    "vendor_id": "VEND-1216",
+    "amount": 4125.05,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1217",
+    "vendor_id": "VEND-1217",
+    "amount": 13174.7,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1218",
+    "vendor_id": "VEND-1218",
+    "amount": 1987.55,
+    "date": "2025-08-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1219",
+    "vendor_id": "VEND-1219",
+    "amount": 12841.91,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1220",
+    "vendor_id": "VEND-1220",
+    "amount": 11565.19,
+    "date": "2025-09-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1221",
+    "vendor_id": "VEND-1221",
+    "amount": 13626.94,
+    "date": "2025-09-07",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1222",
+    "vendor_id": "VEND-1222",
+    "amount": 6843.35,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1223",
+    "vendor_id": "VEND-1223",
+    "amount": 3719.55,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1224",
+    "vendor_id": "VEND-1224",
+    "amount": 5568.98,
+    "date": "2025-09-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1225",
+    "vendor_id": "VEND-1225",
+    "amount": 1272.22,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1226",
+    "vendor_id": "VEND-1226",
+    "amount": 3918.78,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1227",
+    "vendor_id": "VEND-1227",
+    "amount": 5936.23,
+    "date": "2025-08-12",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1228",
+    "vendor_id": "VEND-1228",
+    "amount": 13996.98,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1229",
+    "vendor_id": "VEND-1229",
+    "amount": 9924.43,
+    "date": "2025-08-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1230",
+    "vendor_id": "VEND-1230",
+    "amount": 2495.19,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1231",
+    "vendor_id": "VEND-1231",
+    "amount": 12531.54,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1232",
+    "vendor_id": "VEND-1232",
+    "amount": 2512.49,
+    "date": "2025-08-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1233",
+    "vendor_id": "VEND-1233",
+    "amount": 7004.72,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1234",
+    "vendor_id": "VEND-1234",
+    "amount": 1648.77,
+    "date": "2025-09-07",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1235",
+    "vendor_id": "VEND-1235",
+    "amount": 12606.96,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1236",
+    "vendor_id": "VEND-1236",
+    "amount": 11044.9,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1237",
+    "vendor_id": "VEND-1237",
+    "amount": 2112.21,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1238",
+    "vendor_id": "VEND-1238",
+    "amount": 4866.69,
+    "date": "2025-08-20",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1239",
+    "vendor_id": "VEND-1239",
+    "amount": 6587.47,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1240",
+    "vendor_id": "VEND-1240",
+    "amount": 7128.15,
+    "date": "2025-08-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1241",
+    "vendor_id": "VEND-1241",
+    "amount": 13624.63,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1242",
+    "vendor_id": "VEND-1242",
+    "amount": 738.31,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1243",
+    "vendor_id": "VEND-1243",
+    "amount": 4008.1,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1244",
+    "vendor_id": "VEND-1244",
+    "amount": 6723.96,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1245",
+    "vendor_id": "VEND-1245",
+    "amount": 3988.18,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1246",
+    "vendor_id": "VEND-1246",
+    "amount": 10133.38,
+    "date": "2025-09-12",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1247",
+    "vendor_id": "VEND-1247",
+    "amount": 14632.49,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1248",
+    "vendor_id": "VEND-1248",
+    "amount": 8127.86,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1249",
+    "vendor_id": "VEND-1249",
+    "amount": 14830.81,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1250",
+    "vendor_id": "VEND-1250",
+    "amount": 6161.58,
+    "date": "2025-07-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1251",
+    "vendor_id": "VEND-1251",
+    "amount": 9717.23,
+    "date": "2025-08-05",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1252",
+    "vendor_id": "VEND-1252",
+    "amount": 4177.93,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1253",
+    "vendor_id": "VEND-1253",
+    "amount": 11933.54,
+    "date": "2025-09-15",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1254",
+    "vendor_id": "VEND-1254",
+    "amount": 11127.64,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1255",
+    "vendor_id": "VEND-1255",
+    "amount": 11686.77,
+    "date": "2025-07-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1256",
+    "vendor_id": "VEND-1256",
+    "amount": 5321.52,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1257",
+    "vendor_id": "VEND-1257",
+    "amount": 8417.2,
+    "date": "2025-07-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1258",
+    "vendor_id": "VEND-1258",
+    "amount": 3038.79,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1259",
+    "vendor_id": "VEND-1259",
+    "amount": 7237.03,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1260",
+    "vendor_id": "VEND-1260",
+    "amount": 9660.17,
+    "date": "2025-08-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1261",
+    "vendor_id": "VEND-1261",
+    "amount": 1414.96,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1262",
+    "vendor_id": "VEND-1262",
+    "amount": 7136.35,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1263",
+    "vendor_id": "VEND-1263",
+    "amount": 1135.19,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1264",
+    "vendor_id": "VEND-1264",
+    "amount": 1107.64,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1265",
+    "vendor_id": "VEND-1265",
+    "amount": 7973.06,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1266",
+    "vendor_id": "VEND-1266",
+    "amount": 8373.95,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1267",
+    "vendor_id": "VEND-1267",
+    "amount": 11422.72,
+    "date": "2025-09-06",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1268",
+    "vendor_id": "VEND-1268",
+    "amount": 5676.13,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1269",
+    "vendor_id": "VEND-1269",
+    "amount": 13054.08,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1270",
+    "vendor_id": "VEND-1270",
+    "amount": 2304.89,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1271",
+    "vendor_id": "VEND-1271",
+    "amount": 13397.55,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1272",
+    "vendor_id": "VEND-1272",
+    "amount": 13472.24,
+    "date": "2025-08-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1273",
+    "vendor_id": "VEND-1273",
+    "amount": 14618.99,
+    "date": "2025-08-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1274",
+    "vendor_id": "VEND-1274",
+    "amount": 7714.09,
+    "date": "2025-08-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1275",
+    "vendor_id": "VEND-1275",
+    "amount": 8029.5,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1276",
+    "vendor_id": "VEND-1276",
+    "amount": 11042.68,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1277",
+    "vendor_id": "VEND-1277",
+    "amount": 9235.57,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1278",
+    "vendor_id": "VEND-1278",
+    "amount": 8409.38,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1279",
+    "vendor_id": "VEND-1279",
+    "amount": 1661.0,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1280",
+    "vendor_id": "VEND-1280",
+    "amount": 4944.19,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1281",
+    "vendor_id": "VEND-1281",
+    "amount": 6678.68,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1282",
+    "vendor_id": "VEND-1282",
+    "amount": 5597.43,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1283",
+    "vendor_id": "VEND-1283",
+    "amount": 13115.54,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1284",
+    "vendor_id": "VEND-1284",
+    "amount": 14973.18,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1285",
+    "vendor_id": "VEND-1285",
+    "amount": 14710.4,
+    "date": "2025-09-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1286",
+    "vendor_id": "VEND-1286",
+    "amount": 1588.1,
+    "date": "2025-09-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1287",
+    "vendor_id": "VEND-1287",
+    "amount": 5768.01,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1288",
+    "vendor_id": "VEND-1288",
+    "amount": 10351.45,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1289",
+    "vendor_id": "VEND-1289",
+    "amount": 2570.3,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1290",
+    "vendor_id": "VEND-1290",
+    "amount": 11829.02,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1291",
+    "vendor_id": "VEND-1291",
+    "amount": 1474.88,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1292",
+    "vendor_id": "VEND-1292",
+    "amount": 5811.76,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1293",
+    "vendor_id": "VEND-1293",
+    "amount": 8725.05,
+    "date": "2025-09-06",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1294",
+    "vendor_id": "VEND-1294",
+    "amount": 10346.4,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1295",
+    "vendor_id": "VEND-1295",
+    "amount": 5894.19,
+    "date": "2025-09-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1296",
+    "vendor_id": "VEND-1296",
+    "amount": 8821.87,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1297",
+    "vendor_id": "VEND-1297",
+    "amount": 6271.49,
+    "date": "2025-08-07",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1298",
+    "vendor_id": "VEND-1298",
+    "amount": 4119.37,
+    "date": "2025-09-07",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1299",
+    "vendor_id": "VEND-1299",
+    "amount": 11167.29,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1300",
+    "vendor_id": "VEND-1300",
+    "amount": 6111.32,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1301",
+    "vendor_id": "VEND-1301",
+    "amount": 4295.76,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1302",
+    "vendor_id": "VEND-1302",
+    "amount": 6970.96,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1303",
+    "vendor_id": "VEND-1303",
+    "amount": 4640.86,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1304",
+    "vendor_id": "VEND-1304",
+    "amount": 7622.4,
+    "date": "2025-09-05",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1305",
+    "vendor_id": "VEND-1305",
+    "amount": 12865.98,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1306",
+    "vendor_id": "VEND-1306",
+    "amount": 13530.85,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1307",
+    "vendor_id": "VEND-1307",
+    "amount": 1772.97,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1308",
+    "vendor_id": "VEND-1308",
+    "amount": 12760.06,
+    "date": "2025-08-07",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1309",
+    "vendor_id": "VEND-1309",
+    "amount": 5537.67,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1310",
+    "vendor_id": "VEND-1310",
+    "amount": 8361.48,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1311",
+    "vendor_id": "VEND-1311",
+    "amount": 12844.75,
+    "date": "2025-07-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1312",
+    "vendor_id": "VEND-1312",
+    "amount": 13946.2,
+    "date": "2025-08-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1313",
+    "vendor_id": "VEND-1313",
+    "amount": 12008.6,
+    "date": "2025-09-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1314",
+    "vendor_id": "VEND-1314",
+    "amount": 2259.76,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1315",
+    "vendor_id": "VEND-1315",
+    "amount": 2513.71,
+    "date": "2025-09-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1316",
+    "vendor_id": "VEND-1316",
+    "amount": 881.12,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1317",
+    "vendor_id": "VEND-1317",
+    "amount": 5849.21,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1318",
+    "vendor_id": "VEND-1318",
+    "amount": 8498.88,
+    "date": "2025-10-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1319",
+    "vendor_id": "VEND-1319",
+    "amount": 1750.12,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1320",
+    "vendor_id": "VEND-1320",
+    "amount": 14994.13,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1321",
+    "vendor_id": "VEND-1321",
+    "amount": 8122.59,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1322",
+    "vendor_id": "VEND-1322",
+    "amount": 12438.42,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1323",
+    "vendor_id": "VEND-1323",
+    "amount": 14599.51,
+    "date": "2025-07-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1324",
+    "vendor_id": "VEND-1324",
+    "amount": 7024.63,
+    "date": "2025-09-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1325",
+    "vendor_id": "VEND-1325",
+    "amount": 5495.46,
+    "date": "2025-08-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1326",
+    "vendor_id": "VEND-1326",
+    "amount": 11813.81,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1327",
+    "vendor_id": "VEND-1327",
+    "amount": 3138.47,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1328",
+    "vendor_id": "VEND-1328",
+    "amount": 6772.97,
+    "date": "2025-08-05",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1329",
+    "vendor_id": "VEND-1329",
+    "amount": 1303.49,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1330",
+    "vendor_id": "VEND-1330",
+    "amount": 2718.72,
+    "date": "2025-08-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1331",
+    "vendor_id": "VEND-1331",
+    "amount": 5178.58,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1332",
+    "vendor_id": "VEND-1332",
+    "amount": 5517.33,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1333",
+    "vendor_id": "VEND-1333",
+    "amount": 13476.43,
+    "date": "2025-08-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1334",
+    "vendor_id": "VEND-1334",
+    "amount": 4133.78,
+    "date": "2025-07-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1335",
+    "vendor_id": "VEND-1335",
+    "amount": 8487.2,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1336",
+    "vendor_id": "VEND-1336",
+    "amount": 4890.96,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1337",
+    "vendor_id": "VEND-1337",
+    "amount": 7787.31,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1338",
+    "vendor_id": "VEND-1338",
+    "amount": 14153.3,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1339",
+    "vendor_id": "VEND-1339",
+    "amount": 10051.63,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1340",
+    "vendor_id": "VEND-1340",
+    "amount": 9274.51,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1341",
+    "vendor_id": "VEND-1341",
+    "amount": 8672.46,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1342",
+    "vendor_id": "VEND-1342",
+    "amount": 911.42,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1343",
+    "vendor_id": "VEND-1343",
+    "amount": 9801.08,
+    "date": "2025-08-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1344",
+    "vendor_id": "VEND-1344",
+    "amount": 9941.38,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1345",
+    "vendor_id": "VEND-1345",
+    "amount": 6540.51,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1346",
+    "vendor_id": "VEND-1346",
+    "amount": 7721.55,
+    "date": "2025-07-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1347",
+    "vendor_id": "VEND-1347",
+    "amount": 4700.24,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1348",
+    "vendor_id": "VEND-1348",
+    "amount": 7502.7,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1349",
+    "vendor_id": "VEND-1349",
+    "amount": 10432.37,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1350",
+    "vendor_id": "VEND-1350",
+    "amount": 1558.11,
+    "date": "2025-08-23",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1351",
+    "vendor_id": "VEND-1351",
+    "amount": 6874.28,
+    "date": "2025-09-07",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1352",
+    "vendor_id": "VEND-1352",
+    "amount": 3458.33,
+    "date": "2025-08-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1353",
+    "vendor_id": "VEND-1353",
+    "amount": 5032.45,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1354",
+    "vendor_id": "VEND-1354",
+    "amount": 11145.9,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1355",
+    "vendor_id": "VEND-1355",
+    "amount": 14642.92,
+    "date": "2025-08-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1356",
+    "vendor_id": "VEND-1356",
+    "amount": 5872.83,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1357",
+    "vendor_id": "VEND-1357",
+    "amount": 5127.18,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1358",
+    "vendor_id": "VEND-1358",
+    "amount": 4378.34,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1359",
+    "vendor_id": "VEND-1359",
+    "amount": 1903.77,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1360",
+    "vendor_id": "VEND-1360",
+    "amount": 6070.17,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1361",
+    "vendor_id": "VEND-1361",
+    "amount": 4099.92,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1362",
+    "vendor_id": "VEND-1362",
+    "amount": 2815.65,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1363",
+    "vendor_id": "VEND-1363",
+    "amount": 8876.46,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1364",
+    "vendor_id": "VEND-1364",
+    "amount": 11565.26,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1365",
+    "vendor_id": "VEND-1365",
+    "amount": 7963.51,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1366",
+    "vendor_id": "VEND-1366",
+    "amount": 4973.84,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1367",
+    "vendor_id": "VEND-1367",
+    "amount": 14205.88,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1368",
+    "vendor_id": "VEND-1368",
+    "amount": 14516.96,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1369",
+    "vendor_id": "VEND-1369",
+    "amount": 5616.98,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1370",
+    "vendor_id": "VEND-1370",
+    "amount": 7675.97,
+    "date": "2025-09-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1371",
+    "vendor_id": "VEND-1371",
+    "amount": 9986.77,
+    "date": "2025-09-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1372",
+    "vendor_id": "VEND-1372",
+    "amount": 8282.02,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1373",
+    "vendor_id": "VEND-1373",
+    "amount": 6748.45,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1374",
+    "vendor_id": "VEND-1374",
+    "amount": 11048.87,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1375",
+    "vendor_id": "VEND-1375",
+    "amount": 5806.09,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1376",
+    "vendor_id": "VEND-1376",
+    "amount": 8769.08,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1377",
+    "vendor_id": "VEND-1377",
+    "amount": 8521.73,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1378",
+    "vendor_id": "VEND-1378",
+    "amount": 7811.71,
+    "date": "2025-08-12",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1379",
+    "vendor_id": "VEND-1379",
+    "amount": 4555.95,
+    "date": "2025-09-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1380",
+    "vendor_id": "VEND-1380",
+    "amount": 10365.78,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1381",
+    "vendor_id": "VEND-1381",
+    "amount": 14638.7,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1382",
+    "vendor_id": "VEND-1382",
+    "amount": 12026.01,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1383",
+    "vendor_id": "VEND-1383",
+    "amount": 14114.75,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1384",
+    "vendor_id": "VEND-1384",
+    "amount": 3386.34,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1385",
+    "vendor_id": "VEND-1385",
+    "amount": 7751.13,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1386",
+    "vendor_id": "VEND-1386",
+    "amount": 2487.03,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1387",
+    "vendor_id": "VEND-1387",
+    "amount": 7369.29,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1388",
+    "vendor_id": "VEND-1388",
+    "amount": 9290.78,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1389",
+    "vendor_id": "VEND-1389",
+    "amount": 5255.5,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1390",
+    "vendor_id": "VEND-1390",
+    "amount": 2856.28,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1391",
+    "vendor_id": "VEND-1391",
+    "amount": 11220.13,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1392",
+    "vendor_id": "VEND-1392",
+    "amount": 5377.42,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1393",
+    "vendor_id": "VEND-1393",
+    "amount": 8218.93,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1394",
+    "vendor_id": "VEND-1394",
+    "amount": 4846.96,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1395",
+    "vendor_id": "VEND-1395",
+    "amount": 5841.19,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1396",
+    "vendor_id": "VEND-1396",
+    "amount": 14708.52,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1397",
+    "vendor_id": "VEND-1397",
+    "amount": 12052.94,
+    "date": "2025-09-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1398",
+    "vendor_id": "VEND-1398",
+    "amount": 10476.63,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1399",
+    "vendor_id": "VEND-1399",
+    "amount": 7381.56,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1400",
+    "vendor_id": "VEND-1400",
+    "amount": 11852.11,
+    "date": "2025-08-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1401",
+    "vendor_id": "VEND-1401",
+    "amount": 8875.7,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1402",
+    "vendor_id": "VEND-1402",
+    "amount": 8961.09,
+    "date": "2025-09-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1403",
+    "vendor_id": "VEND-1403",
+    "amount": 9620.87,
+    "date": "2025-08-08",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1404",
+    "vendor_id": "VEND-1404",
+    "amount": 12696.92,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1405",
+    "vendor_id": "VEND-1405",
+    "amount": 10370.54,
+    "date": "2025-09-26",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1406",
+    "vendor_id": "VEND-1406",
+    "amount": 14248.97,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1407",
+    "vendor_id": "VEND-1407",
+    "amount": 774.59,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1408",
+    "vendor_id": "VEND-1408",
+    "amount": 2695.75,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1409",
+    "vendor_id": "VEND-1409",
+    "amount": 6450.47,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1410",
+    "vendor_id": "VEND-1410",
+    "amount": 13847.55,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1411",
+    "vendor_id": "VEND-1411",
+    "amount": 11169.64,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1412",
+    "vendor_id": "VEND-1412",
+    "amount": 2502.2,
+    "date": "2025-10-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1413",
+    "vendor_id": "VEND-1413",
+    "amount": 5213.22,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1414",
+    "vendor_id": "VEND-1414",
+    "amount": 8119.42,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1415",
+    "vendor_id": "VEND-1415",
+    "amount": 3011.15,
+    "date": "2025-08-12",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1416",
+    "vendor_id": "VEND-1416",
+    "amount": 5463.74,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1417",
+    "vendor_id": "VEND-1417",
+    "amount": 11693.85,
+    "date": "2025-09-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1418",
+    "vendor_id": "VEND-1418",
+    "amount": 9827.98,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1419",
+    "vendor_id": "VEND-1419",
+    "amount": 9346.11,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1420",
+    "vendor_id": "VEND-1420",
+    "amount": 4074.53,
+    "date": "2025-08-07",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1421",
+    "vendor_id": "VEND-1421",
+    "amount": 3760.57,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1422",
+    "vendor_id": "VEND-1422",
+    "amount": 4815.41,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1423",
+    "vendor_id": "VEND-1423",
+    "amount": 3505.53,
+    "date": "2025-09-26",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1424",
+    "vendor_id": "VEND-1424",
+    "amount": 5097.09,
+    "date": "2025-08-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1425",
+    "vendor_id": "VEND-1425",
+    "amount": 14038.66,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1426",
+    "vendor_id": "VEND-1426",
+    "amount": 4465.13,
+    "date": "2025-08-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1427",
+    "vendor_id": "VEND-1427",
+    "amount": 10311.02,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1428",
+    "vendor_id": "VEND-1428",
+    "amount": 14712.33,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1429",
+    "vendor_id": "VEND-1429",
+    "amount": 14341.83,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1430",
+    "vendor_id": "VEND-1430",
+    "amount": 4711.56,
+    "date": "2025-09-12",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1431",
+    "vendor_id": "VEND-1431",
+    "amount": 10855.05,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1432",
+    "vendor_id": "VEND-1432",
+    "amount": 6914.45,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1433",
+    "vendor_id": "VEND-1433",
+    "amount": 7446.65,
+    "date": "2025-08-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1434",
+    "vendor_id": "VEND-1434",
+    "amount": 8309.38,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1435",
+    "vendor_id": "VEND-1435",
+    "amount": 10594.48,
+    "date": "2025-08-05",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1436",
+    "vendor_id": "VEND-1436",
+    "amount": 9427.32,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1437",
+    "vendor_id": "VEND-1437",
+    "amount": 4015.64,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1438",
+    "vendor_id": "VEND-1438",
+    "amount": 8200.1,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1439",
+    "vendor_id": "VEND-1439",
+    "amount": 1261.12,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1440",
+    "vendor_id": "VEND-1440",
+    "amount": 10901.69,
+    "date": "2025-09-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1441",
+    "vendor_id": "VEND-1441",
+    "amount": 11676.11,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1442",
+    "vendor_id": "VEND-1442",
+    "amount": 8480.11,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1443",
+    "vendor_id": "VEND-1443",
+    "amount": 6400.16,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1444",
+    "vendor_id": "VEND-1444",
+    "amount": 13236.79,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1445",
+    "vendor_id": "VEND-1445",
+    "amount": 3392.11,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1446",
+    "vendor_id": "VEND-1446",
+    "amount": 5156.93,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1447",
+    "vendor_id": "VEND-1447",
+    "amount": 13665.09,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1448",
+    "vendor_id": "VEND-1448",
+    "amount": 8824.93,
+    "date": "2025-07-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1449",
+    "vendor_id": "VEND-1449",
+    "amount": 10985.21,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1450",
+    "vendor_id": "VEND-1450",
+    "amount": 13741.83,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1451",
+    "vendor_id": "VEND-1451",
+    "amount": 13292.55,
+    "date": "2025-09-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1452",
+    "vendor_id": "VEND-1452",
+    "amount": 13834.7,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1453",
+    "vendor_id": "VEND-1453",
+    "amount": 6256.42,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1454",
+    "vendor_id": "VEND-1454",
+    "amount": 14080.83,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1455",
+    "vendor_id": "VEND-1455",
+    "amount": 13927.58,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1456",
+    "vendor_id": "VEND-1456",
+    "amount": 634.37,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1457",
+    "vendor_id": "VEND-1457",
+    "amount": 2055.86,
+    "date": "2025-07-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1458",
+    "vendor_id": "VEND-1458",
+    "amount": 4626.14,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1459",
+    "vendor_id": "VEND-1459",
+    "amount": 8377.86,
+    "date": "2025-08-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1460",
+    "vendor_id": "VEND-1460",
+    "amount": 14109.13,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1461",
+    "vendor_id": "VEND-1461",
+    "amount": 7286.3,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1462",
+    "vendor_id": "VEND-1462",
+    "amount": 2133.38,
+    "date": "2025-08-09",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1463",
+    "vendor_id": "VEND-1463",
+    "amount": 7154.26,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1464",
+    "vendor_id": "VEND-1464",
+    "amount": 3199.89,
+    "date": "2025-08-29",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1465",
+    "vendor_id": "VEND-1465",
+    "amount": 11966.13,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1466",
+    "vendor_id": "VEND-1466",
+    "amount": 11480.6,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1467",
+    "vendor_id": "VEND-1467",
+    "amount": 12914.12,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1468",
+    "vendor_id": "VEND-1468",
+    "amount": 12491.35,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1469",
+    "vendor_id": "VEND-1469",
+    "amount": 1757.7,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1470",
+    "vendor_id": "VEND-1470",
+    "amount": 3179.33,
+    "date": "2025-08-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1471",
+    "vendor_id": "VEND-1471",
+    "amount": 5192.22,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1472",
+    "vendor_id": "VEND-1472",
+    "amount": 4281.39,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1473",
+    "vendor_id": "VEND-1473",
+    "amount": 11429.47,
+    "date": "2025-09-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1474",
+    "vendor_id": "VEND-1474",
+    "amount": 4878.21,
+    "date": "2025-08-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1475",
+    "vendor_id": "VEND-1475",
+    "amount": 665.82,
+    "date": "2025-09-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1476",
+    "vendor_id": "VEND-1476",
+    "amount": 10545.14,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1477",
+    "vendor_id": "VEND-1477",
+    "amount": 2214.26,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1478",
+    "vendor_id": "VEND-1478",
+    "amount": 6378.54,
+    "date": "2025-07-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1479",
+    "vendor_id": "VEND-1479",
+    "amount": 13479.22,
+    "date": "2025-08-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1480",
+    "vendor_id": "VEND-1480",
+    "amount": 5009.18,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1481",
+    "vendor_id": "VEND-1481",
+    "amount": 13783.89,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1482",
+    "vendor_id": "VEND-1482",
+    "amount": 9412.07,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1483",
+    "vendor_id": "VEND-1483",
+    "amount": 2436.75,
+    "date": "2025-08-28",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1484",
+    "vendor_id": "VEND-1484",
+    "amount": 11342.16,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1485",
+    "vendor_id": "VEND-1485",
+    "amount": 6529.76,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1486",
+    "vendor_id": "VEND-1486",
+    "amount": 7327.01,
+    "date": "2025-09-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1487",
+    "vendor_id": "VEND-1487",
+    "amount": 10129.37,
+    "date": "2025-09-07",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1488",
+    "vendor_id": "VEND-1488",
+    "amount": 4088.25,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1489",
+    "vendor_id": "VEND-1489",
+    "amount": 13160.46,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1490",
+    "vendor_id": "VEND-1490",
+    "amount": 6977.85,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1491",
+    "vendor_id": "VEND-1491",
+    "amount": 1632.49,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1492",
+    "vendor_id": "VEND-1492",
+    "amount": 1395.49,
+    "date": "2025-09-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1493",
+    "vendor_id": "VEND-1493",
+    "amount": 7829.56,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1494",
+    "vendor_id": "VEND-1494",
+    "amount": 2672.86,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1495",
+    "vendor_id": "VEND-1495",
+    "amount": 8044.95,
+    "date": "2025-08-12",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1496",
+    "vendor_id": "VEND-1496",
+    "amount": 3478.32,
+    "date": "2025-07-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1497",
+    "vendor_id": "VEND-1497",
+    "amount": 1818.65,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1498",
+    "vendor_id": "VEND-1498",
+    "amount": 12226.04,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1499",
+    "vendor_id": "VEND-1499",
+    "amount": 7942.09,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1500",
+    "vendor_id": "VEND-1500",
+    "amount": 1337.18,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1501",
+    "vendor_id": "VEND-1501",
+    "amount": 12200.27,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1502",
+    "vendor_id": "VEND-1502",
+    "amount": 6241.26,
+    "date": "2025-08-05",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1503",
+    "vendor_id": "VEND-1503",
+    "amount": 11314.17,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1504",
+    "vendor_id": "VEND-1504",
+    "amount": 1156.7,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1505",
+    "vendor_id": "VEND-1505",
+    "amount": 1424.52,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1506",
+    "vendor_id": "VEND-1506",
+    "amount": 14051.45,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1507",
+    "vendor_id": "VEND-1507",
+    "amount": 14039.75,
+    "date": "2025-08-05",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1508",
+    "vendor_id": "VEND-1508",
+    "amount": 6428.57,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1509",
+    "vendor_id": "VEND-1509",
+    "amount": 11604.5,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1510",
+    "vendor_id": "VEND-1510",
+    "amount": 9865.27,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1511",
+    "vendor_id": "VEND-1511",
+    "amount": 14896.42,
+    "date": "2025-09-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1512",
+    "vendor_id": "VEND-1512",
+    "amount": 13109.49,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1513",
+    "vendor_id": "VEND-1513",
+    "amount": 5946.86,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1514",
+    "vendor_id": "VEND-1514",
+    "amount": 10095.99,
+    "date": "2025-09-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1515",
+    "vendor_id": "VEND-1515",
+    "amount": 9976.24,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1516",
+    "vendor_id": "VEND-1516",
+    "amount": 3087.87,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1517",
+    "vendor_id": "VEND-1517",
+    "amount": 8168.22,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1518",
+    "vendor_id": "VEND-1518",
+    "amount": 3729.01,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1519",
+    "vendor_id": "VEND-1519",
+    "amount": 829.66,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1520",
+    "vendor_id": "VEND-1520",
+    "amount": 10265.75,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1521",
+    "vendor_id": "VEND-1521",
+    "amount": 8213.04,
+    "date": "2025-09-12",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1522",
+    "vendor_id": "VEND-1522",
+    "amount": 4088.92,
+    "date": "2025-10-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1523",
+    "vendor_id": "VEND-1523",
+    "amount": 4496.92,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1524",
+    "vendor_id": "VEND-1524",
+    "amount": 11012.85,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1525",
+    "vendor_id": "VEND-1525",
+    "amount": 12237.43,
+    "date": "2025-08-09",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1526",
+    "vendor_id": "VEND-1526",
+    "amount": 11607.78,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1527",
+    "vendor_id": "VEND-1527",
+    "amount": 726.86,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1528",
+    "vendor_id": "VEND-1528",
+    "amount": 1963.0,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1529",
+    "vendor_id": "VEND-1529",
+    "amount": 9167.88,
+    "date": "2025-09-23",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1530",
+    "vendor_id": "VEND-1530",
+    "amount": 1205.81,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1531",
+    "vendor_id": "VEND-1531",
+    "amount": 6332.85,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1532",
+    "vendor_id": "VEND-1532",
+    "amount": 3650.4,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1533",
+    "vendor_id": "VEND-1533",
+    "amount": 1318.44,
+    "date": "2025-08-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1534",
+    "vendor_id": "VEND-1534",
+    "amount": 4694.32,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1535",
+    "vendor_id": "VEND-1535",
+    "amount": 11107.0,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1536",
+    "vendor_id": "VEND-1536",
+    "amount": 9169.81,
+    "date": "2025-08-29",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1537",
+    "vendor_id": "VEND-1537",
+    "amount": 5149.64,
+    "date": "2025-08-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1538",
+    "vendor_id": "VEND-1538",
+    "amount": 2577.28,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1539",
+    "vendor_id": "VEND-1539",
+    "amount": 3705.12,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1540",
+    "vendor_id": "VEND-1540",
+    "amount": 1383.89,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1541",
+    "vendor_id": "VEND-1541",
+    "amount": 13255.85,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1542",
+    "vendor_id": "VEND-1542",
+    "amount": 9576.9,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1543",
+    "vendor_id": "VEND-1543",
+    "amount": 7686.5,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1544",
+    "vendor_id": "VEND-1544",
+    "amount": 14153.0,
+    "date": "2025-08-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1545",
+    "vendor_id": "VEND-1545",
+    "amount": 11894.17,
+    "date": "2025-09-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1546",
+    "vendor_id": "VEND-1546",
+    "amount": 6536.71,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1547",
+    "vendor_id": "VEND-1547",
+    "amount": 5958.67,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1548",
+    "vendor_id": "VEND-1548",
+    "amount": 7366.02,
+    "date": "2025-09-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1549",
+    "vendor_id": "VEND-1549",
+    "amount": 4860.68,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1550",
+    "vendor_id": "VEND-1550",
+    "amount": 12183.75,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1551",
+    "vendor_id": "VEND-1551",
+    "amount": 8654.6,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1552",
+    "vendor_id": "VEND-1552",
+    "amount": 8580.66,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1553",
+    "vendor_id": "VEND-1553",
+    "amount": 4021.45,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1554",
+    "vendor_id": "VEND-1554",
+    "amount": 9877.23,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1555",
+    "vendor_id": "VEND-1555",
+    "amount": 12783.43,
+    "date": "2025-08-12",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1556",
+    "vendor_id": "VEND-1556",
+    "amount": 11006.48,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1557",
+    "vendor_id": "VEND-1557",
+    "amount": 4392.69,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1558",
+    "vendor_id": "VEND-1558",
+    "amount": 9242.37,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1559",
+    "vendor_id": "VEND-1559",
+    "amount": 3228.37,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1560",
+    "vendor_id": "VEND-1560",
+    "amount": 11002.43,
+    "date": "2025-07-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1561",
+    "vendor_id": "VEND-1561",
+    "amount": 7451.22,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1562",
+    "vendor_id": "VEND-1562",
+    "amount": 5327.98,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1563",
+    "vendor_id": "VEND-1563",
+    "amount": 722.34,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1564",
+    "vendor_id": "VEND-1564",
+    "amount": 14450.12,
+    "date": "2025-08-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1565",
+    "vendor_id": "VEND-1565",
+    "amount": 14993.79,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1566",
+    "vendor_id": "VEND-1566",
+    "amount": 4017.6,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1567",
+    "vendor_id": "VEND-1567",
+    "amount": 3465.44,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1568",
+    "vendor_id": "VEND-1568",
+    "amount": 8505.15,
+    "date": "2025-09-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1569",
+    "vendor_id": "VEND-1569",
+    "amount": 6019.6,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1570",
+    "vendor_id": "VEND-1570",
+    "amount": 5709.26,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1571",
+    "vendor_id": "VEND-1571",
+    "amount": 7935.84,
+    "date": "2025-08-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1572",
+    "vendor_id": "VEND-1572",
+    "amount": 1929.82,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1573",
+    "vendor_id": "VEND-1573",
+    "amount": 7307.61,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1574",
+    "vendor_id": "VEND-1574",
+    "amount": 13757.79,
+    "date": "2025-09-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1575",
+    "vendor_id": "VEND-1575",
+    "amount": 6501.99,
+    "date": "2025-08-08",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1576",
+    "vendor_id": "VEND-1576",
+    "amount": 3708.47,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1577",
+    "vendor_id": "VEND-1577",
+    "amount": 4281.22,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1578",
+    "vendor_id": "VEND-1578",
+    "amount": 8897.57,
+    "date": "2025-10-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1579",
+    "vendor_id": "VEND-1579",
+    "amount": 2709.97,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1580",
+    "vendor_id": "VEND-1580",
+    "amount": 6007.68,
+    "date": "2025-09-12",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1581",
+    "vendor_id": "VEND-1581",
+    "amount": 7739.87,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1582",
+    "vendor_id": "VEND-1582",
+    "amount": 10430.28,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1583",
+    "vendor_id": "VEND-1583",
+    "amount": 12413.08,
+    "date": "2025-08-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1584",
+    "vendor_id": "VEND-1584",
+    "amount": 9804.57,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1585",
+    "vendor_id": "VEND-1585",
+    "amount": 2939.39,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1586",
+    "vendor_id": "VEND-1586",
+    "amount": 2954.35,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1587",
+    "vendor_id": "VEND-1587",
+    "amount": 7580.59,
+    "date": "2025-07-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1588",
+    "vendor_id": "VEND-1588",
+    "amount": 8360.98,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1589",
+    "vendor_id": "VEND-1589",
+    "amount": 1351.61,
+    "date": "2025-09-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1590",
+    "vendor_id": "VEND-1590",
+    "amount": 12777.11,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1591",
+    "vendor_id": "VEND-1591",
+    "amount": 10189.13,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1592",
+    "vendor_id": "VEND-1592",
+    "amount": 6479.69,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1593",
+    "vendor_id": "VEND-1593",
+    "amount": 3855.78,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1594",
+    "vendor_id": "VEND-1594",
+    "amount": 632.55,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1595",
+    "vendor_id": "VEND-1595",
+    "amount": 5911.41,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1596",
+    "vendor_id": "VEND-1596",
+    "amount": 10167.94,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1597",
+    "vendor_id": "VEND-1597",
+    "amount": 7506.46,
+    "date": "2025-09-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1598",
+    "vendor_id": "VEND-1598",
+    "amount": 595.88,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1599",
+    "vendor_id": "VEND-1599",
+    "amount": 671.84,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1600",
+    "vendor_id": "VEND-1600",
+    "amount": 4483.74,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1601",
+    "vendor_id": "VEND-1601",
+    "amount": 748.57,
+    "date": "2025-08-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1602",
+    "vendor_id": "VEND-1602",
+    "amount": 10273.48,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1603",
+    "vendor_id": "VEND-1603",
+    "amount": 13691.71,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1604",
+    "vendor_id": "VEND-1604",
+    "amount": 1896.55,
+    "date": "2025-09-23",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1605",
+    "vendor_id": "VEND-1605",
+    "amount": 3283.01,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1606",
+    "vendor_id": "VEND-1606",
+    "amount": 12320.61,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1607",
+    "vendor_id": "VEND-1607",
+    "amount": 6255.0,
+    "date": "2025-09-05",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1608",
+    "vendor_id": "VEND-1608",
+    "amount": 6387.4,
+    "date": "2025-09-15",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1609",
+    "vendor_id": "VEND-1609",
+    "amount": 14858.38,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1610",
+    "vendor_id": "VEND-1610",
+    "amount": 10418.6,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1611",
+    "vendor_id": "VEND-1611",
+    "amount": 9979.17,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1612",
+    "vendor_id": "VEND-1612",
+    "amount": 11513.99,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1613",
+    "vendor_id": "VEND-1613",
+    "amount": 5999.33,
+    "date": "2025-09-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1614",
+    "vendor_id": "VEND-1614",
+    "amount": 1313.67,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1615",
+    "vendor_id": "VEND-1615",
+    "amount": 2985.06,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1616",
+    "vendor_id": "VEND-1616",
+    "amount": 6791.69,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1617",
+    "vendor_id": "VEND-1617",
+    "amount": 8704.92,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1618",
+    "vendor_id": "VEND-1618",
+    "amount": 1882.75,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1619",
+    "vendor_id": "VEND-1619",
+    "amount": 1117.0,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1620",
+    "vendor_id": "VEND-1620",
+    "amount": 13087.69,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1621",
+    "vendor_id": "VEND-1621",
+    "amount": 7394.75,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1622",
+    "vendor_id": "VEND-1622",
+    "amount": 1578.05,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1623",
+    "vendor_id": "VEND-1623",
+    "amount": 13540.02,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1624",
+    "vendor_id": "VEND-1624",
+    "amount": 977.08,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1625",
+    "vendor_id": "VEND-1625",
+    "amount": 5060.03,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1626",
+    "vendor_id": "VEND-1626",
+    "amount": 9012.02,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1627",
+    "vendor_id": "VEND-1627",
+    "amount": 10834.32,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1628",
+    "vendor_id": "VEND-1628",
+    "amount": 1615.59,
+    "date": "2025-09-28",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1629",
+    "vendor_id": "VEND-1629",
+    "amount": 3986.85,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1630",
+    "vendor_id": "VEND-1630",
+    "amount": 6142.77,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1631",
+    "vendor_id": "VEND-1631",
+    "amount": 5310.08,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1632",
+    "vendor_id": "VEND-1632",
+    "amount": 2529.28,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1633",
+    "vendor_id": "VEND-1633",
+    "amount": 11000.37,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1634",
+    "vendor_id": "VEND-1634",
+    "amount": 14627.69,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1635",
+    "vendor_id": "VEND-1635",
+    "amount": 6837.78,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1636",
+    "vendor_id": "VEND-1636",
+    "amount": 5438.59,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1637",
+    "vendor_id": "VEND-1637",
+    "amount": 14345.45,
+    "date": "2025-09-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1638",
+    "vendor_id": "VEND-1638",
+    "amount": 11716.55,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1639",
+    "vendor_id": "VEND-1639",
+    "amount": 4463.24,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1640",
+    "vendor_id": "VEND-1640",
+    "amount": 7613.75,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1641",
+    "vendor_id": "VEND-1641",
+    "amount": 14146.57,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1642",
+    "vendor_id": "VEND-1642",
+    "amount": 10355.58,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1643",
+    "vendor_id": "VEND-1643",
+    "amount": 1742.56,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1644",
+    "vendor_id": "VEND-1644",
+    "amount": 12071.8,
+    "date": "2025-09-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1645",
+    "vendor_id": "VEND-1645",
+    "amount": 1689.55,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1646",
+    "vendor_id": "VEND-1646",
+    "amount": 10819.32,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1647",
+    "vendor_id": "VEND-1647",
+    "amount": 11225.0,
+    "date": "2025-07-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1648",
+    "vendor_id": "VEND-1648",
+    "amount": 2044.99,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1649",
+    "vendor_id": "VEND-1649",
+    "amount": 4969.88,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1650",
+    "vendor_id": "VEND-1650",
+    "amount": 4411.61,
+    "date": "2025-09-15",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1651",
+    "vendor_id": "VEND-1651",
+    "amount": 3217.18,
+    "date": "2025-09-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1652",
+    "vendor_id": "VEND-1652",
+    "amount": 8543.73,
+    "date": "2025-09-10",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1653",
+    "vendor_id": "VEND-1653",
+    "amount": 880.8,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1654",
+    "vendor_id": "VEND-1654",
+    "amount": 1849.43,
+    "date": "2025-07-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1655",
+    "vendor_id": "VEND-1655",
+    "amount": 5204.24,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1656",
+    "vendor_id": "VEND-1656",
+    "amount": 4731.79,
+    "date": "2025-08-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1657",
+    "vendor_id": "VEND-1657",
+    "amount": 1728.14,
+    "date": "2025-09-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1658",
+    "vendor_id": "VEND-1658",
+    "amount": 13625.51,
+    "date": "2025-07-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1659",
+    "vendor_id": "VEND-1659",
+    "amount": 8793.43,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1660",
+    "vendor_id": "VEND-1660",
+    "amount": 6020.61,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1661",
+    "vendor_id": "VEND-1661",
+    "amount": 4866.4,
+    "date": "2025-09-05",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1662",
+    "vendor_id": "VEND-1662",
+    "amount": 1417.37,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1663",
+    "vendor_id": "VEND-1663",
+    "amount": 6605.98,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1664",
+    "vendor_id": "VEND-1664",
+    "amount": 1615.36,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1665",
+    "vendor_id": "VEND-1665",
+    "amount": 4075.56,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1666",
+    "vendor_id": "VEND-1666",
+    "amount": 9110.19,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1667",
+    "vendor_id": "VEND-1667",
+    "amount": 2051.1,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1668",
+    "vendor_id": "VEND-1668",
+    "amount": 14257.94,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1669",
+    "vendor_id": "VEND-1669",
+    "amount": 9492.79,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1670",
+    "vendor_id": "VEND-1670",
+    "amount": 5278.35,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1671",
+    "vendor_id": "VEND-1671",
+    "amount": 12324.39,
+    "date": "2025-08-29",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1672",
+    "vendor_id": "VEND-1672",
+    "amount": 14626.27,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1673",
+    "vendor_id": "VEND-1673",
+    "amount": 5149.64,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1674",
+    "vendor_id": "VEND-1674",
+    "amount": 3412.35,
+    "date": "2025-09-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1675",
+    "vendor_id": "VEND-1675",
+    "amount": 14486.33,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1676",
+    "vendor_id": "VEND-1676",
+    "amount": 4726.0,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1677",
+    "vendor_id": "VEND-1677",
+    "amount": 7619.61,
+    "date": "2025-07-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1678",
+    "vendor_id": "VEND-1678",
+    "amount": 4015.15,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1679",
+    "vendor_id": "VEND-1679",
+    "amount": 12339.17,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1680",
+    "vendor_id": "VEND-1680",
+    "amount": 2151.37,
+    "date": "2025-09-15",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1681",
+    "vendor_id": "VEND-1681",
+    "amount": 9087.29,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1682",
+    "vendor_id": "VEND-1682",
+    "amount": 10384.83,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1683",
+    "vendor_id": "VEND-1683",
+    "amount": 14318.57,
+    "date": "2025-09-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1684",
+    "vendor_id": "VEND-1684",
+    "amount": 10771.32,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1685",
+    "vendor_id": "VEND-1685",
+    "amount": 4724.3,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1686",
+    "vendor_id": "VEND-1686",
+    "amount": 12375.0,
+    "date": "2025-08-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1687",
+    "vendor_id": "VEND-1687",
+    "amount": 6432.55,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1688",
+    "vendor_id": "VEND-1688",
+    "amount": 9683.37,
+    "date": "2025-08-05",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1689",
+    "vendor_id": "VEND-1689",
+    "amount": 10050.61,
+    "date": "2025-09-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1690",
+    "vendor_id": "VEND-1690",
+    "amount": 11941.61,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1691",
+    "vendor_id": "VEND-1691",
+    "amount": 14865.16,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1692",
+    "vendor_id": "VEND-1692",
+    "amount": 6311.67,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1693",
+    "vendor_id": "VEND-1693",
+    "amount": 13845.69,
+    "date": "2025-09-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1694",
+    "vendor_id": "VEND-1694",
+    "amount": 8382.86,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1695",
+    "vendor_id": "VEND-1695",
+    "amount": 5713.18,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1696",
+    "vendor_id": "VEND-1696",
+    "amount": 8285.14,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1697",
+    "vendor_id": "VEND-1697",
+    "amount": 1732.24,
+    "date": "2025-09-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1698",
+    "vendor_id": "VEND-1698",
+    "amount": 10035.22,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1699",
+    "vendor_id": "VEND-1699",
+    "amount": 9881.5,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1700",
+    "vendor_id": "VEND-1700",
+    "amount": 14762.32,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1701",
+    "vendor_id": "VEND-1701",
+    "amount": 6294.46,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1702",
+    "vendor_id": "VEND-1702",
+    "amount": 14502.89,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1703",
+    "vendor_id": "VEND-1703",
+    "amount": 652.94,
+    "date": "2025-09-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1704",
+    "vendor_id": "VEND-1704",
+    "amount": 7904.81,
+    "date": "2025-08-26",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1705",
+    "vendor_id": "VEND-1705",
+    "amount": 8917.52,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1706",
+    "vendor_id": "VEND-1706",
+    "amount": 6963.79,
+    "date": "2025-08-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1707",
+    "vendor_id": "VEND-1707",
+    "amount": 11698.96,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1708",
+    "vendor_id": "VEND-1708",
+    "amount": 7756.75,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1709",
+    "vendor_id": "VEND-1709",
+    "amount": 856.16,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1710",
+    "vendor_id": "VEND-1710",
+    "amount": 6531.64,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1711",
+    "vendor_id": "VEND-1711",
+    "amount": 2183.01,
+    "date": "2025-09-05",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1712",
+    "vendor_id": "VEND-1712",
+    "amount": 2554.29,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1713",
+    "vendor_id": "VEND-1713",
+    "amount": 7102.32,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1714",
+    "vendor_id": "VEND-1714",
+    "amount": 7502.43,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1715",
+    "vendor_id": "VEND-1715",
+    "amount": 6853.41,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1716",
+    "vendor_id": "VEND-1716",
+    "amount": 5124.19,
+    "date": "2025-08-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1717",
+    "vendor_id": "VEND-1717",
+    "amount": 12247.7,
+    "date": "2025-09-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1718",
+    "vendor_id": "VEND-1718",
+    "amount": 12813.11,
+    "date": "2025-09-05",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1719",
+    "vendor_id": "VEND-1719",
+    "amount": 10318.52,
+    "date": "2025-08-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1720",
+    "vendor_id": "VEND-1720",
+    "amount": 14766.56,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1721",
+    "vendor_id": "VEND-1721",
+    "amount": 3029.57,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1722",
+    "vendor_id": "VEND-1722",
+    "amount": 8617.81,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1723",
+    "vendor_id": "VEND-1723",
+    "amount": 3861.91,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1724",
+    "vendor_id": "VEND-1724",
+    "amount": 3174.55,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1725",
+    "vendor_id": "VEND-1725",
+    "amount": 6765.95,
+    "date": "2025-08-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1726",
+    "vendor_id": "VEND-1726",
+    "amount": 9404.55,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1727",
+    "vendor_id": "VEND-1727",
+    "amount": 9086.95,
+    "date": "2025-09-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1728",
+    "vendor_id": "VEND-1728",
+    "amount": 10718.67,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1729",
+    "vendor_id": "VEND-1729",
+    "amount": 11408.72,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1730",
+    "vendor_id": "VEND-1730",
+    "amount": 1407.17,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1731",
+    "vendor_id": "VEND-1731",
+    "amount": 13143.7,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1732",
+    "vendor_id": "VEND-1732",
+    "amount": 5226.78,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1733",
+    "vendor_id": "VEND-1733",
+    "amount": 4304.12,
+    "date": "2025-09-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1734",
+    "vendor_id": "VEND-1734",
+    "amount": 8151.87,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1735",
+    "vendor_id": "VEND-1735",
+    "amount": 9156.08,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1736",
+    "vendor_id": "VEND-1736",
+    "amount": 9011.57,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1737",
+    "vendor_id": "VEND-1737",
+    "amount": 12760.01,
+    "date": "2025-07-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1738",
+    "vendor_id": "VEND-1738",
+    "amount": 12299.2,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1739",
+    "vendor_id": "VEND-1739",
+    "amount": 4812.95,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1740",
+    "vendor_id": "VEND-1740",
+    "amount": 1728.9,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1741",
+    "vendor_id": "VEND-1741",
+    "amount": 2208.99,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1742",
+    "vendor_id": "VEND-1742",
+    "amount": 3154.15,
+    "date": "2025-08-29",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1743",
+    "vendor_id": "VEND-1743",
+    "amount": 7906.96,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1744",
+    "vendor_id": "VEND-1744",
+    "amount": 2499.08,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1745",
+    "vendor_id": "VEND-1745",
+    "amount": 3193.43,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1746",
+    "vendor_id": "VEND-1746",
+    "amount": 10554.78,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1747",
+    "vendor_id": "VEND-1747",
+    "amount": 14998.54,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1748",
+    "vendor_id": "VEND-1748",
+    "amount": 7599.81,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1749",
+    "vendor_id": "VEND-1749",
+    "amount": 5061.41,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1750",
+    "vendor_id": "VEND-1750",
+    "amount": 1277.36,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1751",
+    "vendor_id": "VEND-1751",
+    "amount": 638.96,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1752",
+    "vendor_id": "VEND-1752",
+    "amount": 12320.63,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1753",
+    "vendor_id": "VEND-1753",
+    "amount": 7828.85,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1754",
+    "vendor_id": "VEND-1754",
+    "amount": 10428.1,
+    "date": "2025-09-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1755",
+    "vendor_id": "VEND-1755",
+    "amount": 12678.43,
+    "date": "2025-08-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1756",
+    "vendor_id": "VEND-1756",
+    "amount": 1698.72,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1757",
+    "vendor_id": "VEND-1757",
+    "amount": 11535.32,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1758",
+    "vendor_id": "VEND-1758",
+    "amount": 4485.37,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1759",
+    "vendor_id": "VEND-1759",
+    "amount": 2939.03,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1760",
+    "vendor_id": "VEND-1760",
+    "amount": 11266.51,
+    "date": "2025-08-07",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1761",
+    "vendor_id": "VEND-1761",
+    "amount": 8471.03,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1762",
+    "vendor_id": "VEND-1762",
+    "amount": 2156.0,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1763",
+    "vendor_id": "VEND-1763",
+    "amount": 12437.6,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1764",
+    "vendor_id": "VEND-1764",
+    "amount": 12427.86,
+    "date": "2025-08-05",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1765",
+    "vendor_id": "VEND-1765",
+    "amount": 10925.21,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1766",
+    "vendor_id": "VEND-1766",
+    "amount": 14851.75,
+    "date": "2025-07-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1767",
+    "vendor_id": "VEND-1767",
+    "amount": 12536.03,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1768",
+    "vendor_id": "VEND-1768",
+    "amount": 4816.78,
+    "date": "2025-09-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1769",
+    "vendor_id": "VEND-1769",
+    "amount": 7021.12,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1770",
+    "vendor_id": "VEND-1770",
+    "amount": 12342.56,
+    "date": "2025-07-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1771",
+    "vendor_id": "VEND-1771",
+    "amount": 14912.39,
+    "date": "2025-08-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1772",
+    "vendor_id": "VEND-1772",
+    "amount": 3935.72,
+    "date": "2025-09-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1773",
+    "vendor_id": "VEND-1773",
+    "amount": 9024.9,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1774",
+    "vendor_id": "VEND-1774",
+    "amount": 10805.93,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1775",
+    "vendor_id": "VEND-1775",
+    "amount": 2906.73,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1776",
+    "vendor_id": "VEND-1776",
+    "amount": 3495.99,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1777",
+    "vendor_id": "VEND-1777",
+    "amount": 1360.69,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1778",
+    "vendor_id": "VEND-1778",
+    "amount": 4575.73,
+    "date": "2025-08-09",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1779",
+    "vendor_id": "VEND-1779",
+    "amount": 5192.98,
+    "date": "2025-09-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1780",
+    "vendor_id": "VEND-1780",
+    "amount": 4695.33,
+    "date": "2025-09-05",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1781",
+    "vendor_id": "VEND-1781",
+    "amount": 12941.24,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1782",
+    "vendor_id": "VEND-1782",
+    "amount": 10349.84,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1783",
+    "vendor_id": "VEND-1783",
+    "amount": 14460.19,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1784",
+    "vendor_id": "VEND-1784",
+    "amount": 13822.15,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1785",
+    "vendor_id": "VEND-1785",
+    "amount": 13072.19,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1786",
+    "vendor_id": "VEND-1786",
+    "amount": 13058.14,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1787",
+    "vendor_id": "VEND-1787",
+    "amount": 10815.23,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1788",
+    "vendor_id": "VEND-1788",
+    "amount": 11541.37,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1789",
+    "vendor_id": "VEND-1789",
+    "amount": 7597.15,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1790",
+    "vendor_id": "VEND-1790",
+    "amount": 4396.4,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1791",
+    "vendor_id": "VEND-1791",
+    "amount": 7053.88,
+    "date": "2025-07-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1792",
+    "vendor_id": "VEND-1792",
+    "amount": 13261.81,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1793",
+    "vendor_id": "VEND-1793",
+    "amount": 7976.4,
+    "date": "2025-08-28",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1794",
+    "vendor_id": "VEND-1794",
+    "amount": 14076.87,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1795",
+    "vendor_id": "VEND-1795",
+    "amount": 14278.68,
+    "date": "2025-07-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1796",
+    "vendor_id": "VEND-1796",
+    "amount": 535.86,
+    "date": "2025-09-07",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1797",
+    "vendor_id": "VEND-1797",
+    "amount": 11124.5,
+    "date": "2025-08-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1798",
+    "vendor_id": "VEND-1798",
+    "amount": 7147.51,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1799",
+    "vendor_id": "VEND-1799",
+    "amount": 5694.23,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1800",
+    "vendor_id": "VEND-1800",
+    "amount": 8249.15,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1801",
+    "vendor_id": "VEND-1801",
+    "amount": 6729.82,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1802",
+    "vendor_id": "VEND-1802",
+    "amount": 4393.78,
+    "date": "2025-09-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1803",
+    "vendor_id": "VEND-1803",
+    "amount": 5397.45,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1804",
+    "vendor_id": "VEND-1804",
+    "amount": 8709.06,
+    "date": "2025-09-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1805",
+    "vendor_id": "VEND-1805",
+    "amount": 5484.22,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1806",
+    "vendor_id": "VEND-1806",
+    "amount": 1201.93,
+    "date": "2025-08-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1807",
+    "vendor_id": "VEND-1807",
+    "amount": 11866.4,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1808",
+    "vendor_id": "VEND-1808",
+    "amount": 2301.44,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1809",
+    "vendor_id": "VEND-1809",
+    "amount": 6898.65,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1810",
+    "vendor_id": "VEND-1810",
+    "amount": 14391.46,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1811",
+    "vendor_id": "VEND-1811",
+    "amount": 10484.58,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1812",
+    "vendor_id": "VEND-1812",
+    "amount": 9924.96,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1813",
+    "vendor_id": "VEND-1813",
+    "amount": 14024.52,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1814",
+    "vendor_id": "VEND-1814",
+    "amount": 9991.53,
+    "date": "2025-09-12",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1815",
+    "vendor_id": "VEND-1815",
+    "amount": 5891.73,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1816",
+    "vendor_id": "VEND-1816",
+    "amount": 2900.11,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1817",
+    "vendor_id": "VEND-1817",
+    "amount": 4929.88,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1818",
+    "vendor_id": "VEND-1818",
+    "amount": 3895.09,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1819",
+    "vendor_id": "VEND-1819",
+    "amount": 10703.62,
+    "date": "2025-09-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1820",
+    "vendor_id": "VEND-1820",
+    "amount": 7413.7,
+    "date": "2025-09-23",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1821",
+    "vendor_id": "VEND-1821",
+    "amount": 3779.77,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1822",
+    "vendor_id": "VEND-1822",
+    "amount": 634.66,
+    "date": "2025-07-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1823",
+    "vendor_id": "VEND-1823",
+    "amount": 12348.08,
+    "date": "2025-08-12",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1824",
+    "vendor_id": "VEND-1824",
+    "amount": 6623.55,
+    "date": "2025-07-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1825",
+    "vendor_id": "VEND-1825",
+    "amount": 1527.01,
+    "date": "2025-09-30",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1826",
+    "vendor_id": "VEND-1826",
+    "amount": 11096.07,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1827",
+    "vendor_id": "VEND-1827",
+    "amount": 5043.6,
+    "date": "2025-09-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1828",
+    "vendor_id": "VEND-1828",
+    "amount": 2488.37,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1829",
+    "vendor_id": "VEND-1829",
+    "amount": 11420.79,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1830",
+    "vendor_id": "VEND-1830",
+    "amount": 14897.63,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1831",
+    "vendor_id": "VEND-1831",
+    "amount": 8192.37,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1832",
+    "vendor_id": "VEND-1832",
+    "amount": 9925.29,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1833",
+    "vendor_id": "VEND-1833",
+    "amount": 10975.26,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1834",
+    "vendor_id": "VEND-1834",
+    "amount": 2694.92,
+    "date": "2025-08-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1835",
+    "vendor_id": "VEND-1835",
+    "amount": 10455.21,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1836",
+    "vendor_id": "VEND-1836",
+    "amount": 1756.98,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1837",
+    "vendor_id": "VEND-1837",
+    "amount": 11410.46,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1838",
+    "vendor_id": "VEND-1838",
+    "amount": 6068.46,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1839",
+    "vendor_id": "VEND-1839",
+    "amount": 5060.3,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1840",
+    "vendor_id": "VEND-1840",
+    "amount": 4516.03,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1841",
+    "vendor_id": "VEND-1841",
+    "amount": 8524.25,
+    "date": "2025-09-07",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1842",
+    "vendor_id": "VEND-1842",
+    "amount": 9310.1,
+    "date": "2025-09-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1843",
+    "vendor_id": "VEND-1843",
+    "amount": 10511.9,
+    "date": "2025-08-05",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1844",
+    "vendor_id": "VEND-1844",
+    "amount": 10046.88,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1845",
+    "vendor_id": "VEND-1845",
+    "amount": 8007.36,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1846",
+    "vendor_id": "VEND-1846",
+    "amount": 11343.73,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1847",
+    "vendor_id": "VEND-1847",
+    "amount": 1291.25,
+    "date": "2025-08-07",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1848",
+    "vendor_id": "VEND-1848",
+    "amount": 14342.74,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1849",
+    "vendor_id": "VEND-1849",
+    "amount": 2134.78,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1850",
+    "vendor_id": "VEND-1850",
+    "amount": 9111.98,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1851",
+    "vendor_id": "VEND-1851",
+    "amount": 14676.61,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1852",
+    "vendor_id": "VEND-1852",
+    "amount": 14041.9,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1853",
+    "vendor_id": "VEND-1853",
+    "amount": 12981.8,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1854",
+    "vendor_id": "VEND-1854",
+    "amount": 5798.48,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1855",
+    "vendor_id": "VEND-1855",
+    "amount": 11559.53,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1856",
+    "vendor_id": "VEND-1856",
+    "amount": 11670.32,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1857",
+    "vendor_id": "VEND-1857",
+    "amount": 1479.22,
+    "date": "2025-07-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1858",
+    "vendor_id": "VEND-1858",
+    "amount": 1077.49,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1859",
+    "vendor_id": "VEND-1859",
+    "amount": 11944.7,
+    "date": "2025-09-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1860",
+    "vendor_id": "VEND-1860",
+    "amount": 9614.28,
+    "date": "2025-07-23",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1861",
+    "vendor_id": "VEND-1861",
+    "amount": 6523.76,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1862",
+    "vendor_id": "VEND-1862",
+    "amount": 1695.2,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1863",
+    "vendor_id": "VEND-1863",
+    "amount": 9432.68,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1864",
+    "vendor_id": "VEND-1864",
+    "amount": 4993.65,
+    "date": "2025-08-09",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1865",
+    "vendor_id": "VEND-1865",
+    "amount": 3446.36,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1866",
+    "vendor_id": "VEND-1866",
+    "amount": 8277.66,
+    "date": "2025-08-07",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1867",
+    "vendor_id": "VEND-1867",
+    "amount": 9697.27,
+    "date": "2025-08-29",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1868",
+    "vendor_id": "VEND-1868",
+    "amount": 10375.31,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1869",
+    "vendor_id": "VEND-1869",
+    "amount": 10630.8,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1870",
+    "vendor_id": "VEND-1870",
+    "amount": 12773.79,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1871",
+    "vendor_id": "VEND-1871",
+    "amount": 1750.09,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1872",
+    "vendor_id": "VEND-1872",
+    "amount": 7073.89,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1873",
+    "vendor_id": "VEND-1873",
+    "amount": 4984.71,
+    "date": "2025-10-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1874",
+    "vendor_id": "VEND-1874",
+    "amount": 11239.54,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1875",
+    "vendor_id": "VEND-1875",
+    "amount": 10764.56,
+    "date": "2025-07-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1876",
+    "vendor_id": "VEND-1876",
+    "amount": 2875.57,
+    "date": "2025-08-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1877",
+    "vendor_id": "VEND-1877",
+    "amount": 8083.58,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1878",
+    "vendor_id": "VEND-1878",
+    "amount": 10951.1,
+    "date": "2025-10-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1879",
+    "vendor_id": "VEND-1879",
+    "amount": 2340.49,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1880",
+    "vendor_id": "VEND-1880",
+    "amount": 4397.09,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1881",
+    "vendor_id": "VEND-1881",
+    "amount": 11685.74,
+    "date": "2025-08-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1882",
+    "vendor_id": "VEND-1882",
+    "amount": 12203.06,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1883",
+    "vendor_id": "VEND-1883",
+    "amount": 1426.14,
+    "date": "2025-07-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1884",
+    "vendor_id": "VEND-1884",
+    "amount": 8861.45,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1885",
+    "vendor_id": "VEND-1885",
+    "amount": 7100.37,
+    "date": "2025-09-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1886",
+    "vendor_id": "VEND-1886",
+    "amount": 7744.35,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1887",
+    "vendor_id": "VEND-1887",
+    "amount": 5831.47,
+    "date": "2025-07-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1888",
+    "vendor_id": "VEND-1888",
+    "amount": 1992.12,
+    "date": "2025-07-29",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1889",
+    "vendor_id": "VEND-1889",
+    "amount": 10980.29,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1890",
+    "vendor_id": "VEND-1890",
+    "amount": 7877.96,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1891",
+    "vendor_id": "VEND-1891",
+    "amount": 13012.46,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1892",
+    "vendor_id": "VEND-1892",
+    "amount": 7340.59,
+    "date": "2025-08-16",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1893",
+    "vendor_id": "VEND-1893",
+    "amount": 2676.23,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1894",
+    "vendor_id": "VEND-1894",
+    "amount": 12933.54,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1895",
+    "vendor_id": "VEND-1895",
+    "amount": 13752.24,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1896",
+    "vendor_id": "VEND-1896",
+    "amount": 6580.85,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1897",
+    "vendor_id": "VEND-1897",
+    "amount": 6535.72,
+    "date": "2025-09-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1898",
+    "vendor_id": "VEND-1898",
+    "amount": 4433.24,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1899",
+    "vendor_id": "VEND-1899",
+    "amount": 5905.72,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1900",
+    "vendor_id": "VEND-1900",
+    "amount": 13578.14,
+    "date": "2025-10-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1901",
+    "vendor_id": "VEND-1901",
+    "amount": 12162.9,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1902",
+    "vendor_id": "VEND-1902",
+    "amount": 14334.15,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1903",
+    "vendor_id": "VEND-1903",
+    "amount": 7243.87,
+    "date": "2025-07-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1904",
+    "vendor_id": "VEND-1904",
+    "amount": 12750.27,
+    "date": "2025-08-23",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1905",
+    "vendor_id": "VEND-1905",
+    "amount": 8519.83,
+    "date": "2025-08-23",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1906",
+    "vendor_id": "VEND-1906",
+    "amount": 3409.73,
+    "date": "2025-08-29",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1907",
+    "vendor_id": "VEND-1907",
+    "amount": 4906.68,
+    "date": "2025-08-11",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1908",
+    "vendor_id": "VEND-1908",
+    "amount": 7226.94,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1909",
+    "vendor_id": "VEND-1909",
+    "amount": 7653.73,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1910",
+    "vendor_id": "VEND-1910",
+    "amount": 3333.63,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1911",
+    "vendor_id": "VEND-1911",
+    "amount": 11526.99,
+    "date": "2025-10-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1912",
+    "vendor_id": "VEND-1912",
+    "amount": 592.48,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1913",
+    "vendor_id": "VEND-1913",
+    "amount": 3878.47,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1914",
+    "vendor_id": "VEND-1914",
+    "amount": 12673.82,
+    "date": "2025-10-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1915",
+    "vendor_id": "VEND-1915",
+    "amount": 14289.36,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1916",
+    "vendor_id": "VEND-1916",
+    "amount": 10030.91,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1917",
+    "vendor_id": "VEND-1917",
+    "amount": 11044.62,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1918",
+    "vendor_id": "VEND-1918",
+    "amount": 8182.31,
+    "date": "2025-09-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1919",
+    "vendor_id": "VEND-1919",
+    "amount": 7634.42,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1920",
+    "vendor_id": "VEND-1920",
+    "amount": 14955.91,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1921",
+    "vendor_id": "VEND-1921",
+    "amount": 1848.89,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1922",
+    "vendor_id": "VEND-1922",
+    "amount": 13510.67,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1923",
+    "vendor_id": "VEND-1923",
+    "amount": 10662.28,
+    "date": "2025-08-25",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1924",
+    "vendor_id": "VEND-1924",
+    "amount": 14631.04,
+    "date": "2025-09-11",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1925",
+    "vendor_id": "VEND-1925",
+    "amount": 1885.87,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1926",
+    "vendor_id": "VEND-1926",
+    "amount": 12389.46,
+    "date": "2025-10-01",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1927",
+    "vendor_id": "VEND-1927",
+    "amount": 8733.4,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1928",
+    "vendor_id": "VEND-1928",
+    "amount": 14481.16,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1929",
+    "vendor_id": "VEND-1929",
+    "amount": 4284.37,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1930",
+    "vendor_id": "VEND-1930",
+    "amount": 12111.84,
+    "date": "2025-08-02",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1931",
+    "vendor_id": "VEND-1931",
+    "amount": 11162.62,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1932",
+    "vendor_id": "VEND-1932",
+    "amount": 4443.36,
+    "date": "2025-08-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1933",
+    "vendor_id": "VEND-1933",
+    "amount": 3439.33,
+    "date": "2025-09-29",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1934",
+    "vendor_id": "VEND-1934",
+    "amount": 8978.27,
+    "date": "2025-08-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1935",
+    "vendor_id": "VEND-1935",
+    "amount": 2883.44,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1936",
+    "vendor_id": "VEND-1936",
+    "amount": 6394.43,
+    "date": "2025-07-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1937",
+    "vendor_id": "VEND-1937",
+    "amount": 14487.2,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1938",
+    "vendor_id": "VEND-1938",
+    "amount": 4970.46,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1939",
+    "vendor_id": "VEND-1939",
+    "amount": 2238.75,
+    "date": "2025-07-28",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1940",
+    "vendor_id": "VEND-1940",
+    "amount": 10447.8,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1941",
+    "vendor_id": "VEND-1941",
+    "amount": 10604.73,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1942",
+    "vendor_id": "VEND-1942",
+    "amount": 12620.91,
+    "date": "2025-07-26",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1943",
+    "vendor_id": "VEND-1943",
+    "amount": 1822.59,
+    "date": "2025-08-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1944",
+    "vendor_id": "VEND-1944",
+    "amount": 5658.27,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1945",
+    "vendor_id": "VEND-1945",
+    "amount": 10319.16,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1946",
+    "vendor_id": "VEND-1946",
+    "amount": 14864.81,
+    "date": "2025-07-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1947",
+    "vendor_id": "VEND-1947",
+    "amount": 6363.69,
+    "date": "2025-08-10",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1948",
+    "vendor_id": "VEND-1948",
+    "amount": 11347.14,
+    "date": "2025-09-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1949",
+    "vendor_id": "VEND-1949",
+    "amount": 7199.63,
+    "date": "2025-08-15",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1950",
+    "vendor_id": "VEND-1950",
+    "amount": 2527.0,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1951",
+    "vendor_id": "VEND-1951",
+    "amount": 12540.4,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1952",
+    "vendor_id": "VEND-1952",
+    "amount": 2395.37,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1953",
+    "vendor_id": "VEND-1953",
+    "amount": 5897.48,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1954",
+    "vendor_id": "VEND-1954",
+    "amount": 9847.93,
+    "date": "2025-09-28",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1955",
+    "vendor_id": "VEND-1955",
+    "amount": 4252.9,
+    "date": "2025-09-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1956",
+    "vendor_id": "VEND-1956",
+    "amount": 816.1,
+    "date": "2025-09-09",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1957",
+    "vendor_id": "VEND-1957",
+    "amount": 13586.19,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1958",
+    "vendor_id": "VEND-1958",
+    "amount": 2367.48,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1959",
+    "vendor_id": "VEND-1959",
+    "amount": 12525.66,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1960",
+    "vendor_id": "VEND-1960",
+    "amount": 1119.1,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1961",
+    "vendor_id": "VEND-1961",
+    "amount": 2935.84,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1962",
+    "vendor_id": "VEND-1962",
+    "amount": 12414.44,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1963",
+    "vendor_id": "VEND-1963",
+    "amount": 927.49,
+    "date": "2025-09-04",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1964",
+    "vendor_id": "VEND-1964",
+    "amount": 3005.7,
+    "date": "2025-09-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1965",
+    "vendor_id": "VEND-1965",
+    "amount": 3213.69,
+    "date": "2025-09-22",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1966",
+    "vendor_id": "VEND-1966",
+    "amount": 13309.65,
+    "date": "2025-09-14",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1967",
+    "vendor_id": "VEND-1967",
+    "amount": 9478.06,
+    "date": "2025-07-25",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1968",
+    "vendor_id": "VEND-1968",
+    "amount": 4779.02,
+    "date": "2025-08-27",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1969",
+    "vendor_id": "VEND-1969",
+    "amount": 8484.99,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1970",
+    "vendor_id": "VEND-1970",
+    "amount": 4556.75,
+    "date": "2025-09-24",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1971",
+    "vendor_id": "VEND-1971",
+    "amount": 3392.14,
+    "date": "2025-08-09",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1972",
+    "vendor_id": "VEND-1972",
+    "amount": 8124.3,
+    "date": "2025-08-31",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1973",
+    "vendor_id": "VEND-1973",
+    "amount": 12131.44,
+    "date": "2025-08-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1974",
+    "vendor_id": "VEND-1974",
+    "amount": 14846.35,
+    "date": "2025-09-18",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1975",
+    "vendor_id": "VEND-1975",
+    "amount": 5707.13,
+    "date": "2025-09-19",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1976",
+    "vendor_id": "VEND-1976",
+    "amount": 7527.85,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1977",
+    "vendor_id": "VEND-1977",
+    "amount": 7784.7,
+    "date": "2025-08-22",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1978",
+    "vendor_id": "VEND-1978",
+    "amount": 3107.33,
+    "date": "2025-07-30",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1979",
+    "vendor_id": "VEND-1979",
+    "amount": 3675.79,
+    "date": "2025-09-08",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1980",
+    "vendor_id": "VEND-1980",
+    "amount": 11788.81,
+    "date": "2025-09-13",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1981",
+    "vendor_id": "VEND-1981",
+    "amount": 14877.2,
+    "date": "2025-07-21",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1982",
+    "vendor_id": "VEND-1982",
+    "amount": 11619.21,
+    "date": "2025-07-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1983",
+    "vendor_id": "VEND-1983",
+    "amount": 14622.71,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1984",
+    "vendor_id": "VEND-1984",
+    "amount": 10024.53,
+    "date": "2025-07-31",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1985",
+    "vendor_id": "VEND-1985",
+    "amount": 12336.13,
+    "date": "2025-09-03",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1986",
+    "vendor_id": "VEND-1986",
+    "amount": 1310.68,
+    "date": "2025-08-30",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1987",
+    "vendor_id": "VEND-1987",
+    "amount": 3681.47,
+    "date": "2025-09-02",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1988",
+    "vendor_id": "VEND-1988",
+    "amount": 12062.16,
+    "date": "2025-08-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1989",
+    "vendor_id": "VEND-1989",
+    "amount": 12668.72,
+    "date": "2025-07-23",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1990",
+    "vendor_id": "VEND-1990",
+    "amount": 3053.46,
+    "date": "2025-09-26",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1991",
+    "vendor_id": "VEND-1991",
+    "amount": 12190.05,
+    "date": "2025-09-01",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1992",
+    "vendor_id": "VEND-1992",
+    "amount": 13752.71,
+    "date": "2025-08-16",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1993",
+    "vendor_id": "VEND-1993",
+    "amount": 10658.13,
+    "date": "2025-08-08",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-1994",
+    "vendor_id": "VEND-1994",
+    "amount": 8672.29,
+    "date": "2025-08-17",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1995",
+    "vendor_id": "VEND-1995",
+    "amount": 3229.39,
+    "date": "2025-08-12",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1996",
+    "vendor_id": "VEND-1996",
+    "amount": 13283.58,
+    "date": "2025-07-20",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1997",
+    "vendor_id": "VEND-1997",
+    "amount": 4981.27,
+    "date": "2025-09-03",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1998",
+    "vendor_id": "VEND-1998",
+    "amount": 1808.73,
+    "date": "2025-08-06",
+    "category": "invoice",
+    "discount_terms": ""
+  },
+  {
+    "invoice_id": "INV-1999",
+    "vendor_id": "VEND-1999",
+    "amount": 3672.73,
+    "date": "2025-09-07",
+    "category": "invoice",
+    "discount_terms": "2% if paid within 10 days"
+  },
+  {
+    "invoice_id": "INV-2000",
+    "vendor_id": "VEND-2000",
+    "amount": 509.91,
+    "date": "2025-09-16",
+    "category": "invoice",
+    "discount_terms": ""
+  }
+]
